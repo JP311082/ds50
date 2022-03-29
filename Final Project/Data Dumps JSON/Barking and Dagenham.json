@@ -1,0 +1,2944 @@
+[
+    {
+        "identifier": 105384635,
+        "visible": true,
+        "price": 1600000.0,
+        "priceQualifier": "",
+        "shouldShowPrice": true,
+        "bedrooms": null,
+        "address": "Essex",
+        "latitude": 51.53653,
+        "longitude": 0.08091,
+        "showMap": false,
+        "propertyType": "House",
+        "development": false,
+        "commercial": false,
+        "updateDate": 1644242534000,
+        "autoEmailReasonType": "new",
+        "transactionTypeId": 1,
+        "sortDate": 1618225925000,
+        "photoThumbnailUrl": "https://media.rightmove.co.uk/dir/230k/229550/105384635/229550_portfolioilford1_IMG_00_0000_max_200x138.jpeg",
+        "photoLargeThumbnailUrl": "https://media.rightmove.co.uk/dir/230k/229550/105384635/229550_portfolioilford1_IMG_00_0000_max_656x437.jpeg",
+        "photoCount": 2,
+        "floorplanCount": 0,
+        "branch": {
+            "identifier": 229550,
+            "name": "Essex",
+            "brandName": "Stratstone Estates",
+            "development": false,
+            "updateDate": 1644242534000,
+            "branchLogo": "https://media.rightmove.co.uk/dir//230k/229550/branch_rmchoice_logo_229550_0001.jpeg",
+            "brandPlusResale": true,
+            "brandPlusLettings": true,
+            "hideReducedPropsFlag": false,
+            "address": "157 High Street,\r\nOngar,\r\nCM5 9JD",
+            "telephoneNumbers": [
+                {
+                    "identifier": null,
+                    "label": null,
+                    "number": "01277 577008",
+                    "main": null
+                }
+            ],
+            "contactTelephoneNumber": "01277 577008"
+        },
+        "exactLocationAvailable": true,
+        "status": null,
+        "dateShortlisted": null,
+        "premiumDisplay": false,
+        "premiumDisplayStickerName": "",
+        "premiumDisplayStyle": 26,
+        "photoThumbnail2Url": null,
+        "photoThumbnail3Url": null,
+        "photoThumbnail4Url": null,
+        "orderFromServer": 0,
+        "showStreetView": false,
+        "overseas": false,
+        "letFurnishType": null,
+        "summary": "Prime investment opportunity comprising of 1x shop, 2x one bedroom apartments and 2x two bedroom apartments. All properties are currently tenanted, lease and tenancy details are available on request.",
+        "showLettingFeesMessage": false,
+        "saved": false,
+        "hidden": false,
+        "displayPrices": [
+            {
+                "displayPrice": "\u00a31,600,000",
+                "displayPriceQualifier": ""
+            }
+        ],
+        "onlineViewing": false,
+        "buildToRent": false,
+        "thumbnailPhotos": [
+            {
+                "url": "https://media.rightmove.co.uk/dir/230k/229550/105384635/229550_portfolioilford1_IMG_00_0000_max_656x437.jpeg"
+            },
+            {
+                "url": "https://media.rightmove.co.uk/dir/230k/229550/105384635/229550_portfolioilford1_IMG_01_0000_max_656x437.jpeg"
+            }
+        ],
+        "keywords": []
+    },
+    {
+        "identifier": 81529251,
+        "visible": true,
+        "price": 1500000.0,
+        "priceQualifier": "Offers in Excess of",
+        "shouldShowPrice": true,
+        "bedrooms": null,
+        "address": "London",
+        "latitude": 51.52517,
+        "longitude": 0.1173,
+        "showMap": false,
+        "propertyType": "House",
+        "development": false,
+        "commercial": false,
+        "updateDate": 1644242534000,
+        "autoEmailReasonType": "new",
+        "transactionTypeId": 1,
+        "sortDate": 1629801183000,
+        "photoThumbnailUrl": "https://media.rightmove.co.uk/dir/230k/229550/81529251/229550_Barking_IMG_06_0000_max_200x138.jpeg",
+        "photoLargeThumbnailUrl": "https://media.rightmove.co.uk/dir/230k/229550/81529251/229550_Barking_IMG_06_0000_max_656x437.jpeg",
+        "photoCount": 6,
+        "floorplanCount": 0,
+        "branch": {
+            "identifier": 229550,
+            "name": "Essex",
+            "brandName": "Stratstone Estates",
+            "development": false,
+            "updateDate": 1644242534000,
+            "branchLogo": "https://media.rightmove.co.uk/dir//230k/229550/branch_rmchoice_logo_229550_0001.jpeg",
+            "brandPlusResale": true,
+            "brandPlusLettings": true,
+            "hideReducedPropsFlag": false,
+            "address": "157 High Street,\r\nOngar,\r\nCM5 9JD",
+            "telephoneNumbers": [
+                {
+                    "identifier": null,
+                    "label": null,
+                    "number": "01277 577008",
+                    "main": null
+                }
+            ],
+            "contactTelephoneNumber": "01277 577008"
+        },
+        "exactLocationAvailable": true,
+        "status": null,
+        "dateShortlisted": null,
+        "premiumDisplay": false,
+        "premiumDisplayStickerName": "",
+        "premiumDisplayStyle": 26,
+        "photoThumbnail2Url": null,
+        "photoThumbnail3Url": null,
+        "photoThumbnail4Url": null,
+        "orderFromServer": 1,
+        "showStreetView": false,
+        "overseas": false,
+        "letFurnishType": null,
+        "summary": "An opportunity to acquire a portfolio of 5 properties within the London Borough of Barking & Dagenham. The portfolio consists of 3x Freehold houses and 2x Leasehold apartments.",
+        "showLettingFeesMessage": false,
+        "saved": false,
+        "hidden": false,
+        "displayPrices": [
+            {
+                "displayPrice": "\u00a31,500,000",
+                "displayPriceQualifier": "Offers in Excess of"
+            }
+        ],
+        "onlineViewing": false,
+        "buildToRent": false,
+        "thumbnailPhotos": [
+            {
+                "url": "https://media.rightmove.co.uk/dir/230k/229550/81529251/229550_Barking_IMG_06_0000_max_656x437.jpeg"
+            },
+            {
+                "url": "https://media.rightmove.co.uk/dir/230k/229550/81529251/229550_Barking_IMG_03_0000_max_656x437.jpeg"
+            },
+            {
+                "url": "https://media.rightmove.co.uk/dir/230k/229550/81529251/229550_Barking_IMG_04_0000_max_656x437.jpeg"
+            },
+            {
+                "url": "https://media.rightmove.co.uk/dir/230k/229550/81529251/229550_Barking_IMG_05_0000_max_656x437.jpeg"
+            },
+            {
+                "url": "https://media.rightmove.co.uk/dir/230k/229550/81529251/229550_Barking_IMG_01_0000_max_656x437.jpeg"
+            },
+            {
+                "url": "https://media.rightmove.co.uk/dir/230k/229550/81529251/229550_Barking_IMG_02_0000_max_656x437.jpeg"
+            }
+        ],
+        "keywords": []
+    },
+    {
+        "identifier": 115163123,
+        "visible": true,
+        "price": 1100000.0,
+        "priceQualifier": "",
+        "shouldShowPrice": true,
+        "bedrooms": 4,
+        "address": "Longbridge Road, Barking",
+        "latitude": 51.54349,
+        "longitude": 0.08873,
+        "showMap": true,
+        "propertyType": "detached house",
+        "development": false,
+        "commercial": false,
+        "updateDate": 1647274476000,
+        "autoEmailReasonType": "price_reduced",
+        "transactionTypeId": 1,
+        "sortDate": 1637583444000,
+        "photoThumbnailUrl": "https://media.rightmove.co.uk/dir/4k/3886/115163123/3886_BKG103113_IMG_05_0000_max_200x138.jpeg",
+        "photoLargeThumbnailUrl": "https://media.rightmove.co.uk/dir/4k/3886/115163123/3886_BKG103113_IMG_05_0000_max_656x437.jpeg",
+        "photoCount": 14,
+        "floorplanCount": 1,
+        "branch": {
+            "identifier": 3886,
+            "name": "Barking",
+            "brandName": "William H. Brown Incorporating Porter Glenny",
+            "development": false,
+            "updateDate": 1619188732000,
+            "branchLogo": "https://media.rightmove.co.uk/dir//brand/brand_rmchoice_logo_64352_0000.png",
+            "brandPlusResale": true,
+            "brandPlusLettings": false,
+            "hideReducedPropsFlag": false,
+            "address": "3 Faircross Parade, Longbridge Road\r\n\r\nBarking\r\nEssex, IG11 8UN",
+            "telephoneNumbers": [
+                {
+                    "identifier": null,
+                    "label": null,
+                    "number": "020 8012 2138",
+                    "main": null
+                }
+            ],
+            "contactTelephoneNumber": "020 8012 2138"
+        },
+        "exactLocationAvailable": true,
+        "status": null,
+        "dateShortlisted": null,
+        "premiumDisplay": true,
+        "premiumDisplayStickerName": "Close to Park",
+        "premiumDisplayStyle": 184,
+        "photoThumbnail2Url": "https://media.rightmove.co.uk/dir/4k/3886/115163123/3886_BKG103113_IMG_03_0000_max_200x138.jpeg",
+        "photoThumbnail3Url": "https://media.rightmove.co.uk/dir/4k/3886/115163123/3886_BKG103113_IMG_09_0000_max_200x138.jpeg",
+        "photoThumbnail4Url": "https://media.rightmove.co.uk/dir/4k/3886/115163123/3886_BKG103113_IMG_10_0000_max_200x138.jpeg",
+        "orderFromServer": 2,
+        "showStreetView": true,
+        "overseas": false,
+        "letFurnishType": null,
+        "summary": "AMAZING FOUR BEDROOM, FOUR RECEPTION DETACHED FAMILY HOME situated close to Barking Station, Bus Routes, Local Schools and Amenities and being opposite to Barking Park.",
+        "showLettingFeesMessage": false,
+        "saved": false,
+        "hidden": false,
+        "displayPrices": [
+            {
+                "displayPrice": "\u00a31,100,000",
+                "displayPriceQualifier": ""
+            }
+        ],
+        "onlineViewing": false,
+        "buildToRent": false,
+        "thumbnailPhotos": [
+            {
+                "url": "https://media.rightmove.co.uk/dir/4k/3886/115163123/3886_BKG103113_IMG_05_0000_max_656x437.jpeg"
+            },
+            {
+                "url": "https://media.rightmove.co.uk/dir/4k/3886/115163123/3886_BKG103113_IMG_03_0000_max_656x437.jpeg"
+            },
+            {
+                "url": "https://media.rightmove.co.uk/dir/4k/3886/115163123/3886_BKG103113_IMG_09_0000_max_656x437.jpeg"
+            },
+            {
+                "url": "https://media.rightmove.co.uk/dir/4k/3886/115163123/3886_BKG103113_IMG_10_0000_max_656x437.jpeg"
+            },
+            {
+                "url": "https://media.rightmove.co.uk/dir/4k/3886/115163123/3886_BKG103113_IMG_12_0000_max_656x437.jpeg"
+            },
+            {
+                "url": "https://media.rightmove.co.uk/dir/4k/3886/115163123/3886_BKG103113_IMG_02_0000_max_656x437.jpeg"
+            },
+            {
+                "url": "https://media.rightmove.co.uk/dir/4k/3886/115163123/3886_BKG103113_IMG_01_0000_max_656x437.jpeg"
+            },
+            {
+                "url": "https://media.rightmove.co.uk/dir/4k/3886/115163123/3886_BKG103113_IMG_08_0000_max_656x437.jpeg"
+            },
+            {
+                "url": "https://media.rightmove.co.uk/dir/4k/3886/115163123/3886_BKG103113_IMG_13_0000_max_656x437.jpeg"
+            },
+            {
+                "url": "https://media.rightmove.co.uk/dir/4k/3886/115163123/3886_BKG103113_IMG_07_0000_max_656x437.jpeg"
+            },
+            {
+                "url": "https://media.rightmove.co.uk/dir/4k/3886/115163123/3886_BKG103113_IMG_00_0000_max_656x437.jpeg"
+            },
+            {
+                "url": "https://media.rightmove.co.uk/dir/4k/3886/115163123/3886_BKG103113_IMG_11_0000_max_656x437.jpeg"
+            },
+            {
+                "url": "https://media.rightmove.co.uk/dir/4k/3886/115163123/3886_BKG103113_IMG_04_0000_max_656x437.jpeg"
+            },
+            {
+                "url": "https://media.rightmove.co.uk/dir/4k/3886/115163123/3886_BKG103113_IMG_06_0000_max_656x437.jpeg"
+            }
+        ],
+        "keywords": []
+    },
+    {
+        "identifier": 114835016,
+        "visible": true,
+        "price": 1100000.0,
+        "priceQualifier": "Offers in Excess of",
+        "shouldShowPrice": true,
+        "bedrooms": 4,
+        "address": "Longbridge Road, Barking, Essex, IG11",
+        "latitude": 51.54349,
+        "longitude": 0.08873,
+        "showMap": true,
+        "propertyType": "detached house",
+        "development": false,
+        "commercial": false,
+        "updateDate": 1644242519000,
+        "autoEmailReasonType": "price_reduced",
+        "transactionTypeId": 1,
+        "sortDate": 1637581704000,
+        "photoThumbnailUrl": "https://media.rightmove.co.uk/dir/153k/152342/114835016/152342_1345_IMG_14_0000_max_200x138.jpeg",
+        "photoLargeThumbnailUrl": "https://media.rightmove.co.uk/dir/153k/152342/114835016/152342_1345_IMG_14_0000_max_656x437.jpeg",
+        "photoCount": 15,
+        "floorplanCount": 1,
+        "branch": {
+            "identifier": 152342,
+            "name": "Ilford",
+            "brandName": "Hills Estate",
+            "development": false,
+            "updateDate": 1644242519000,
+            "branchLogo": "https://media.rightmove.co.uk/dir//company/clogo_rmchoice_48188_0001.png",
+            "brandPlusResale": true,
+            "brandPlusLettings": true,
+            "hideReducedPropsFlag": false,
+            "address": "209 - 211 Cranbrook Road,\r\nIlford,\r\nIG1 4TD",
+            "telephoneNumbers": [
+                {
+                    "identifier": null,
+                    "label": null,
+                    "number": "020 8012 6567",
+                    "main": null
+                }
+            ],
+            "contactTelephoneNumber": "020 8012 6567"
+        },
+        "exactLocationAvailable": true,
+        "status": null,
+        "dateShortlisted": null,
+        "premiumDisplay": false,
+        "premiumDisplayStickerName": "",
+        "premiumDisplayStyle": 26,
+        "photoThumbnail2Url": null,
+        "photoThumbnail3Url": null,
+        "photoThumbnail4Url": null,
+        "orderFromServer": 3,
+        "showStreetView": true,
+        "overseas": false,
+        "letFurnishType": null,
+        "summary": "Hills Estate are delighted to present this very large, detached family home. The property is located in a prime location near Barking Station and within walking distance to Barking town centre and directly opposite Barking Park. The property comprises of spacious through lounge, with two addition...",
+        "showLettingFeesMessage": false,
+        "saved": false,
+        "hidden": false,
+        "displayPrices": [
+            {
+                "displayPrice": "\u00a31,100,000",
+                "displayPriceQualifier": "Offers in Excess of"
+            }
+        ],
+        "onlineViewing": false,
+        "buildToRent": false,
+        "thumbnailPhotos": [
+            {
+                "url": "https://media.rightmove.co.uk/dir/153k/152342/114835016/152342_1345_IMG_14_0000_max_656x437.jpeg"
+            },
+            {
+                "url": "https://media.rightmove.co.uk/dir/153k/152342/114835016/152342_1345_IMG_00_0000_max_656x437.jpeg"
+            },
+            {
+                "url": "https://media.rightmove.co.uk/dir/153k/152342/114835016/152342_1345_IMG_01_0000_max_656x437.jpeg"
+            },
+            {
+                "url": "https://media.rightmove.co.uk/dir/153k/152342/114835016/152342_1345_IMG_02_0000_max_656x437.jpeg"
+            },
+            {
+                "url": "https://media.rightmove.co.uk/dir/153k/152342/114835016/152342_1345_IMG_03_0000_max_656x437.jpeg"
+            },
+            {
+                "url": "https://media.rightmove.co.uk/dir/153k/152342/114835016/152342_1345_IMG_04_0000_max_656x437.jpeg"
+            },
+            {
+                "url": "https://media.rightmove.co.uk/dir/153k/152342/114835016/152342_1345_IMG_05_0000_max_656x437.jpeg"
+            },
+            {
+                "url": "https://media.rightmove.co.uk/dir/153k/152342/114835016/152342_1345_IMG_06_0000_max_656x437.jpeg"
+            },
+            {
+                "url": "https://media.rightmove.co.uk/dir/153k/152342/114835016/152342_1345_IMG_07_0000_max_656x437.jpeg"
+            },
+            {
+                "url": "https://media.rightmove.co.uk/dir/153k/152342/114835016/152342_1345_IMG_08_0000_max_656x437.jpeg"
+            },
+            {
+                "url": "https://media.rightmove.co.uk/dir/153k/152342/114835016/152342_1345_IMG_09_0000_max_656x437.jpeg"
+            },
+            {
+                "url": "https://media.rightmove.co.uk/dir/153k/152342/114835016/152342_1345_IMG_10_0000_max_656x437.jpeg"
+            },
+            {
+                "url": "https://media.rightmove.co.uk/dir/153k/152342/114835016/152342_1345_IMG_11_0000_max_656x437.jpeg"
+            },
+            {
+                "url": "https://media.rightmove.co.uk/dir/153k/152342/114835016/152342_1345_IMG_12_0000_max_656x437.jpeg"
+            },
+            {
+                "url": "https://media.rightmove.co.uk/dir/153k/152342/114835016/152342_1345_IMG_13_0000_max_656x437.jpeg"
+            }
+        ],
+        "keywords": []
+    },
+    {
+        "identifier": 114550223,
+        "visible": true,
+        "price": 1100000.0,
+        "priceQualifier": "Offers in Excess of",
+        "shouldShowPrice": true,
+        "bedrooms": 4,
+        "address": "Longbridge Road, Barking, Essex, IG11 ",
+        "latitude": 51.54342,
+        "longitude": 0.088582,
+        "showMap": true,
+        "propertyType": "detached house",
+        "development": false,
+        "commercial": false,
+        "updateDate": 1646155462000,
+        "autoEmailReasonType": "price_reduced",
+        "transactionTypeId": 1,
+        "sortDate": 1637593904000,
+        "photoThumbnailUrl": "https://media.rightmove.co.uk/dir/14k/13345/114550223/13345_31012546_IMG_00_0000_max_200x138.jpeg",
+        "photoLargeThumbnailUrl": "https://media.rightmove.co.uk/dir/14k/13345/114550223/13345_31012546_IMG_00_0000_max_656x437.jpeg",
+        "photoCount": 22,
+        "floorplanCount": 2,
+        "branch": {
+            "identifier": 13345,
+            "name": "Seven Kings",
+            "brandName": "Sandra Davidson Estate Agents",
+            "development": false,
+            "updateDate": 1646155462000,
+            "branchLogo": "https://media.rightmove.co.uk/dir//company/clogo_rmchoice_4927_0001.jpeg",
+            "brandPlusResale": true,
+            "brandPlusLettings": true,
+            "hideReducedPropsFlag": false,
+            "address": "353 Green Lane, Seven Kings,\r\nIlford,\r\nIG3 9TH",
+            "telephoneNumbers": [
+                {
+                    "identifier": null,
+                    "label": null,
+                    "number": "020 8012 0941",
+                    "main": null
+                }
+            ],
+            "contactTelephoneNumber": "020 8012 0941"
+        },
+        "exactLocationAvailable": true,
+        "status": null,
+        "dateShortlisted": null,
+        "premiumDisplay": false,
+        "premiumDisplayStickerName": "",
+        "premiumDisplayStyle": 26,
+        "photoThumbnail2Url": null,
+        "photoThumbnail3Url": null,
+        "photoThumbnail4Url": null,
+        "orderFromServer": 4,
+        "showStreetView": true,
+        "overseas": false,
+        "letFurnishType": null,
+        "summary": "GARAGE/ANNEX - OFF STREET PARKING - LARGE FAMILY HOUSE - SIDE AND REAR ACCESS Sandra Davidson Estate Agents are pleased to present this larger than large, detached family house. The property is located in a prime location near Barking Station and within walking distance to Barking town centre an...",
+        "showLettingFeesMessage": false,
+        "saved": false,
+        "hidden": false,
+        "displayPrices": [
+            {
+                "displayPrice": "\u00a31,100,000",
+                "displayPriceQualifier": "Offers in Excess of"
+            }
+        ],
+        "onlineViewing": false,
+        "buildToRent": false,
+        "thumbnailPhotos": [
+            {
+                "url": "https://media.rightmove.co.uk/dir/14k/13345/114550223/13345_31012546_IMG_00_0000_max_656x437.jpeg"
+            },
+            {
+                "url": "https://media.rightmove.co.uk/dir/14k/13345/114550223/13345_31012546_IMG_01_0000_max_656x437.jpeg"
+            },
+            {
+                "url": "https://media.rightmove.co.uk/dir/14k/13345/114550223/13345_31012546_IMG_02_0000_max_656x437.jpeg"
+            },
+            {
+                "url": "https://media.rightmove.co.uk/dir/14k/13345/114550223/13345_31012546_IMG_03_0000_max_656x437.jpeg"
+            },
+            {
+                "url": "https://media.rightmove.co.uk/dir/14k/13345/114550223/13345_31012546_IMG_04_0000_max_656x437.jpeg"
+            },
+            {
+                "url": "https://media.rightmove.co.uk/dir/14k/13345/114550223/13345_31012546_IMG_05_0000_max_656x437.jpeg"
+            },
+            {
+                "url": "https://media.rightmove.co.uk/dir/14k/13345/114550223/13345_31012546_IMG_06_0000_max_656x437.jpeg"
+            },
+            {
+                "url": "https://media.rightmove.co.uk/dir/14k/13345/114550223/13345_31012546_IMG_07_0000_max_656x437.jpeg"
+            },
+            {
+                "url": "https://media.rightmove.co.uk/dir/14k/13345/114550223/13345_31012546_IMG_08_0000_max_656x437.jpeg"
+            },
+            {
+                "url": "https://media.rightmove.co.uk/dir/14k/13345/114550223/13345_31012546_IMG_09_0000_max_656x437.jpeg"
+            },
+            {
+                "url": "https://media.rightmove.co.uk/dir/14k/13345/114550223/13345_31012546_IMG_10_0000_max_656x437.jpeg"
+            },
+            {
+                "url": "https://media.rightmove.co.uk/dir/14k/13345/114550223/13345_31012546_IMG_11_0000_max_656x437.jpeg"
+            },
+            {
+                "url": "https://media.rightmove.co.uk/dir/14k/13345/114550223/13345_31012546_IMG_12_0000_max_656x437.jpeg"
+            },
+            {
+                "url": "https://media.rightmove.co.uk/dir/14k/13345/114550223/13345_31012546_IMG_13_0000_max_656x437.jpeg"
+            },
+            {
+                "url": "https://media.rightmove.co.uk/dir/14k/13345/114550223/13345_31012546_IMG_14_0000_max_656x437.jpeg"
+            },
+            {
+                "url": "https://media.rightmove.co.uk/dir/14k/13345/114550223/13345_31012546_IMG_15_0000_max_656x437.jpeg"
+            },
+            {
+                "url": "https://media.rightmove.co.uk/dir/14k/13345/114550223/13345_31012546_IMG_16_0000_max_656x437.jpeg"
+            },
+            {
+                "url": "https://media.rightmove.co.uk/dir/14k/13345/114550223/13345_31012546_IMG_17_0000_max_656x437.jpeg"
+            },
+            {
+                "url": "https://media.rightmove.co.uk/dir/14k/13345/114550223/13345_31012546_IMG_18_0000_max_656x437.jpeg"
+            },
+            {
+                "url": "https://media.rightmove.co.uk/dir/14k/13345/114550223/13345_31012546_IMG_19_0000_max_656x437.jpeg"
+            },
+            {
+                "url": "https://media.rightmove.co.uk/dir/14k/13345/114550223/13345_31012546_IMG_20_0000_max_656x437.jpeg"
+            },
+            {
+                "url": "https://media.rightmove.co.uk/dir/14k/13345/114550223/13345_31012546_IMG_21_0000_max_656x437.jpeg"
+            }
+        ],
+        "keywords": []
+    },
+    {
+        "identifier": 110516843,
+        "visible": true,
+        "price": 975000.0,
+        "priceQualifier": "",
+        "shouldShowPrice": true,
+        "bedrooms": 10,
+        "address": "Park Avenue, IG11, Ilford, Barking, IG11",
+        "latitude": 51.54248,
+        "longitude": 0.08333,
+        "showMap": true,
+        "propertyType": "house",
+        "development": false,
+        "commercial": false,
+        "updateDate": 1643356887000,
+        "autoEmailReasonType": "price_reduced",
+        "transactionTypeId": 1,
+        "sortDate": 1634583687000,
+        "photoThumbnailUrl": "https://media.rightmove.co.uk/dir/182k/181043/110516843/181043_1179162_IMG_02_0000_max_200x138.jpeg",
+        "photoLargeThumbnailUrl": "https://media.rightmove.co.uk/dir/182k/181043/110516843/181043_1179162_IMG_02_0000_max_656x437.jpeg",
+        "photoCount": 24,
+        "floorplanCount": 2,
+        "branch": {
+            "identifier": 181043,
+            "name": "Barking",
+            "brandName": "Foxtons",
+            "development": false,
+            "updateDate": 1605629051000,
+            "branchLogo": "https://media.rightmove.co.uk/dir//182k/181043/branch_rmchoice_logo_181043_0000.jpeg",
+            "brandPlusResale": true,
+            "brandPlusLettings": true,
+            "hideReducedPropsFlag": false,
+            "address": "1 Town Square,\r\nBarking,\r\nIG11 7LU",
+            "telephoneNumbers": [
+                {
+                    "identifier": null,
+                    "label": null,
+                    "number": "020 8012 7585",
+                    "main": null
+                }
+            ],
+            "contactTelephoneNumber": "020 8012 7585"
+        },
+        "exactLocationAvailable": true,
+        "status": null,
+        "dateShortlisted": null,
+        "premiumDisplay": false,
+        "premiumDisplayStickerName": "",
+        "premiumDisplayStyle": 26,
+        "photoThumbnail2Url": null,
+        "photoThumbnail3Url": null,
+        "photoThumbnail4Url": null,
+        "orderFromServer": 5,
+        "showStreetView": true,
+        "overseas": false,
+        "letFurnishType": null,
+        "summary": "Arranged over 3 floors, this impressive 10 bedroom property boasts multiple kitchens and shower rooms and 10 double bedrooms with a private garden to the rear, finished to an excellent standard throughout.",
+        "showLettingFeesMessage": false,
+        "saved": false,
+        "hidden": false,
+        "displayPrices": [
+            {
+                "displayPrice": "\u00a3975,000",
+                "displayPriceQualifier": ""
+            }
+        ],
+        "onlineViewing": false,
+        "buildToRent": false,
+        "thumbnailPhotos": [
+            {
+                "url": "https://media.rightmove.co.uk/dir/182k/181043/110516843/181043_1179162_IMG_02_0000_max_656x437.jpeg"
+            },
+            {
+                "url": "https://media.rightmove.co.uk/dir/182k/181043/110516843/181043_1179162_IMG_00_0000_max_656x437.jpeg"
+            },
+            {
+                "url": "https://media.rightmove.co.uk/dir/182k/181043/110516843/181043_1179162_IMG_01_0000_max_656x437.jpeg"
+            },
+            {
+                "url": "https://media.rightmove.co.uk/dir/182k/181043/110516843/181043_1179162_IMG_03_0000_max_656x437.jpeg"
+            },
+            {
+                "url": "https://media.rightmove.co.uk/dir/182k/181043/110516843/181043_1179162_IMG_04_0000_max_656x437.jpeg"
+            },
+            {
+                "url": "https://media.rightmove.co.uk/dir/182k/181043/110516843/181043_1179162_IMG_05_0000_max_656x437.jpeg"
+            },
+            {
+                "url": "https://media.rightmove.co.uk/dir/182k/181043/110516843/181043_1179162_IMG_06_0000_max_656x437.jpeg"
+            },
+            {
+                "url": "https://media.rightmove.co.uk/dir/182k/181043/110516843/181043_1179162_IMG_07_0000_max_656x437.jpeg"
+            },
+            {
+                "url": "https://media.rightmove.co.uk/dir/182k/181043/110516843/181043_1179162_IMG_08_0000_max_656x437.jpeg"
+            },
+            {
+                "url": "https://media.rightmove.co.uk/dir/182k/181043/110516843/181043_1179162_IMG_09_0000_max_656x437.jpeg"
+            },
+            {
+                "url": "https://media.rightmove.co.uk/dir/182k/181043/110516843/181043_1179162_IMG_10_0000_max_656x437.jpeg"
+            },
+            {
+                "url": "https://media.rightmove.co.uk/dir/182k/181043/110516843/181043_1179162_IMG_11_0000_max_656x437.jpeg"
+            },
+            {
+                "url": "https://media.rightmove.co.uk/dir/182k/181043/110516843/181043_1179162_IMG_12_0000_max_656x437.jpeg"
+            },
+            {
+                "url": "https://media.rightmove.co.uk/dir/182k/181043/110516843/181043_1179162_IMG_13_0000_max_656x437.jpeg"
+            },
+            {
+                "url": "https://media.rightmove.co.uk/dir/182k/181043/110516843/181043_1179162_IMG_14_0000_max_656x437.jpeg"
+            },
+            {
+                "url": "https://media.rightmove.co.uk/dir/182k/181043/110516843/181043_1179162_IMG_15_0000_max_656x437.jpeg"
+            },
+            {
+                "url": "https://media.rightmove.co.uk/dir/182k/181043/110516843/181043_1179162_IMG_16_0000_max_656x437.jpeg"
+            },
+            {
+                "url": "https://media.rightmove.co.uk/dir/182k/181043/110516843/181043_1179162_IMG_17_0000_max_656x437.jpeg"
+            },
+            {
+                "url": "https://media.rightmove.co.uk/dir/182k/181043/110516843/181043_1179162_IMG_18_0000_max_656x437.jpeg"
+            },
+            {
+                "url": "https://media.rightmove.co.uk/dir/182k/181043/110516843/181043_1179162_IMG_19_0000_max_656x437.jpeg"
+            },
+            {
+                "url": "https://media.rightmove.co.uk/dir/182k/181043/110516843/181043_1179162_IMG_20_0000_max_656x437.jpeg"
+            },
+            {
+                "url": "https://media.rightmove.co.uk/dir/182k/181043/110516843/181043_1179162_IMG_21_0000_max_656x437.jpeg"
+            },
+            {
+                "url": "https://media.rightmove.co.uk/dir/182k/181043/110516843/181043_1179162_IMG_22_0000_max_656x437.jpeg"
+            },
+            {
+                "url": "https://media.rightmove.co.uk/dir/182k/181043/110516843/181043_1179162_IMG_23_0000_max_656x437.jpeg"
+            }
+        ],
+        "keywords": []
+    },
+    {
+        "identifier": 111088547,
+        "visible": true,
+        "price": 875000.0,
+        "priceQualifier": "",
+        "shouldShowPrice": true,
+        "bedrooms": 5,
+        "address": "Cavendish Gardens, Barking, IG11",
+        "latitude": 51.54552,
+        "longitude": 0.09618,
+        "showMap": true,
+        "propertyType": "semi-detached house",
+        "development": false,
+        "commercial": false,
+        "updateDate": 1644421432000,
+        "autoEmailReasonType": "price_reduced",
+        "transactionTypeId": 1,
+        "sortDate": 1637950748000,
+        "photoThumbnailUrl": "https://media.rightmove.co.uk/dir/204k/203339/111088547/203339_103371001406_IMG_00_0000_max_200x138.jpeg",
+        "photoLargeThumbnailUrl": "https://media.rightmove.co.uk/dir/204k/203339/111088547/203339_103371001406_IMG_00_0000_max_656x437.jpeg",
+        "photoCount": 29,
+        "floorplanCount": 1,
+        "branch": {
+            "identifier": 203339,
+            "name": "Loughton",
+            "brandName": "Durden & Hunt",
+            "development": false,
+            "updateDate": 1644421432000,
+            "branchLogo": "https://media.rightmove.co.uk/dir//204k/203339/branch_rmchoice_logo_203339_0004.jpeg",
+            "brandPlusResale": true,
+            "brandPlusLettings": true,
+            "hideReducedPropsFlag": false,
+            "address": "309 High Road,\r\nLoughton,\r\nIG10 1AL",
+            "telephoneNumbers": [
+                {
+                    "identifier": null,
+                    "label": null,
+                    "number": "020 3858 7983",
+                    "main": null
+                }
+            ],
+            "contactTelephoneNumber": "020 3858 7983"
+        },
+        "exactLocationAvailable": true,
+        "status": null,
+        "dateShortlisted": null,
+        "premiumDisplay": false,
+        "premiumDisplayStickerName": "",
+        "premiumDisplayStyle": 26,
+        "photoThumbnail2Url": null,
+        "photoThumbnail3Url": null,
+        "photoThumbnail4Url": null,
+        "orderFromServer": 6,
+        "showStreetView": true,
+        "overseas": false,
+        "letFurnishType": null,
+        "summary": "Semi-Detached - Five Double Bedrooms - Open Plan Kitchen Diner - Two Spacious Reception Rooms - Downstairs Shower Room - Utility Area - Large Modern Bathroom - Double Garage - Rear Garden With Patio - Within Walking Distance To Upney Underground Station",
+        "showLettingFeesMessage": false,
+        "saved": false,
+        "hidden": false,
+        "displayPrices": [
+            {
+                "displayPrice": "\u00a3875,000",
+                "displayPriceQualifier": ""
+            }
+        ],
+        "onlineViewing": false,
+        "buildToRent": false,
+        "thumbnailPhotos": [
+            {
+                "url": "https://media.rightmove.co.uk/dir/204k/203339/111088547/203339_103371001406_IMG_00_0000_max_656x437.jpeg"
+            },
+            {
+                "url": "https://media.rightmove.co.uk/dir/204k/203339/111088547/203339_103371001406_IMG_01_0000_max_656x437.jpeg"
+            },
+            {
+                "url": "https://media.rightmove.co.uk/dir/204k/203339/111088547/203339_103371001406_IMG_02_0000_max_656x437.jpeg"
+            },
+            {
+                "url": "https://media.rightmove.co.uk/dir/204k/203339/111088547/203339_103371001406_IMG_03_0000_max_656x437.jpeg"
+            },
+            {
+                "url": "https://media.rightmove.co.uk/dir/204k/203339/111088547/203339_103371001406_IMG_04_0000_max_656x437.jpeg"
+            },
+            {
+                "url": "https://media.rightmove.co.uk/dir/204k/203339/111088547/203339_103371001406_IMG_05_0000_max_656x437.jpeg"
+            },
+            {
+                "url": "https://media.rightmove.co.uk/dir/204k/203339/111088547/203339_103371001406_IMG_06_0000_max_656x437.jpeg"
+            },
+            {
+                "url": "https://media.rightmove.co.uk/dir/204k/203339/111088547/203339_103371001406_IMG_07_0000_max_656x437.jpeg"
+            },
+            {
+                "url": "https://media.rightmove.co.uk/dir/204k/203339/111088547/203339_103371001406_IMG_08_0000_max_656x437.jpeg"
+            },
+            {
+                "url": "https://media.rightmove.co.uk/dir/204k/203339/111088547/203339_103371001406_IMG_09_0000_max_656x437.jpeg"
+            },
+            {
+                "url": "https://media.rightmove.co.uk/dir/204k/203339/111088547/203339_103371001406_IMG_10_0000_max_656x437.jpeg"
+            },
+            {
+                "url": "https://media.rightmove.co.uk/dir/204k/203339/111088547/203339_103371001406_IMG_11_0000_max_656x437.jpeg"
+            },
+            {
+                "url": "https://media.rightmove.co.uk/dir/204k/203339/111088547/203339_103371001406_IMG_12_0000_max_656x437.jpeg"
+            },
+            {
+                "url": "https://media.rightmove.co.uk/dir/204k/203339/111088547/203339_103371001406_IMG_13_0000_max_656x437.jpeg"
+            },
+            {
+                "url": "https://media.rightmove.co.uk/dir/204k/203339/111088547/203339_103371001406_IMG_14_0000_max_656x437.jpeg"
+            },
+            {
+                "url": "https://media.rightmove.co.uk/dir/204k/203339/111088547/203339_103371001406_IMG_15_0000_max_656x437.jpeg"
+            },
+            {
+                "url": "https://media.rightmove.co.uk/dir/204k/203339/111088547/203339_103371001406_IMG_16_0000_max_656x437.jpeg"
+            },
+            {
+                "url": "https://media.rightmove.co.uk/dir/204k/203339/111088547/203339_103371001406_IMG_17_0000_max_656x437.jpeg"
+            },
+            {
+                "url": "https://media.rightmove.co.uk/dir/204k/203339/111088547/203339_103371001406_IMG_18_0000_max_656x437.jpeg"
+            },
+            {
+                "url": "https://media.rightmove.co.uk/dir/204k/203339/111088547/203339_103371001406_IMG_19_0000_max_656x437.jpeg"
+            },
+            {
+                "url": "https://media.rightmove.co.uk/dir/204k/203339/111088547/203339_103371001406_IMG_20_0000_max_656x437.jpeg"
+            },
+            {
+                "url": "https://media.rightmove.co.uk/dir/204k/203339/111088547/203339_103371001406_IMG_21_0000_max_656x437.jpeg"
+            },
+            {
+                "url": "https://media.rightmove.co.uk/dir/204k/203339/111088547/203339_103371001406_IMG_22_0000_max_656x437.jpeg"
+            },
+            {
+                "url": "https://media.rightmove.co.uk/dir/204k/203339/111088547/203339_103371001406_IMG_23_0000_max_656x437.jpeg"
+            },
+            {
+                "url": "https://media.rightmove.co.uk/dir/204k/203339/111088547/203339_103371001406_IMG_24_0000_max_656x437.jpeg"
+            },
+            {
+                "url": "https://media.rightmove.co.uk/dir/204k/203339/111088547/203339_103371001406_IMG_25_0000_max_656x437.jpeg"
+            },
+            {
+                "url": "https://media.rightmove.co.uk/dir/204k/203339/111088547/203339_103371001406_IMG_26_0000_max_656x437.jpeg"
+            },
+            {
+                "url": "https://media.rightmove.co.uk/dir/204k/203339/111088547/203339_103371001406_IMG_27_0000_max_656x437.jpeg"
+            },
+            {
+                "url": "https://media.rightmove.co.uk/dir/204k/203339/111088547/203339_103371001406_IMG_28_0000_max_656x437.jpeg"
+            }
+        ],
+        "keywords": []
+    },
+    {
+        "identifier": 100746026,
+        "visible": true,
+        "price": 735000.0,
+        "priceQualifier": "",
+        "shouldShowPrice": true,
+        "bedrooms": 3,
+        "address": "Royal Albert Wharf, Docklands, London, E16",
+        "latitude": 51.506588,
+        "longitude": 0.075455,
+        "showMap": true,
+        "propertyType": "apartment",
+        "development": true,
+        "commercial": false,
+        "updateDate": 1640403136000,
+        "autoEmailReasonType": "new",
+        "transactionTypeId": 1,
+        "sortDate": 1606963141000,
+        "photoThumbnailUrl": "https://media.rightmove.co.uk/dir/49k/48988/100746026/48988_CND180074_IMG_00_0000_max_200x138.jpeg",
+        "photoLargeThumbnailUrl": "https://media.rightmove.co.uk/dir/49k/48988/100746026/48988_CND180074_IMG_00_0000_max_656x437.jpeg",
+        "photoCount": 7,
+        "floorplanCount": 2,
+        "branch": {
+            "identifier": 48988,
+            "name": "Canary Wharf",
+            "brandName": "Savills New Homes",
+            "development": false,
+            "updateDate": 1616146420000,
+            "branchLogo": "https://media.rightmove.co.uk/dir//company/clogo_rmchoice_14060_0000.jpeg",
+            "brandPlusResale": true,
+            "brandPlusLettings": false,
+            "hideReducedPropsFlag": false,
+            "address": "20 Canada Square\r\nLondon\r\nE14 5NN\r\n",
+            "telephoneNumbers": [
+                {
+                    "identifier": null,
+                    "label": null,
+                    "number": "02382 205786",
+                    "main": null
+                }
+            ],
+            "contactTelephoneNumber": "02382 205786"
+        },
+        "exactLocationAvailable": true,
+        "status": null,
+        "dateShortlisted": null,
+        "premiumDisplay": false,
+        "premiumDisplayStickerName": "",
+        "premiumDisplayStyle": 26,
+        "photoThumbnail2Url": null,
+        "photoThumbnail3Url": null,
+        "photoThumbnail4Url": null,
+        "orderFromServer": 7,
+        "showStreetView": true,
+        "overseas": false,
+        "letFurnishType": null,
+        "summary": "Brand new duplex three bedroom apartment with fantastic views of the Thames and extending to over 1,300 sqft. Canary Wharf is a 31 minute train journey from Royal Albert Wharf.",
+        "showLettingFeesMessage": false,
+        "saved": false,
+        "hidden": false,
+        "displayPrices": [
+            {
+                "displayPrice": "\u00a3735,000",
+                "displayPriceQualifier": ""
+            }
+        ],
+        "onlineViewing": false,
+        "buildToRent": false,
+        "thumbnailPhotos": [
+            {
+                "url": "https://media.rightmove.co.uk/dir/49k/48988/100746026/48988_CND180074_IMG_00_0000_max_656x437.jpeg"
+            },
+            {
+                "url": "https://media.rightmove.co.uk/dir/49k/48988/100746026/48988_CND180074_IMG_01_0001_max_656x437.jpeg"
+            },
+            {
+                "url": "https://media.rightmove.co.uk/dir/49k/48988/100746026/48988_CND180074_IMG_02_0001_max_656x437.jpeg"
+            },
+            {
+                "url": "https://media.rightmove.co.uk/dir/49k/48988/100746026/48988_CND180074_IMG_03_0001_max_656x437.jpeg"
+            },
+            {
+                "url": "https://media.rightmove.co.uk/dir/49k/48988/100746026/48988_CND180074_IMG_04_0001_max_656x437.jpeg"
+            },
+            {
+                "url": "https://media.rightmove.co.uk/dir/49k/48988/100746026/48988_CND180074_IMG_05_0001_max_656x437.jpeg"
+            },
+            {
+                "url": "https://media.rightmove.co.uk/dir/49k/48988/100746026/48988_CND180074_IMG_06_0001_max_656x437.jpeg"
+            }
+        ],
+        "keywords": []
+    },
+    {
+        "identifier": 100708313,
+        "visible": true,
+        "price": 726250.0,
+        "priceQualifier": "",
+        "shouldShowPrice": true,
+        "bedrooms": 3,
+        "address": "Gallions Point, London, E16",
+        "latitude": 51.508423,
+        "longitude": 0.073162,
+        "showMap": true,
+        "propertyType": "apartment",
+        "development": true,
+        "commercial": false,
+        "updateDate": 1644242507000,
+        "autoEmailReasonType": "new",
+        "transactionTypeId": 1,
+        "sortDate": 1606849802000,
+        "photoThumbnailUrl": "https://media.rightmove.co.uk/dir/106k/105263/100708313/105263_CIF190432_IMG_00_0000_max_200x138.jpeg",
+        "photoLargeThumbnailUrl": "https://media.rightmove.co.uk/dir/106k/105263/100708313/105263_CIF190432_IMG_00_0000_max_656x437.jpeg",
+        "photoCount": 11,
+        "floorplanCount": 1,
+        "branch": {
+            "identifier": 105263,
+            "name": "Residential",
+            "brandName": "Colliers International",
+            "development": false,
+            "updateDate": 1644242507000,
+            "branchLogo": "https://media.rightmove.co.uk/dir//106k/105263/branch_rmchoice_logo_105263_0001.jpeg",
+            "brandPlusResale": true,
+            "brandPlusLettings": false,
+            "hideReducedPropsFlag": false,
+            "address": "50 George Street,\r\nLondon,\r\nW1U 7GA",
+            "telephoneNumbers": [
+                {
+                    "identifier": null,
+                    "label": null,
+                    "number": "020 8012 4556",
+                    "main": null
+                }
+            ],
+            "contactTelephoneNumber": "020 8012 4556"
+        },
+        "exactLocationAvailable": true,
+        "status": null,
+        "dateShortlisted": null,
+        "premiumDisplay": false,
+        "premiumDisplayStickerName": "",
+        "premiumDisplayStyle": 26,
+        "photoThumbnail2Url": null,
+        "photoThumbnail3Url": null,
+        "photoThumbnail4Url": null,
+        "orderFromServer": 8,
+        "showStreetView": true,
+        "overseas": false,
+        "letFurnishType": null,
+        "summary": "This 1,084 sq. ft. 3 bedroom / 2 bathroom apartment with JULIETTE BALCONY is set on the 11th floor with views towards RIVER THAMES within the heart of this fantastic NEW DEVELOPMENT of GALLIONS POINT.",
+        "showLettingFeesMessage": false,
+        "saved": false,
+        "hidden": false,
+        "displayPrices": [
+            {
+                "displayPrice": "\u00a3726,250",
+                "displayPriceQualifier": ""
+            }
+        ],
+        "onlineViewing": false,
+        "buildToRent": false,
+        "thumbnailPhotos": [
+            {
+                "url": "https://media.rightmove.co.uk/dir/106k/105263/100708313/105263_CIF190432_IMG_00_0000_max_656x437.jpeg"
+            },
+            {
+                "url": "https://media.rightmove.co.uk/dir/106k/105263/100708313/105263_CIF190432_IMG_01_0001_max_656x437.jpeg"
+            },
+            {
+                "url": "https://media.rightmove.co.uk/dir/106k/105263/100708313/105263_CIF190432_IMG_02_0001_max_656x437.jpeg"
+            },
+            {
+                "url": "https://media.rightmove.co.uk/dir/106k/105263/100708313/105263_CIF190432_IMG_03_0001_max_656x437.jpeg"
+            },
+            {
+                "url": "https://media.rightmove.co.uk/dir/106k/105263/100708313/105263_CIF190432_IMG_04_0001_max_656x437.jpeg"
+            },
+            {
+                "url": "https://media.rightmove.co.uk/dir/106k/105263/100708313/105263_CIF190432_IMG_05_0001_max_656x437.jpeg"
+            },
+            {
+                "url": "https://media.rightmove.co.uk/dir/106k/105263/100708313/105263_CIF190432_IMG_06_0001_max_656x437.jpeg"
+            },
+            {
+                "url": "https://media.rightmove.co.uk/dir/106k/105263/100708313/105263_CIF190432_IMG_07_0001_max_656x437.jpeg"
+            },
+            {
+                "url": "https://media.rightmove.co.uk/dir/106k/105263/100708313/105263_CIF190432_IMG_08_0001_max_656x437.jpeg"
+            },
+            {
+                "url": "https://media.rightmove.co.uk/dir/106k/105263/100708313/105263_CIF190432_IMG_09_0001_max_656x437.jpeg"
+            },
+            {
+                "url": "https://media.rightmove.co.uk/dir/106k/105263/100708313/105263_CIF190432_IMG_10_0001_max_656x437.jpeg"
+            }
+        ],
+        "keywords": []
+    },
+    {
+        "identifier": 113111687,
+        "visible": true,
+        "price": 725000.0,
+        "priceQualifier": "",
+        "shouldShowPrice": true,
+        "bedrooms": 3,
+        "address": "Royal Albert Wharf, Docklands, London, E16",
+        "latitude": 51.506588,
+        "longitude": 0.075455,
+        "showMap": true,
+        "propertyType": "apartment",
+        "development": true,
+        "commercial": false,
+        "updateDate": 1645572573000,
+        "autoEmailReasonType": "price_reduced",
+        "transactionTypeId": 1,
+        "sortDate": 1631629236000,
+        "photoThumbnailUrl": "https://media.rightmove.co.uk/dir/49k/48988/113111687/48988_CND180130_IMG_00_0001_max_200x138.jpeg",
+        "photoLargeThumbnailUrl": "https://media.rightmove.co.uk/dir/49k/48988/113111687/48988_CND180130_IMG_00_0001_max_656x437.jpeg",
+        "photoCount": 12,
+        "floorplanCount": 0,
+        "branch": {
+            "identifier": 48988,
+            "name": "Canary Wharf",
+            "brandName": "Savills New Homes",
+            "development": false,
+            "updateDate": 1616146420000,
+            "branchLogo": "https://media.rightmove.co.uk/dir//company/clogo_rmchoice_14060_0000.jpeg",
+            "brandPlusResale": true,
+            "brandPlusLettings": false,
+            "hideReducedPropsFlag": false,
+            "address": "20 Canada Square\r\nLondon\r\nE14 5NN\r\n",
+            "telephoneNumbers": [
+                {
+                    "identifier": null,
+                    "label": null,
+                    "number": "02382 205786",
+                    "main": null
+                }
+            ],
+            "contactTelephoneNumber": "02382 205786"
+        },
+        "exactLocationAvailable": true,
+        "status": null,
+        "dateShortlisted": null,
+        "premiumDisplay": false,
+        "premiumDisplayStickerName": "",
+        "premiumDisplayStyle": 26,
+        "photoThumbnail2Url": null,
+        "photoThumbnail3Url": null,
+        "photoThumbnail4Url": null,
+        "orderFromServer": 9,
+        "showStreetView": true,
+        "overseas": false,
+        "letFurnishType": null,
+        "summary": "Superb 3 bedroom duplex apartment at Royal Albert Wharf.",
+        "showLettingFeesMessage": false,
+        "saved": false,
+        "hidden": false,
+        "displayPrices": [
+            {
+                "displayPrice": "\u00a3725,000",
+                "displayPriceQualifier": ""
+            }
+        ],
+        "onlineViewing": false,
+        "buildToRent": false,
+        "thumbnailPhotos": [
+            {
+                "url": "https://media.rightmove.co.uk/dir/49k/48988/113111687/48988_CND180130_IMG_00_0001_max_656x437.jpeg"
+            },
+            {
+                "url": "https://media.rightmove.co.uk/dir/49k/48988/113111687/48988_CND180130_IMG_01_0001_max_656x437.jpeg"
+            },
+            {
+                "url": "https://media.rightmove.co.uk/dir/49k/48988/113111687/48988_CND180130_IMG_02_0001_max_656x437.jpeg"
+            },
+            {
+                "url": "https://media.rightmove.co.uk/dir/49k/48988/113111687/48988_CND180130_IMG_03_0001_max_656x437.jpeg"
+            },
+            {
+                "url": "https://media.rightmove.co.uk/dir/49k/48988/113111687/48988_CND180130_IMG_04_0001_max_656x437.jpeg"
+            },
+            {
+                "url": "https://media.rightmove.co.uk/dir/49k/48988/113111687/48988_CND180130_IMG_05_0001_max_656x437.jpeg"
+            },
+            {
+                "url": "https://media.rightmove.co.uk/dir/49k/48988/113111687/48988_CND180130_IMG_06_0001_max_656x437.jpeg"
+            },
+            {
+                "url": "https://media.rightmove.co.uk/dir/49k/48988/113111687/48988_CND180130_IMG_07_0001_max_656x437.jpeg"
+            },
+            {
+                "url": "https://media.rightmove.co.uk/dir/49k/48988/113111687/48988_CND180130_IMG_08_0001_max_656x437.jpeg"
+            },
+            {
+                "url": "https://media.rightmove.co.uk/dir/49k/48988/113111687/48988_CND180130_IMG_09_0001_max_656x437.jpeg"
+            },
+            {
+                "url": "https://media.rightmove.co.uk/dir/49k/48988/113111687/48988_CND180130_IMG_10_0001_max_656x437.jpeg"
+            },
+            {
+                "url": "https://media.rightmove.co.uk/dir/49k/48988/113111687/48988_CND180130_IMG_11_0001_max_656x437.jpeg"
+            }
+        ],
+        "keywords": []
+    },
+    {
+        "identifier": 116462660,
+        "visible": true,
+        "price": 710000.0,
+        "priceQualifier": "",
+        "shouldShowPrice": true,
+        "bedrooms": 4,
+        "address": "Upney Lane, Barking",
+        "latitude": 51.54282,
+        "longitude": 0.0962,
+        "showMap": true,
+        "propertyType": "semi-detached house",
+        "development": false,
+        "commercial": false,
+        "updateDate": 1647274476000,
+        "autoEmailReasonType": "new",
+        "transactionTypeId": 1,
+        "sortDate": 1637153766000,
+        "photoThumbnailUrl": "https://media.rightmove.co.uk/dir/4k/3886/116462660/3886_BKG103169_IMG_27_0000_max_200x138.jpeg",
+        "photoLargeThumbnailUrl": "https://media.rightmove.co.uk/dir/4k/3886/116462660/3886_BKG103169_IMG_27_0000_max_656x437.jpeg",
+        "photoCount": 15,
+        "floorplanCount": 1,
+        "branch": {
+            "identifier": 3886,
+            "name": "Barking",
+            "brandName": "William H. Brown Incorporating Porter Glenny",
+            "development": false,
+            "updateDate": 1619188732000,
+            "branchLogo": "https://media.rightmove.co.uk/dir//brand/brand_rmchoice_logo_64352_0000.png",
+            "brandPlusResale": true,
+            "brandPlusLettings": false,
+            "hideReducedPropsFlag": false,
+            "address": "3 Faircross Parade, Longbridge Road\r\n\r\nBarking\r\nEssex, IG11 8UN",
+            "telephoneNumbers": [
+                {
+                    "identifier": null,
+                    "label": null,
+                    "number": "020 8012 2138",
+                    "main": null
+                }
+            ],
+            "contactTelephoneNumber": "020 8012 2138"
+        },
+        "exactLocationAvailable": true,
+        "status": null,
+        "dateShortlisted": null,
+        "premiumDisplay": true,
+        "premiumDisplayStickerName": "No Chain",
+        "premiumDisplayStyle": 10,
+        "photoThumbnail2Url": "https://media.rightmove.co.uk/dir/4k/3886/116462660/3886_BKG103169_IMG_22_0000_max_200x138.jpeg",
+        "photoThumbnail3Url": "https://media.rightmove.co.uk/dir/4k/3886/116462660/3886_BKG103169_IMG_24_0000_max_200x138.jpeg",
+        "photoThumbnail4Url": "https://media.rightmove.co.uk/dir/4k/3886/116462660/3886_BKG103169_IMG_25_0000_max_200x138.jpeg",
+        "orderFromServer": 10,
+        "showStreetView": true,
+        "overseas": false,
+        "letFurnishType": null,
+        "summary": "William H Brown are delighted to offer for sale this SPACIOUS FOUR BEDROOM SEMI-DETACHED FAMILY HOME occupying a prominent position on the much sought-after Upney Lane. Viewing is highly recommended, call the sales team today!",
+        "showLettingFeesMessage": false,
+        "saved": false,
+        "hidden": false,
+        "displayPrices": [
+            {
+                "displayPrice": "\u00a3710,000",
+                "displayPriceQualifier": ""
+            }
+        ],
+        "onlineViewing": false,
+        "buildToRent": false,
+        "thumbnailPhotos": [
+            {
+                "url": "https://media.rightmove.co.uk/dir/4k/3886/116462660/3886_BKG103169_IMG_27_0000_max_656x437.jpeg"
+            },
+            {
+                "url": "https://media.rightmove.co.uk/dir/4k/3886/116462660/3886_BKG103169_IMG_22_0000_max_656x437.jpeg"
+            },
+            {
+                "url": "https://media.rightmove.co.uk/dir/4k/3886/116462660/3886_BKG103169_IMG_24_0000_max_656x437.jpeg"
+            },
+            {
+                "url": "https://media.rightmove.co.uk/dir/4k/3886/116462660/3886_BKG103169_IMG_25_0000_max_656x437.jpeg"
+            },
+            {
+                "url": "https://media.rightmove.co.uk/dir/4k/3886/116462660/3886_BKG103169_IMG_26_0000_max_656x437.jpeg"
+            },
+            {
+                "url": "https://media.rightmove.co.uk/dir/4k/3886/116462660/3886_BKG103169_IMG_21_0000_max_656x437.jpeg"
+            },
+            {
+                "url": "https://media.rightmove.co.uk/dir/4k/3886/116462660/3886_BKG103169_IMG_23_0000_max_656x437.jpeg"
+            },
+            {
+                "url": "https://media.rightmove.co.uk/dir/4k/3886/116462660/3886_BKG103169_IMG_20_0000_max_656x437.jpeg"
+            },
+            {
+                "url": "https://media.rightmove.co.uk/dir/4k/3886/116462660/3886_BKG103169_IMG_14_0000_max_656x437.jpeg"
+            },
+            {
+                "url": "https://media.rightmove.co.uk/dir/4k/3886/116462660/3886_BKG103169_IMG_15_0000_max_656x437.jpeg"
+            },
+            {
+                "url": "https://media.rightmove.co.uk/dir/4k/3886/116462660/3886_BKG103169_IMG_13_0000_max_656x437.jpeg"
+            },
+            {
+                "url": "https://media.rightmove.co.uk/dir/4k/3886/116462660/3886_BKG103169_IMG_16_0000_max_656x437.jpeg"
+            },
+            {
+                "url": "https://media.rightmove.co.uk/dir/4k/3886/116462660/3886_BKG103169_IMG_17_0000_max_656x437.jpeg"
+            },
+            {
+                "url": "https://media.rightmove.co.uk/dir/4k/3886/116462660/3886_BKG103169_IMG_18_0000_max_656x437.jpeg"
+            },
+            {
+                "url": "https://media.rightmove.co.uk/dir/4k/3886/116462660/3886_BKG103169_IMG_19_0000_max_656x437.jpeg"
+            }
+        ],
+        "keywords": []
+    },
+    {
+        "identifier": 80116074,
+        "visible": true,
+        "price": 696250.0,
+        "priceQualifier": "",
+        "shouldShowPrice": true,
+        "bedrooms": 3,
+        "address": "Atlantis Avenue, London",
+        "latitude": 51.50842,
+        "longitude": 0.07233,
+        "showMap": true,
+        "propertyType": "apartment",
+        "development": false,
+        "commercial": false,
+        "updateDate": 1645239601000,
+        "autoEmailReasonType": "new",
+        "transactionTypeId": 1,
+        "sortDate": 1620642789000,
+        "photoThumbnailUrl": "https://media.rightmove.co.uk/dir/12k/11468/80116074/11468_0081_FJL008108237_IMG_01_0001_max_200x138.jpeg",
+        "photoLargeThumbnailUrl": "https://media.rightmove.co.uk/dir/12k/11468/80116074/11468_0081_FJL008108237_IMG_01_0001_max_656x437.jpeg",
+        "photoCount": 4,
+        "floorplanCount": 0,
+        "branch": {
+            "identifier": 11468,
+            "name": "Bow",
+            "brandName": "Felicity J Lord",
+            "development": false,
+            "updateDate": 1625114747000,
+            "branchLogo": "https://media.rightmove.co.uk/dir//brand/brand_rmchoice_logo_5436_0001.jpeg",
+            "brandPlusResale": true,
+            "brandPlusLettings": false,
+            "hideReducedPropsFlag": false,
+            "address": "644/646 Mile End Road,\r\nLondon,\r\nE3 4LH",
+            "telephoneNumbers": [
+                {
+                    "identifier": null,
+                    "label": null,
+                    "number": "020 8012 1302",
+                    "main": null
+                }
+            ],
+            "contactTelephoneNumber": "020 8012 1302"
+        },
+        "exactLocationAvailable": true,
+        "status": null,
+        "dateShortlisted": null,
+        "premiumDisplay": true,
+        "premiumDisplayStickerName": "Premium Listing",
+        "premiumDisplayStyle": 14,
+        "photoThumbnail2Url": "https://media.rightmove.co.uk/dir/12k/11468/80116074/11468_0081_FJL008108237_IMG_02_0001_max_200x138.jpeg",
+        "photoThumbnail3Url": "https://media.rightmove.co.uk/dir/12k/11468/80116074/11468_0081_FJL008108237_IMG_00_0001_max_200x138.jpeg",
+        "photoThumbnail4Url": "https://media.rightmove.co.uk/dir/12k/11468/80116074/11468_0081_FJL008108237_IMG_03_0001_max_200x138.jpeg",
+        "orderFromServer": 11,
+        "showStreetView": true,
+        "overseas": false,
+        "letFurnishType": null,
+        "summary": "An exclusive collection of 1, 2 and 3 bedroom apartments within this vibrant new neighbourhood in London\u2019s newest district, The Royal Docks",
+        "showLettingFeesMessage": false,
+        "saved": false,
+        "hidden": false,
+        "displayPrices": [
+            {
+                "displayPrice": "\u00a3696,250",
+                "displayPriceQualifier": ""
+            }
+        ],
+        "onlineViewing": false,
+        "buildToRent": false,
+        "thumbnailPhotos": [
+            {
+                "url": "https://media.rightmove.co.uk/dir/12k/11468/80116074/11468_0081_FJL008108237_IMG_01_0001_max_656x437.jpeg"
+            },
+            {
+                "url": "https://media.rightmove.co.uk/dir/12k/11468/80116074/11468_0081_FJL008108237_IMG_02_0001_max_656x437.jpeg"
+            },
+            {
+                "url": "https://media.rightmove.co.uk/dir/12k/11468/80116074/11468_0081_FJL008108237_IMG_00_0001_max_656x437.jpeg"
+            },
+            {
+                "url": "https://media.rightmove.co.uk/dir/12k/11468/80116074/11468_0081_FJL008108237_IMG_03_0001_max_656x437.jpeg"
+            }
+        ],
+        "keywords": []
+    },
+    {
+        "identifier": 119565305,
+        "visible": true,
+        "price": 690000.0,
+        "priceQualifier": "",
+        "shouldShowPrice": true,
+        "bedrooms": 4,
+        "address": "Wedderburn Road, Barking, Essex, IG11 ",
+        "latitude": 51.53435,
+        "longitude": 0.088633,
+        "showMap": true,
+        "propertyType": "house",
+        "development": false,
+        "commercial": false,
+        "updateDate": 1646192220000,
+        "autoEmailReasonType": "new",
+        "transactionTypeId": 1,
+        "sortDate": 1643995205000,
+        "photoThumbnailUrl": "https://media.rightmove.co.uk/dir/14k/13345/119565305/13345_31262858_IMG_00_0000_max_200x138.jpeg",
+        "photoLargeThumbnailUrl": "https://media.rightmove.co.uk/dir/14k/13345/119565305/13345_31262858_IMG_00_0000_max_656x437.jpeg",
+        "photoCount": 13,
+        "floorplanCount": 3,
+        "branch": {
+            "identifier": 13345,
+            "name": "Seven Kings",
+            "brandName": "Sandra Davidson Estate Agents",
+            "development": false,
+            "updateDate": 1646155462000,
+            "branchLogo": "https://media.rightmove.co.uk/dir//company/clogo_rmchoice_4927_0001.jpeg",
+            "brandPlusResale": true,
+            "brandPlusLettings": true,
+            "hideReducedPropsFlag": false,
+            "address": "353 Green Lane, Seven Kings,\r\nIlford,\r\nIG3 9TH",
+            "telephoneNumbers": [
+                {
+                    "identifier": null,
+                    "label": null,
+                    "number": "020 8012 0941",
+                    "main": null
+                }
+            ],
+            "contactTelephoneNumber": "020 8012 0941"
+        },
+        "exactLocationAvailable": true,
+        "status": null,
+        "dateShortlisted": null,
+        "premiumDisplay": false,
+        "premiumDisplayStickerName": "",
+        "premiumDisplayStyle": 26,
+        "photoThumbnail2Url": null,
+        "photoThumbnail3Url": null,
+        "photoThumbnail4Url": null,
+        "orderFromServer": 12,
+        "showStreetView": true,
+        "overseas": false,
+        "letFurnishType": null,
+        "summary": "3 FLATS FOR SALE UNDER ONE TITLE - INVESTMENT PURCHASE Sandra Davidson Estate Agents are pleased to present this extended property between in Barking. The property is in a popular residential location close to local amenities such as shops and bus routes. Barking station and bus route are also i...",
+        "showLettingFeesMessage": false,
+        "saved": false,
+        "hidden": false,
+        "displayPrices": [
+            {
+                "displayPrice": "\u00a3690,000",
+                "displayPriceQualifier": ""
+            }
+        ],
+        "onlineViewing": false,
+        "buildToRent": false,
+        "thumbnailPhotos": [
+            {
+                "url": "https://media.rightmove.co.uk/dir/14k/13345/119565305/13345_31262858_IMG_00_0000_max_656x437.jpeg"
+            },
+            {
+                "url": "https://media.rightmove.co.uk/dir/14k/13345/119565305/13345_31262858_IMG_01_0000_max_656x437.jpeg"
+            },
+            {
+                "url": "https://media.rightmove.co.uk/dir/14k/13345/119565305/13345_31262858_IMG_02_0000_max_656x437.jpeg"
+            },
+            {
+                "url": "https://media.rightmove.co.uk/dir/14k/13345/119565305/13345_31262858_IMG_03_0000_max_656x437.jpeg"
+            },
+            {
+                "url": "https://media.rightmove.co.uk/dir/14k/13345/119565305/13345_31262858_IMG_04_0000_max_656x437.jpeg"
+            },
+            {
+                "url": "https://media.rightmove.co.uk/dir/14k/13345/119565305/13345_31262858_IMG_05_0000_max_656x437.jpeg"
+            },
+            {
+                "url": "https://media.rightmove.co.uk/dir/14k/13345/119565305/13345_31262858_IMG_06_0000_max_656x437.jpeg"
+            },
+            {
+                "url": "https://media.rightmove.co.uk/dir/14k/13345/119565305/13345_31262858_IMG_07_0000_max_656x437.jpeg"
+            },
+            {
+                "url": "https://media.rightmove.co.uk/dir/14k/13345/119565305/13345_31262858_IMG_08_0000_max_656x437.jpeg"
+            },
+            {
+                "url": "https://media.rightmove.co.uk/dir/14k/13345/119565305/13345_31262858_IMG_09_0000_max_656x437.jpeg"
+            },
+            {
+                "url": "https://media.rightmove.co.uk/dir/14k/13345/119565305/13345_31262858_IMG_10_0000_max_656x437.jpeg"
+            },
+            {
+                "url": "https://media.rightmove.co.uk/dir/14k/13345/119565305/13345_31262858_IMG_11_0000_max_656x437.jpeg"
+            },
+            {
+                "url": "https://media.rightmove.co.uk/dir/14k/13345/119565305/13345_31262858_IMG_12_0000_max_656x437.jpeg"
+            }
+        ],
+        "keywords": []
+    },
+    {
+        "identifier": 103163360,
+        "visible": true,
+        "price": 670000.0,
+        "priceQualifier": "",
+        "shouldShowPrice": true,
+        "bedrooms": 3,
+        "address": "Royal Albert Wharf, Docklands, London, E16",
+        "latitude": 51.506588,
+        "longitude": 0.075455,
+        "showMap": true,
+        "propertyType": "duplex",
+        "development": true,
+        "commercial": false,
+        "updateDate": 1646922505000,
+        "autoEmailReasonType": "new",
+        "transactionTypeId": 1,
+        "sortDate": 1613932802000,
+        "photoThumbnailUrl": "https://media.rightmove.co.uk/dir/49k/48988/103163360/48988_CND200166_IMG_06_0001_max_200x138.jpeg",
+        "photoLargeThumbnailUrl": "https://media.rightmove.co.uk/dir/49k/48988/103163360/48988_CND200166_IMG_06_0001_max_656x437.jpeg",
+        "photoCount": 22,
+        "floorplanCount": 2,
+        "branch": {
+            "identifier": 48988,
+            "name": "Canary Wharf",
+            "brandName": "Savills New Homes",
+            "development": false,
+            "updateDate": 1616146420000,
+            "branchLogo": "https://media.rightmove.co.uk/dir//company/clogo_rmchoice_14060_0000.jpeg",
+            "brandPlusResale": true,
+            "brandPlusLettings": false,
+            "hideReducedPropsFlag": false,
+            "address": "20 Canada Square\r\nLondon\r\nE14 5NN\r\n",
+            "telephoneNumbers": [
+                {
+                    "identifier": null,
+                    "label": null,
+                    "number": "02382 205786",
+                    "main": null
+                }
+            ],
+            "contactTelephoneNumber": "02382 205786"
+        },
+        "exactLocationAvailable": true,
+        "status": null,
+        "dateShortlisted": null,
+        "premiumDisplay": false,
+        "premiumDisplayStickerName": "",
+        "premiumDisplayStyle": 26,
+        "photoThumbnail2Url": null,
+        "photoThumbnail3Url": null,
+        "photoThumbnail4Url": null,
+        "orderFromServer": 13,
+        "showStreetView": true,
+        "overseas": false,
+        "letFurnishType": null,
+        "summary": "Parkside is the new phase at Royal Albert Wharf. Stylish 3 bedroom apartment available. Book your appointment to view today.",
+        "showLettingFeesMessage": false,
+        "saved": false,
+        "hidden": false,
+        "displayPrices": [
+            {
+                "displayPrice": "\u00a3670,000",
+                "displayPriceQualifier": ""
+            }
+        ],
+        "onlineViewing": false,
+        "buildToRent": false,
+        "thumbnailPhotos": [
+            {
+                "url": "https://media.rightmove.co.uk/dir/49k/48988/103163360/48988_CND200166_IMG_06_0001_max_656x437.jpeg"
+            },
+            {
+                "url": "https://media.rightmove.co.uk/dir/49k/48988/103163360/48988_CND200166_IMG_00_0001_max_656x437.jpeg"
+            },
+            {
+                "url": "https://media.rightmove.co.uk/dir/49k/48988/103163360/48988_CND200166_IMG_01_0001_max_656x437.jpeg"
+            },
+            {
+                "url": "https://media.rightmove.co.uk/dir/49k/48988/103163360/48988_CND200166_IMG_02_0001_max_656x437.jpeg"
+            },
+            {
+                "url": "https://media.rightmove.co.uk/dir/49k/48988/103163360/48988_CND200166_IMG_04_0001_max_656x437.jpeg"
+            },
+            {
+                "url": "https://media.rightmove.co.uk/dir/49k/48988/103163360/48988_CND200166_IMG_07_0000_max_656x437.jpeg"
+            },
+            {
+                "url": "https://media.rightmove.co.uk/dir/49k/48988/103163360/48988_CND200166_IMG_08_0000_max_656x437.jpeg"
+            },
+            {
+                "url": "https://media.rightmove.co.uk/dir/49k/48988/103163360/48988_CND200166_IMG_09_0000_max_656x437.jpeg"
+            },
+            {
+                "url": "https://media.rightmove.co.uk/dir/49k/48988/103163360/48988_CND200166_IMG_10_0000_max_656x437.jpeg"
+            },
+            {
+                "url": "https://media.rightmove.co.uk/dir/49k/48988/103163360/48988_CND200166_IMG_11_0000_max_656x437.jpeg"
+            },
+            {
+                "url": "https://media.rightmove.co.uk/dir/49k/48988/103163360/48988_CND200166_IMG_12_0000_max_656x437.jpeg"
+            },
+            {
+                "url": "https://media.rightmove.co.uk/dir/49k/48988/103163360/48988_CND200166_IMG_13_0000_max_656x437.jpeg"
+            },
+            {
+                "url": "https://media.rightmove.co.uk/dir/49k/48988/103163360/48988_CND200166_IMG_14_0000_max_656x437.jpeg"
+            },
+            {
+                "url": "https://media.rightmove.co.uk/dir/49k/48988/103163360/48988_CND200166_IMG_15_0000_max_656x437.jpeg"
+            },
+            {
+                "url": "https://media.rightmove.co.uk/dir/49k/48988/103163360/48988_CND200166_IMG_16_0000_max_656x437.jpeg"
+            },
+            {
+                "url": "https://media.rightmove.co.uk/dir/49k/48988/103163360/48988_CND200166_IMG_17_0000_max_656x437.jpeg"
+            },
+            {
+                "url": "https://media.rightmove.co.uk/dir/49k/48988/103163360/48988_CND200166_IMG_18_0000_max_656x437.jpeg"
+            },
+            {
+                "url": "https://media.rightmove.co.uk/dir/49k/48988/103163360/48988_CND200166_IMG_19_0000_max_656x437.jpeg"
+            },
+            {
+                "url": "https://media.rightmove.co.uk/dir/49k/48988/103163360/48988_CND200166_IMG_20_0000_max_656x437.jpeg"
+            },
+            {
+                "url": "https://media.rightmove.co.uk/dir/49k/48988/103163360/48988_CND200166_IMG_21_0000_max_656x437.jpeg"
+            },
+            {
+                "url": "https://media.rightmove.co.uk/dir/49k/48988/103163360/48988_CND200166_IMG_22_0000_max_656x437.jpeg"
+            },
+            {
+                "url": "https://media.rightmove.co.uk/dir/49k/48988/103163360/48988_CND200166_IMG_05_0001_max_656x437.jpeg"
+            }
+        ],
+        "keywords": []
+    },
+    {
+        "identifier": 120879029,
+        "visible": true,
+        "price": 670000.0,
+        "priceQualifier": "",
+        "shouldShowPrice": true,
+        "bedrooms": 3,
+        "address": "Royal Albert Wharf,\r\nLondon,\r\nE16 2GU",
+        "latitude": 51.50614,
+        "longitude": 0.07535,
+        "showMap": true,
+        "propertyType": "duplex",
+        "development": true,
+        "commercial": false,
+        "updateDate": 1647264723000,
+        "autoEmailReasonType": "new",
+        "transactionTypeId": 1,
+        "sortDate": 1646848082000,
+        "photoThumbnailUrl": "https://media.rightmove.co.uk/dir/225k/224981/120879029/224981_NHG_RAWPS_54Georgeduplex_IMG_03_0000_max_200x138.jpeg",
+        "photoLargeThumbnailUrl": "https://media.rightmove.co.uk/dir/225k/224981/120879029/224981_NHG_RAWPS_54Georgeduplex_IMG_03_0000_max_656x437.jpeg",
+        "photoCount": 11,
+        "floorplanCount": 1,
+        "branch": {
+            "identifier": 224981,
+            "name": "Royal Albert Wharf",
+            "brandName": "Notting Hill Genesis",
+            "development": true,
+            "updateDate": 1646319717000,
+            "branchLogo": "https://media.rightmove.co.uk/dir//company/clogo_rmchoice_64664_0000.jpeg",
+            "brandPlusResale": true,
+            "brandPlusLettings": false,
+            "hideReducedPropsFlag": false,
+            "address": "Royal Albert Wharf,\r\nLondon,\r\nE16 2GU",
+            "telephoneNumbers": [
+                {
+                    "identifier": null,
+                    "label": null,
+                    "number": "020 8012 5970",
+                    "main": null
+                }
+            ],
+            "contactTelephoneNumber": "020 8012 5970"
+        },
+        "exactLocationAvailable": true,
+        "status": null,
+        "dateShortlisted": null,
+        "premiumDisplay": true,
+        "premiumDisplayStickerName": "Move In Now",
+        "photoThumbnail2Url": "https://media.rightmove.co.uk/dir/225k/224981/120879029/224981_NHG_RAWPS_54Georgeduplex_IMG_02_0000_max_200x138.jpeg",
+        "photoThumbnail3Url": "https://media.rightmove.co.uk/dir/225k/224981/120879029/224981_NHG_RAWPS_54Georgeduplex_IMG_04_0000_max_200x138.jpeg",
+        "photoThumbnail4Url": "https://media.rightmove.co.uk/dir/225k/224981/120879029/224981_NHG_RAWPS_54Georgeduplex_IMG_05_0001_max_200x138.jpeg",
+        "orderFromServer": 14,
+        "showStreetView": true,
+        "overseas": false,
+        "letFurnishType": null,
+        "summary": "Show home launch event - Saturday 19th March. Stunning 3 bedroom homes by the riverside with parking included in East London Zone 3!",
+        "showLettingFeesMessage": false,
+        "saved": false,
+        "hidden": false,
+        "displayPrices": [
+            {
+                "displayPrice": "\u00a3670,000",
+                "displayPriceQualifier": ""
+            }
+        ],
+        "onlineViewing": false,
+        "buildToRent": false,
+        "thumbnailPhotos": [
+            {
+                "url": "https://media.rightmove.co.uk/dir/225k/224981/120879029/224981_NHG_RAWPS_54Georgeduplex_IMG_03_0000_max_656x437.jpeg"
+            },
+            {
+                "url": "https://media.rightmove.co.uk/dir/225k/224981/120879029/224981_NHG_RAWPS_54Georgeduplex_IMG_02_0000_max_656x437.jpeg"
+            },
+            {
+                "url": "https://media.rightmove.co.uk/dir/225k/224981/120879029/224981_NHG_RAWPS_54Georgeduplex_IMG_04_0000_max_656x437.jpeg"
+            },
+            {
+                "url": "https://media.rightmove.co.uk/dir/225k/224981/120879029/224981_NHG_RAWPS_54Georgeduplex_IMG_05_0001_max_656x437.jpeg"
+            },
+            {
+                "url": "https://media.rightmove.co.uk/dir/225k/224981/120879029/224981_NHG_RAWPS_54Georgeduplex_IMG_06_0000_max_656x437.jpeg"
+            },
+            {
+                "url": "https://media.rightmove.co.uk/dir/225k/224981/120879029/224981_NHG_RAWPS_54Georgeduplex_IMG_08_0000_max_656x437.jpeg"
+            },
+            {
+                "url": "https://media.rightmove.co.uk/dir/225k/224981/120879029/224981_NHG_RAWPS_54Georgeduplex_IMG_09_0000_max_656x437.jpeg"
+            },
+            {
+                "url": "https://media.rightmove.co.uk/dir/225k/224981/120879029/224981_NHG_RAWPS_54Georgeduplex_IMG_07_0000_max_656x437.jpeg"
+            },
+            {
+                "url": "https://media.rightmove.co.uk/dir/225k/224981/120879029/224981_NHG_RAWPS_54Georgeduplex_IMG_00_0000_max_656x437.jpeg"
+            },
+            {
+                "url": "https://media.rightmove.co.uk/dir/225k/224981/120879029/224981_NHG_RAWPS_54Georgeduplex_IMG_10_0000_max_656x437.jpeg"
+            },
+            {
+                "url": "https://media.rightmove.co.uk/dir/225k/224981/120879029/224981_NHG_RAWPS_54Georgeduplex_IMG_01_0000_max_656x437.jpeg"
+            }
+        ],
+        "keywords": []
+    },
+    {
+        "identifier": 99469196,
+        "visible": true,
+        "price": 641250.0,
+        "priceQualifier": "",
+        "shouldShowPrice": true,
+        "bedrooms": 3,
+        "address": "Gallions Point, London, E16",
+        "latitude": 51.508423,
+        "longitude": 0.073162,
+        "showMap": true,
+        "propertyType": "apartment",
+        "development": true,
+        "commercial": false,
+        "updateDate": 1647401646000,
+        "autoEmailReasonType": "new",
+        "transactionTypeId": 1,
+        "sortDate": 1597330805000,
+        "photoThumbnailUrl": "https://media.rightmove.co.uk/dir/106k/105263/99469196/105263_CIF190324_IMG_00_0000_max_200x138.jpeg",
+        "photoLargeThumbnailUrl": "https://media.rightmove.co.uk/dir/106k/105263/99469196/105263_CIF190324_IMG_00_0000_max_656x437.jpeg",
+        "photoCount": 15,
+        "floorplanCount": 1,
+        "branch": {
+            "identifier": 105263,
+            "name": "Residential",
+            "brandName": "Colliers International",
+            "development": false,
+            "updateDate": 1644242507000,
+            "branchLogo": "https://media.rightmove.co.uk/dir//106k/105263/branch_rmchoice_logo_105263_0001.jpeg",
+            "brandPlusResale": true,
+            "brandPlusLettings": false,
+            "hideReducedPropsFlag": false,
+            "address": "50 George Street,\r\nLondon,\r\nW1U 7GA",
+            "telephoneNumbers": [
+                {
+                    "identifier": null,
+                    "label": null,
+                    "number": "020 8012 4556",
+                    "main": null
+                }
+            ],
+            "contactTelephoneNumber": "020 8012 4556"
+        },
+        "exactLocationAvailable": true,
+        "status": null,
+        "dateShortlisted": null,
+        "premiumDisplay": false,
+        "premiumDisplayStickerName": "",
+        "premiumDisplayStyle": 26,
+        "photoThumbnail2Url": null,
+        "photoThumbnail3Url": null,
+        "photoThumbnail4Url": null,
+        "orderFromServer": 15,
+        "showStreetView": true,
+        "overseas": false,
+        "letFurnishType": null,
+        "summary": "This 1,080 sq. ft. 3 bedroom / 2 bathroom apartment with JULIETTE BALCONY is set on the 8th floor with views towards RIVER THAMES within the heart of this fantastic NEW DEVELOPMENT of GALLIONS POINT.",
+        "showLettingFeesMessage": false,
+        "saved": false,
+        "hidden": false,
+        "displayPrices": [
+            {
+                "displayPrice": "\u00a3641,250",
+                "displayPriceQualifier": ""
+            }
+        ],
+        "onlineViewing": false,
+        "buildToRent": false,
+        "thumbnailPhotos": [
+            {
+                "url": "https://media.rightmove.co.uk/dir/106k/105263/99469196/105263_CIF190324_IMG_00_0000_max_656x437.jpeg"
+            },
+            {
+                "url": "https://media.rightmove.co.uk/dir/106k/105263/99469196/105263_CIF190324_IMG_01_0001_max_656x437.jpeg"
+            },
+            {
+                "url": "https://media.rightmove.co.uk/dir/106k/105263/99469196/105263_CIF190324_IMG_02_0001_max_656x437.jpeg"
+            },
+            {
+                "url": "https://media.rightmove.co.uk/dir/106k/105263/99469196/105263_CIF190324_IMG_03_0001_max_656x437.jpeg"
+            },
+            {
+                "url": "https://media.rightmove.co.uk/dir/106k/105263/99469196/105263_CIF190324_IMG_04_0001_max_656x437.jpeg"
+            },
+            {
+                "url": "https://media.rightmove.co.uk/dir/106k/105263/99469196/105263_CIF190324_IMG_05_0001_max_656x437.jpeg"
+            },
+            {
+                "url": "https://media.rightmove.co.uk/dir/106k/105263/99469196/105263_CIF190324_IMG_06_0001_max_656x437.jpeg"
+            },
+            {
+                "url": "https://media.rightmove.co.uk/dir/106k/105263/99469196/105263_CIF190324_IMG_07_0001_max_656x437.jpeg"
+            },
+            {
+                "url": "https://media.rightmove.co.uk/dir/106k/105263/99469196/105263_CIF190324_IMG_08_0001_max_656x437.jpeg"
+            },
+            {
+                "url": "https://media.rightmove.co.uk/dir/106k/105263/99469196/105263_CIF190324_IMG_09_0001_max_656x437.jpeg"
+            },
+            {
+                "url": "https://media.rightmove.co.uk/dir/106k/105263/99469196/105263_CIF190324_IMG_10_0001_max_656x437.jpeg"
+            },
+            {
+                "url": "https://media.rightmove.co.uk/dir/106k/105263/99469196/105263_CIF190324_IMG_11_0001_max_656x437.jpeg"
+            },
+            {
+                "url": "https://media.rightmove.co.uk/dir/106k/105263/99469196/105263_CIF190324_IMG_12_0001_max_656x437.jpeg"
+            },
+            {
+                "url": "https://media.rightmove.co.uk/dir/106k/105263/99469196/105263_CIF190324_IMG_13_0001_max_656x437.jpeg"
+            },
+            {
+                "url": "https://media.rightmove.co.uk/dir/106k/105263/99469196/105263_CIF190324_IMG_14_0001_max_656x437.jpeg"
+            }
+        ],
+        "keywords": []
+    },
+    {
+        "identifier": 117373217,
+        "visible": true,
+        "price": 630000.0,
+        "priceQualifier": "",
+        "shouldShowPrice": true,
+        "bedrooms": 4,
+        "address": "Aldersey Gardens, Barking, IG11",
+        "latitude": 51.54179,
+        "longitude": 0.08807,
+        "showMap": true,
+        "propertyType": "house",
+        "development": false,
+        "commercial": false,
+        "updateDate": 1645454451000,
+        "autoEmailReasonType": "new",
+        "transactionTypeId": 1,
+        "sortDate": 1639003561000,
+        "photoThumbnailUrl": "https://media.rightmove.co.uk/dir/1k/218/117373217/218_BAR210423_IMG_00_0000_max_200x138.jpeg",
+        "photoLargeThumbnailUrl": "https://media.rightmove.co.uk/dir/1k/218/117373217/218_BAR210423_IMG_00_0000_max_656x437.jpeg",
+        "photoCount": 14,
+        "floorplanCount": 0,
+        "branch": {
+            "identifier": 218,
+            "name": "Barking",
+            "brandName": "Bairstow Eves",
+            "development": false,
+            "updateDate": 1633025040000,
+            "branchLogo": "https://media.rightmove.co.uk/dir//brand/brand_rmchoice_logo_71570_0002.jpeg",
+            "brandPlusResale": true,
+            "brandPlusLettings": false,
+            "hideReducedPropsFlag": false,
+            "address": "74 Station Parade, Barking, Essex, IG11 8EA",
+            "telephoneNumbers": [
+                {
+                    "identifier": null,
+                    "label": null,
+                    "number": "020 8012 1721",
+                    "main": null
+                }
+            ],
+            "contactTelephoneNumber": "020 8012 1721"
+        },
+        "exactLocationAvailable": true,
+        "status": null,
+        "dateShortlisted": null,
+        "premiumDisplay": true,
+        "premiumDisplayStickerName": "Premium Listing",
+        "premiumDisplayStyle": 14,
+        "photoThumbnail2Url": "https://media.rightmove.co.uk/dir/1k/218/117373217/218_BAR210423_IMG_01_0000_max_200x138.jpeg",
+        "photoThumbnail3Url": "https://media.rightmove.co.uk/dir/1k/218/117373217/218_BAR210423_IMG_02_0000_max_200x138.jpeg",
+        "photoThumbnail4Url": "https://media.rightmove.co.uk/dir/1k/218/117373217/218_BAR210423_IMG_03_0000_max_200x138.jpeg",
+        "orderFromServer": 16,
+        "showStreetView": true,
+        "overseas": false,
+        "letFurnishType": null,
+        "summary": "Bairstow Eves are proud to be selling this four bedroom house in Barking on the ever popular faircross estate location within easy reach to the local shops and station. The downstairs benefits from a large open planned lounge with a fitted kitchen, great for a large family offering the space to e...",
+        "showLettingFeesMessage": false,
+        "saved": false,
+        "hidden": false,
+        "displayPrices": [
+            {
+                "displayPrice": "\u00a3630,000",
+                "displayPriceQualifier": ""
+            }
+        ],
+        "onlineViewing": false,
+        "buildToRent": false,
+        "thumbnailPhotos": [
+            {
+                "url": "https://media.rightmove.co.uk/dir/1k/218/117373217/218_BAR210423_IMG_00_0000_max_656x437.jpeg"
+            },
+            {
+                "url": "https://media.rightmove.co.uk/dir/1k/218/117373217/218_BAR210423_IMG_01_0000_max_656x437.jpeg"
+            },
+            {
+                "url": "https://media.rightmove.co.uk/dir/1k/218/117373217/218_BAR210423_IMG_02_0000_max_656x437.jpeg"
+            },
+            {
+                "url": "https://media.rightmove.co.uk/dir/1k/218/117373217/218_BAR210423_IMG_03_0000_max_656x437.jpeg"
+            },
+            {
+                "url": "https://media.rightmove.co.uk/dir/1k/218/117373217/218_BAR210423_IMG_04_0000_max_656x437.jpeg"
+            },
+            {
+                "url": "https://media.rightmove.co.uk/dir/1k/218/117373217/218_BAR210423_IMG_05_0000_max_656x437.jpeg"
+            },
+            {
+                "url": "https://media.rightmove.co.uk/dir/1k/218/117373217/218_BAR210423_IMG_06_0000_max_656x437.jpeg"
+            },
+            {
+                "url": "https://media.rightmove.co.uk/dir/1k/218/117373217/218_BAR210423_IMG_07_0000_max_656x437.jpeg"
+            },
+            {
+                "url": "https://media.rightmove.co.uk/dir/1k/218/117373217/218_BAR210423_IMG_08_0000_max_656x437.jpeg"
+            },
+            {
+                "url": "https://media.rightmove.co.uk/dir/1k/218/117373217/218_BAR210423_IMG_09_0000_max_656x437.jpeg"
+            },
+            {
+                "url": "https://media.rightmove.co.uk/dir/1k/218/117373217/218_BAR210423_IMG_10_0000_max_656x437.jpeg"
+            },
+            {
+                "url": "https://media.rightmove.co.uk/dir/1k/218/117373217/218_BAR210423_IMG_11_0000_max_656x437.jpeg"
+            },
+            {
+                "url": "https://media.rightmove.co.uk/dir/1k/218/117373217/218_BAR210423_IMG_12_0000_max_656x437.jpeg"
+            },
+            {
+                "url": "https://media.rightmove.co.uk/dir/1k/218/117373217/218_BAR210423_IMG_13_0000_max_656x437.jpeg"
+            }
+        ],
+        "keywords": []
+    },
+    {
+        "identifier": 82165557,
+        "visible": true,
+        "price": 625000.0,
+        "priceQualifier": "",
+        "shouldShowPrice": true,
+        "bedrooms": 5,
+        "address": "Hulse Avenue, Longbridge, Barking",
+        "latitude": 51.54053,
+        "longitude": 0.0935,
+        "showMap": true,
+        "propertyType": "terraced house",
+        "development": false,
+        "commercial": false,
+        "updateDate": 1644744722000,
+        "autoEmailReasonType": "new",
+        "transactionTypeId": 1,
+        "sortDate": 1634823181000,
+        "photoThumbnailUrl": "https://media.rightmove.co.uk/dir/204k/203339/82165557/203339_103371001695_IMG_00_0000_max_200x138.jpeg",
+        "photoLargeThumbnailUrl": "https://media.rightmove.co.uk/dir/204k/203339/82165557/203339_103371001695_IMG_00_0000_max_656x437.jpeg",
+        "photoCount": 27,
+        "floorplanCount": 1,
+        "branch": {
+            "identifier": 203339,
+            "name": "Loughton",
+            "brandName": "Durden & Hunt",
+            "development": false,
+            "updateDate": 1644421432000,
+            "branchLogo": "https://media.rightmove.co.uk/dir//204k/203339/branch_rmchoice_logo_203339_0004.jpeg",
+            "brandPlusResale": true,
+            "brandPlusLettings": true,
+            "hideReducedPropsFlag": false,
+            "address": "309 High Road,\r\nLoughton,\r\nIG10 1AL",
+            "telephoneNumbers": [
+                {
+                    "identifier": null,
+                    "label": null,
+                    "number": "020 3858 7983",
+                    "main": null
+                }
+            ],
+            "contactTelephoneNumber": "020 3858 7983"
+        },
+        "exactLocationAvailable": true,
+        "status": null,
+        "dateShortlisted": null,
+        "premiumDisplay": false,
+        "premiumDisplayStickerName": "",
+        "premiumDisplayStyle": 26,
+        "photoThumbnail2Url": null,
+        "photoThumbnail3Url": null,
+        "photoThumbnail4Url": null,
+        "orderFromServer": 17,
+        "showStreetView": true,
+        "overseas": false,
+        "letFurnishType": null,
+        "summary": "Five Bedrooms - Two Bathrooms - Large Through Lounge - Spacious Modern Kitchen Diner - Kitchen With Space To Dine & Breakfast Bar Area - Ready To Move In Condition - Easily Maintained Rear Garden - Outbuilding - Close To Multiple Train Line Stations.",
+        "showLettingFeesMessage": false,
+        "saved": false,
+        "hidden": false,
+        "displayPrices": [
+            {
+                "displayPrice": "\u00a3625,000",
+                "displayPriceQualifier": ""
+            }
+        ],
+        "onlineViewing": false,
+        "buildToRent": false,
+        "thumbnailPhotos": [
+            {
+                "url": "https://media.rightmove.co.uk/dir/204k/203339/82165557/203339_103371001695_IMG_00_0000_max_656x437.jpeg"
+            },
+            {
+                "url": "https://media.rightmove.co.uk/dir/204k/203339/82165557/203339_103371001695_IMG_01_0000_max_656x437.jpeg"
+            },
+            {
+                "url": "https://media.rightmove.co.uk/dir/204k/203339/82165557/203339_103371001695_IMG_02_0000_max_656x437.jpeg"
+            },
+            {
+                "url": "https://media.rightmove.co.uk/dir/204k/203339/82165557/203339_103371001695_IMG_03_0000_max_656x437.jpeg"
+            },
+            {
+                "url": "https://media.rightmove.co.uk/dir/204k/203339/82165557/203339_103371001695_IMG_04_0000_max_656x437.jpeg"
+            },
+            {
+                "url": "https://media.rightmove.co.uk/dir/204k/203339/82165557/203339_103371001695_IMG_05_0000_max_656x437.jpeg"
+            },
+            {
+                "url": "https://media.rightmove.co.uk/dir/204k/203339/82165557/203339_103371001695_IMG_06_0000_max_656x437.jpeg"
+            },
+            {
+                "url": "https://media.rightmove.co.uk/dir/204k/203339/82165557/203339_103371001695_IMG_07_0000_max_656x437.jpeg"
+            },
+            {
+                "url": "https://media.rightmove.co.uk/dir/204k/203339/82165557/203339_103371001695_IMG_08_0000_max_656x437.jpeg"
+            },
+            {
+                "url": "https://media.rightmove.co.uk/dir/204k/203339/82165557/203339_103371001695_IMG_09_0000_max_656x437.jpeg"
+            },
+            {
+                "url": "https://media.rightmove.co.uk/dir/204k/203339/82165557/203339_103371001695_IMG_10_0000_max_656x437.jpeg"
+            },
+            {
+                "url": "https://media.rightmove.co.uk/dir/204k/203339/82165557/203339_103371001695_IMG_11_0000_max_656x437.jpeg"
+            },
+            {
+                "url": "https://media.rightmove.co.uk/dir/204k/203339/82165557/203339_103371001695_IMG_12_0000_max_656x437.jpeg"
+            },
+            {
+                "url": "https://media.rightmove.co.uk/dir/204k/203339/82165557/203339_103371001695_IMG_13_0000_max_656x437.jpeg"
+            },
+            {
+                "url": "https://media.rightmove.co.uk/dir/204k/203339/82165557/203339_103371001695_IMG_14_0000_max_656x437.jpeg"
+            },
+            {
+                "url": "https://media.rightmove.co.uk/dir/204k/203339/82165557/203339_103371001695_IMG_15_0000_max_656x437.jpeg"
+            },
+            {
+                "url": "https://media.rightmove.co.uk/dir/204k/203339/82165557/203339_103371001695_IMG_16_0000_max_656x437.jpeg"
+            },
+            {
+                "url": "https://media.rightmove.co.uk/dir/204k/203339/82165557/203339_103371001695_IMG_17_0000_max_656x437.jpeg"
+            },
+            {
+                "url": "https://media.rightmove.co.uk/dir/204k/203339/82165557/203339_103371001695_IMG_18_0000_max_656x437.jpeg"
+            },
+            {
+                "url": "https://media.rightmove.co.uk/dir/204k/203339/82165557/203339_103371001695_IMG_19_0000_max_656x437.jpeg"
+            },
+            {
+                "url": "https://media.rightmove.co.uk/dir/204k/203339/82165557/203339_103371001695_IMG_20_0000_max_656x437.jpeg"
+            },
+            {
+                "url": "https://media.rightmove.co.uk/dir/204k/203339/82165557/203339_103371001695_IMG_21_0000_max_656x437.jpeg"
+            },
+            {
+                "url": "https://media.rightmove.co.uk/dir/204k/203339/82165557/203339_103371001695_IMG_22_0000_max_656x437.jpeg"
+            },
+            {
+                "url": "https://media.rightmove.co.uk/dir/204k/203339/82165557/203339_103371001695_IMG_23_0000_max_656x437.jpeg"
+            },
+            {
+                "url": "https://media.rightmove.co.uk/dir/204k/203339/82165557/203339_103371001695_IMG_27_0000_max_656x437.jpeg"
+            },
+            {
+                "url": "https://media.rightmove.co.uk/dir/204k/203339/82165557/203339_103371001695_IMG_25_0000_max_656x437.jpeg"
+            },
+            {
+                "url": "https://media.rightmove.co.uk/dir/204k/203339/82165557/203339_103371001695_IMG_26_0000_max_656x437.jpeg"
+            }
+        ],
+        "keywords": []
+    },
+    {
+        "identifier": 120332540,
+        "visible": true,
+        "price": 625000.0,
+        "priceQualifier": "Offers Over",
+        "shouldShowPrice": true,
+        "bedrooms": 3,
+        "address": "Westrow Drive, Barking, Barking",
+        "latitude": 51.54466,
+        "longitude": 0.106319,
+        "showMap": true,
+        "propertyType": "end of terrace house",
+        "development": false,
+        "commercial": false,
+        "updateDate": 1646823413000,
+        "autoEmailReasonType": "new",
+        "transactionTypeId": 1,
+        "sortDate": 1645716963000,
+        "photoThumbnailUrl": "https://media.rightmove.co.uk/dir/215k/214967/120332540/214967_TAE210033_IMG_00_0000_max_200x138.jpeg",
+        "photoLargeThumbnailUrl": "https://media.rightmove.co.uk/dir/215k/214967/120332540/214967_TAE210033_IMG_00_0000_max_656x437.jpeg",
+        "photoCount": 9,
+        "floorplanCount": 1,
+        "branch": {
+            "identifier": 214967,
+            "name": "Brentwood",
+            "brandName": "Keller Williams",
+            "development": false,
+            "updateDate": 1646823413000,
+            "branchLogo": "https://media.rightmove.co.uk/dir//215k/214967/branch_rmchoice_logo_214967_0000.png",
+            "brandPlusResale": true,
+            "brandPlusLettings": true,
+            "hideReducedPropsFlag": false,
+            "address": "Suite 1G, Widford Business Centre, 33 Robjohns Road, Chelmsford, CM1 3AG",
+            "telephoneNumbers": [
+                {
+                    "identifier": null,
+                    "label": null,
+                    "number": "01270 388062",
+                    "main": null
+                }
+            ],
+            "contactTelephoneNumber": "01270 388062"
+        },
+        "exactLocationAvailable": true,
+        "status": null,
+        "dateShortlisted": null,
+        "premiumDisplay": false,
+        "premiumDisplayStickerName": "",
+        "premiumDisplayStyle": 26,
+        "photoThumbnail2Url": null,
+        "photoThumbnail3Url": null,
+        "photoThumbnail4Url": null,
+        "orderFromServer": 18,
+        "showStreetView": true,
+        "overseas": false,
+        "letFurnishType": null,
+        "summary": "Tom Ashwood is delighted to offer to the market this stunning bay fronted three-bedroom family home located in the much sought after Westrow Drive on Barking\u2019s Leftley Estate.",
+        "showLettingFeesMessage": false,
+        "saved": false,
+        "hidden": false,
+        "displayPrices": [
+            {
+                "displayPrice": "\u00a3625,000",
+                "displayPriceQualifier": "Offers Over"
+            }
+        ],
+        "onlineViewing": false,
+        "buildToRent": false,
+        "thumbnailPhotos": [
+            {
+                "url": "https://media.rightmove.co.uk/dir/215k/214967/120332540/214967_TAE210033_IMG_00_0000_max_656x437.jpeg"
+            },
+            {
+                "url": "https://media.rightmove.co.uk/dir/215k/214967/120332540/214967_TAE210033_IMG_01_0000_max_656x437.jpeg"
+            },
+            {
+                "url": "https://media.rightmove.co.uk/dir/215k/214967/120332540/214967_TAE210033_IMG_02_0000_max_656x437.jpeg"
+            },
+            {
+                "url": "https://media.rightmove.co.uk/dir/215k/214967/120332540/214967_TAE210033_IMG_03_0000_max_656x437.jpeg"
+            },
+            {
+                "url": "https://media.rightmove.co.uk/dir/215k/214967/120332540/214967_TAE210033_IMG_04_0000_max_656x437.jpeg"
+            },
+            {
+                "url": "https://media.rightmove.co.uk/dir/215k/214967/120332540/214967_TAE210033_IMG_05_0000_max_656x437.jpeg"
+            },
+            {
+                "url": "https://media.rightmove.co.uk/dir/215k/214967/120332540/214967_TAE210033_IMG_06_0000_max_656x437.jpeg"
+            },
+            {
+                "url": "https://media.rightmove.co.uk/dir/215k/214967/120332540/214967_TAE210033_IMG_07_0000_max_656x437.jpeg"
+            },
+            {
+                "url": "https://media.rightmove.co.uk/dir/215k/214967/120332540/214967_TAE210033_IMG_08_0000_max_656x437.jpeg"
+            }
+        ],
+        "keywords": []
+    },
+    {
+        "identifier": 82878744,
+        "visible": true,
+        "price": 600000.0,
+        "priceQualifier": "Guide Price",
+        "shouldShowPrice": true,
+        "bedrooms": 3,
+        "address": "Hudson Way, Beckton, London, E16",
+        "latitude": 51.5065,
+        "longitude": 0.075011,
+        "showMap": true,
+        "propertyType": "town house",
+        "development": false,
+        "commercial": false,
+        "updateDate": 1647362544000,
+        "autoEmailReasonType": "price_reduced",
+        "transactionTypeId": 1,
+        "sortDate": 1646927604000,
+        "photoThumbnailUrl": "https://media.rightmove.co.uk/dir/10k/9275/82878744/9275_22230812_IMG_00_0000_max_200x138.jpeg",
+        "photoLargeThumbnailUrl": "https://media.rightmove.co.uk/dir/10k/9275/82878744/9275_22230812_IMG_00_0000_max_656x437.jpeg",
+        "photoCount": 24,
+        "floorplanCount": 1,
+        "branch": {
+            "identifier": 9275,
+            "name": "Eastham",
+            "brandName": "Aston Fox",
+            "development": false,
+            "updateDate": 1644242463000,
+            "branchLogo": "https://media.rightmove.co.uk/dir//company/clogo_rmchoice_3166_0018.jpeg",
+            "brandPlusResale": true,
+            "brandPlusLettings": true,
+            "hideReducedPropsFlag": false,
+            "address": "196 High Street North,\r\nLondon,\r\nE6 2JA",
+            "telephoneNumbers": [
+                {
+                    "identifier": null,
+                    "label": null,
+                    "number": "020 8012 3944",
+                    "main": null
+                }
+            ],
+            "contactTelephoneNumber": "020 8012 3944"
+        },
+        "exactLocationAvailable": true,
+        "status": null,
+        "dateShortlisted": null,
+        "premiumDisplay": false,
+        "premiumDisplayStickerName": "",
+        "premiumDisplayStyle": 26,
+        "photoThumbnail2Url": null,
+        "photoThumbnail3Url": null,
+        "photoThumbnail4Url": null,
+        "orderFromServer": 19,
+        "showStreetView": true,
+        "overseas": false,
+        "letFurnishType": null,
+        "summary": "Guide Price: \u00a3600,000 to \u00a3625,000 L/HPlease be aware this is a Sale by Tender property and the prospective purchaser will incur an introductory fee to Aston Fox.At each individual viewing, we will supply PPE equipment. 360 degree tour available, and video tour availab...",
+        "showLettingFeesMessage": false,
+        "saved": false,
+        "hidden": false,
+        "displayPrices": [
+            {
+                "displayPrice": "\u00a3600,000",
+                "displayPriceQualifier": "Guide Price"
+            }
+        ],
+        "onlineViewing": false,
+        "buildToRent": false,
+        "thumbnailPhotos": [
+            {
+                "url": "https://media.rightmove.co.uk/dir/10k/9275/82878744/9275_22230812_IMG_00_0000_max_656x437.jpeg"
+            },
+            {
+                "url": "https://media.rightmove.co.uk/dir/10k/9275/82878744/9275_22230812_IMG_01_0000_max_656x437.jpeg"
+            },
+            {
+                "url": "https://media.rightmove.co.uk/dir/10k/9275/82878744/9275_22230812_IMG_02_0000_max_656x437.jpeg"
+            },
+            {
+                "url": "https://media.rightmove.co.uk/dir/10k/9275/82878744/9275_22230812_IMG_05_0000_max_656x437.jpeg"
+            },
+            {
+                "url": "https://media.rightmove.co.uk/dir/10k/9275/82878744/9275_22230812_IMG_06_0000_max_656x437.jpeg"
+            },
+            {
+                "url": "https://media.rightmove.co.uk/dir/10k/9275/82878744/9275_22230812_IMG_07_0000_max_656x437.jpeg"
+            },
+            {
+                "url": "https://media.rightmove.co.uk/dir/10k/9275/82878744/9275_22230812_IMG_08_0000_max_656x437.jpeg"
+            },
+            {
+                "url": "https://media.rightmove.co.uk/dir/10k/9275/82878744/9275_22230812_IMG_09_0000_max_656x437.jpeg"
+            },
+            {
+                "url": "https://media.rightmove.co.uk/dir/10k/9275/82878744/9275_22230812_IMG_10_0000_max_656x437.jpeg"
+            },
+            {
+                "url": "https://media.rightmove.co.uk/dir/10k/9275/82878744/9275_22230812_IMG_11_0000_max_656x437.jpeg"
+            },
+            {
+                "url": "https://media.rightmove.co.uk/dir/10k/9275/82878744/9275_22230812_IMG_12_0000_max_656x437.jpeg"
+            },
+            {
+                "url": "https://media.rightmove.co.uk/dir/10k/9275/82878744/9275_22230812_IMG_13_0000_max_656x437.jpeg"
+            },
+            {
+                "url": "https://media.rightmove.co.uk/dir/10k/9275/82878744/9275_22230812_IMG_14_0000_max_656x437.jpeg"
+            },
+            {
+                "url": "https://media.rightmove.co.uk/dir/10k/9275/82878744/9275_22230812_IMG_15_0000_max_656x437.jpeg"
+            },
+            {
+                "url": "https://media.rightmove.co.uk/dir/10k/9275/82878744/9275_22230812_IMG_16_0000_max_656x437.jpeg"
+            },
+            {
+                "url": "https://media.rightmove.co.uk/dir/10k/9275/82878744/9275_22230812_IMG_17_0000_max_656x437.jpeg"
+            },
+            {
+                "url": "https://media.rightmove.co.uk/dir/10k/9275/82878744/9275_22230812_IMG_04_0000_max_656x437.jpeg"
+            },
+            {
+                "url": "https://media.rightmove.co.uk/dir/10k/9275/82878744/9275_22230812_IMG_03_0000_max_656x437.jpeg"
+            },
+            {
+                "url": "https://media.rightmove.co.uk/dir/10k/9275/82878744/9275_22230812_IMG_18_0000_max_656x437.jpeg"
+            },
+            {
+                "url": "https://media.rightmove.co.uk/dir/10k/9275/82878744/9275_22230812_IMG_19_0000_max_656x437.jpeg"
+            },
+            {
+                "url": "https://media.rightmove.co.uk/dir/10k/9275/82878744/9275_22230812_IMG_20_0000_max_656x437.jpeg"
+            },
+            {
+                "url": "https://media.rightmove.co.uk/dir/10k/9275/82878744/9275_22230812_IMG_21_0000_max_656x437.jpeg"
+            },
+            {
+                "url": "https://media.rightmove.co.uk/dir/10k/9275/82878744/9275_22230812_IMG_22_0000_max_656x437.jpeg"
+            },
+            {
+                "url": "https://media.rightmove.co.uk/dir/10k/9275/82878744/9275_22230812_IMG_23_0000_max_656x437.jpeg"
+            }
+        ],
+        "keywords": []
+    },
+    {
+        "identifier": 117356579,
+        "visible": true,
+        "price": 600000.0,
+        "priceQualifier": "Offers in Excess of",
+        "shouldShowPrice": true,
+        "bedrooms": 4,
+        "address": "Magellan Boulevard, London, E16",
+        "latitude": 51.50776,
+        "longitude": 0.078022,
+        "showMap": true,
+        "propertyType": "flat",
+        "development": false,
+        "commercial": false,
+        "updateDate": 1646831986000,
+        "autoEmailReasonType": "price_reduced",
+        "transactionTypeId": 1,
+        "sortDate": 1645548607000,
+        "photoThumbnailUrl": "https://media.rightmove.co.uk/dir/30k/29376/117356579/29376_HSS193419_IMG_00_0000_max_200x138.jpeg",
+        "photoLargeThumbnailUrl": "https://media.rightmove.co.uk/dir/30k/29376/117356579/29376_HSS193419_IMG_00_0000_max_656x437.jpeg",
+        "photoCount": 42,
+        "floorplanCount": 1,
+        "branch": {
+            "identifier": 29376,
+            "name": "Nationwide",
+            "brandName": "Strike",
+            "development": false,
+            "updateDate": 1646831986000,
+            "branchLogo": "https://media.rightmove.co.uk/dir//company/clogo_rmchoice_7671_0010.png",
+            "brandPlusResale": true,
+            "brandPlusLettings": false,
+            "hideReducedPropsFlag": false,
+            "address": "Nationwide",
+            "telephoneNumbers": [
+                {
+                    "identifier": null,
+                    "label": null,
+                    "number": "03339 874629",
+                    "main": null
+                }
+            ],
+            "contactTelephoneNumber": "03339 874629"
+        },
+        "exactLocationAvailable": true,
+        "status": null,
+        "dateShortlisted": null,
+        "premiumDisplay": false,
+        "premiumDisplayStickerName": "",
+        "premiumDisplayStyle": 26,
+        "photoThumbnail2Url": null,
+        "photoThumbnail3Url": null,
+        "photoThumbnail4Url": null,
+        "orderFromServer": 20,
+        "showStreetView": true,
+        "overseas": false,
+        "letFurnishType": null,
+        "summary": "***GUIDE PRICE \u00a3610,000 - \u00a3625,000*** We are pleased to present this modern 4 bedroom duplex in Block A of Bawley Court in the Royal Dockside development in Beckton, E16. Completed in February 2017, this spacious living space comprises a dual aspect property with wood flooring a...",
+        "showLettingFeesMessage": false,
+        "saved": false,
+        "hidden": false,
+        "displayPrices": [
+            {
+                "displayPrice": "\u00a3600,000",
+                "displayPriceQualifier": "Offers in Excess of"
+            }
+        ],
+        "onlineViewing": false,
+        "buildToRent": false,
+        "thumbnailPhotos": [
+            {
+                "url": "https://media.rightmove.co.uk/dir/30k/29376/117356579/29376_HSS193419_IMG_00_0000_max_656x437.jpeg"
+            },
+            {
+                "url": "https://media.rightmove.co.uk/dir/30k/29376/117356579/29376_HSS193419_IMG_01_0000_max_656x437.jpeg"
+            },
+            {
+                "url": "https://media.rightmove.co.uk/dir/30k/29376/117356579/29376_HSS193419_IMG_02_0000_max_656x437.jpeg"
+            },
+            {
+                "url": "https://media.rightmove.co.uk/dir/30k/29376/117356579/29376_HSS193419_IMG_03_0000_max_656x437.jpeg"
+            },
+            {
+                "url": "https://media.rightmove.co.uk/dir/30k/29376/117356579/29376_HSS193419_IMG_04_0000_max_656x437.jpeg"
+            },
+            {
+                "url": "https://media.rightmove.co.uk/dir/30k/29376/117356579/29376_HSS193419_IMG_05_0000_max_656x437.jpeg"
+            },
+            {
+                "url": "https://media.rightmove.co.uk/dir/30k/29376/117356579/29376_HSS193419_IMG_06_0000_max_656x437.jpeg"
+            },
+            {
+                "url": "https://media.rightmove.co.uk/dir/30k/29376/117356579/29376_HSS193419_IMG_07_0000_max_656x437.jpeg"
+            },
+            {
+                "url": "https://media.rightmove.co.uk/dir/30k/29376/117356579/29376_HSS193419_IMG_08_0000_max_656x437.jpeg"
+            },
+            {
+                "url": "https://media.rightmove.co.uk/dir/30k/29376/117356579/29376_HSS193419_IMG_09_0000_max_656x437.jpeg"
+            },
+            {
+                "url": "https://media.rightmove.co.uk/dir/30k/29376/117356579/29376_HSS193419_IMG_10_0000_max_656x437.jpeg"
+            },
+            {
+                "url": "https://media.rightmove.co.uk/dir/30k/29376/117356579/29376_HSS193419_IMG_11_0000_max_656x437.jpeg"
+            },
+            {
+                "url": "https://media.rightmove.co.uk/dir/30k/29376/117356579/29376_HSS193419_IMG_12_0000_max_656x437.jpeg"
+            },
+            {
+                "url": "https://media.rightmove.co.uk/dir/30k/29376/117356579/29376_HSS193419_IMG_13_0000_max_656x437.jpeg"
+            },
+            {
+                "url": "https://media.rightmove.co.uk/dir/30k/29376/117356579/29376_HSS193419_IMG_14_0000_max_656x437.jpeg"
+            },
+            {
+                "url": "https://media.rightmove.co.uk/dir/30k/29376/117356579/29376_HSS193419_IMG_15_0000_max_656x437.jpeg"
+            },
+            {
+                "url": "https://media.rightmove.co.uk/dir/30k/29376/117356579/29376_HSS193419_IMG_16_0000_max_656x437.jpeg"
+            },
+            {
+                "url": "https://media.rightmove.co.uk/dir/30k/29376/117356579/29376_HSS193419_IMG_17_0000_max_656x437.jpeg"
+            },
+            {
+                "url": "https://media.rightmove.co.uk/dir/30k/29376/117356579/29376_HSS193419_IMG_18_0000_max_656x437.jpeg"
+            },
+            {
+                "url": "https://media.rightmove.co.uk/dir/30k/29376/117356579/29376_HSS193419_IMG_19_0000_max_656x437.jpeg"
+            },
+            {
+                "url": "https://media.rightmove.co.uk/dir/30k/29376/117356579/29376_HSS193419_IMG_20_0000_max_656x437.jpeg"
+            },
+            {
+                "url": "https://media.rightmove.co.uk/dir/30k/29376/117356579/29376_HSS193419_IMG_21_0000_max_656x437.jpeg"
+            },
+            {
+                "url": "https://media.rightmove.co.uk/dir/30k/29376/117356579/29376_HSS193419_IMG_22_0000_max_656x437.jpeg"
+            },
+            {
+                "url": "https://media.rightmove.co.uk/dir/30k/29376/117356579/29376_HSS193419_IMG_23_0000_max_656x437.jpeg"
+            },
+            {
+                "url": "https://media.rightmove.co.uk/dir/30k/29376/117356579/29376_HSS193419_IMG_24_0000_max_656x437.jpeg"
+            },
+            {
+                "url": "https://media.rightmove.co.uk/dir/30k/29376/117356579/29376_HSS193419_IMG_25_0000_max_656x437.jpeg"
+            },
+            {
+                "url": "https://media.rightmove.co.uk/dir/30k/29376/117356579/29376_HSS193419_IMG_26_0000_max_656x437.jpeg"
+            },
+            {
+                "url": "https://media.rightmove.co.uk/dir/30k/29376/117356579/29376_HSS193419_IMG_27_0000_max_656x437.jpeg"
+            },
+            {
+                "url": "https://media.rightmove.co.uk/dir/30k/29376/117356579/29376_HSS193419_IMG_28_0000_max_656x437.jpeg"
+            },
+            {
+                "url": "https://media.rightmove.co.uk/dir/30k/29376/117356579/29376_HSS193419_IMG_29_0000_max_656x437.jpeg"
+            },
+            {
+                "url": "https://media.rightmove.co.uk/dir/30k/29376/117356579/29376_HSS193419_IMG_30_0000_max_656x437.jpeg"
+            },
+            {
+                "url": "https://media.rightmove.co.uk/dir/30k/29376/117356579/29376_HSS193419_IMG_31_0000_max_656x437.jpeg"
+            },
+            {
+                "url": "https://media.rightmove.co.uk/dir/30k/29376/117356579/29376_HSS193419_IMG_32_0000_max_656x437.jpeg"
+            },
+            {
+                "url": "https://media.rightmove.co.uk/dir/30k/29376/117356579/29376_HSS193419_IMG_33_0000_max_656x437.jpeg"
+            },
+            {
+                "url": "https://media.rightmove.co.uk/dir/30k/29376/117356579/29376_HSS193419_IMG_34_0000_max_656x437.jpeg"
+            },
+            {
+                "url": "https://media.rightmove.co.uk/dir/30k/29376/117356579/29376_HSS193419_IMG_35_0000_max_656x437.jpeg"
+            },
+            {
+                "url": "https://media.rightmove.co.uk/dir/30k/29376/117356579/29376_HSS193419_IMG_36_0000_max_656x437.jpeg"
+            },
+            {
+                "url": "https://media.rightmove.co.uk/dir/30k/29376/117356579/29376_HSS193419_IMG_37_0000_max_656x437.jpeg"
+            },
+            {
+                "url": "https://media.rightmove.co.uk/dir/30k/29376/117356579/29376_HSS193419_IMG_38_0000_max_656x437.jpeg"
+            },
+            {
+                "url": "https://media.rightmove.co.uk/dir/30k/29376/117356579/29376_HSS193419_IMG_39_0000_max_656x437.jpeg"
+            },
+            {
+                "url": "https://media.rightmove.co.uk/dir/30k/29376/117356579/29376_HSS193419_IMG_40_0000_max_656x437.jpeg"
+            },
+            {
+                "url": "https://media.rightmove.co.uk/dir/30k/29376/117356579/29376_HSS193419_IMG_41_0000_max_656x437.jpeg"
+            }
+        ],
+        "keywords": []
+    },
+    {
+        "identifier": 115892489,
+        "visible": true,
+        "price": 600000.0,
+        "priceQualifier": "",
+        "shouldShowPrice": true,
+        "bedrooms": 3,
+        "address": "Gallions Point, London, E16",
+        "latitude": 51.508423,
+        "longitude": 0.073162,
+        "showMap": true,
+        "propertyType": "apartment",
+        "development": true,
+        "commercial": false,
+        "updateDate": 1647401646000,
+        "autoEmailReasonType": "price_reduced",
+        "transactionTypeId": 1,
+        "sortDate": 1633437243000,
+        "photoThumbnailUrl": "https://media.rightmove.co.uk/dir/106k/105263/115892489/105263_WED210087_IMG_00_0000_max_200x138.jpeg",
+        "photoLargeThumbnailUrl": "https://media.rightmove.co.uk/dir/106k/105263/115892489/105263_WED210087_IMG_00_0000_max_656x437.jpeg",
+        "photoCount": 8,
+        "floorplanCount": 1,
+        "branch": {
+            "identifier": 105263,
+            "name": "Residential",
+            "brandName": "Colliers International",
+            "development": false,
+            "updateDate": 1644242507000,
+            "branchLogo": "https://media.rightmove.co.uk/dir//106k/105263/branch_rmchoice_logo_105263_0001.jpeg",
+            "brandPlusResale": true,
+            "brandPlusLettings": false,
+            "hideReducedPropsFlag": false,
+            "address": "50 George Street,\r\nLondon,\r\nW1U 7GA",
+            "telephoneNumbers": [
+                {
+                    "identifier": null,
+                    "label": null,
+                    "number": "020 8012 4556",
+                    "main": null
+                }
+            ],
+            "contactTelephoneNumber": "020 8012 4556"
+        },
+        "exactLocationAvailable": true,
+        "status": null,
+        "dateShortlisted": null,
+        "premiumDisplay": false,
+        "premiumDisplayStickerName": "",
+        "premiumDisplayStyle": 26,
+        "photoThumbnail2Url": null,
+        "photoThumbnail3Url": null,
+        "photoThumbnail4Url": null,
+        "orderFromServer": 21,
+        "showStreetView": true,
+        "overseas": false,
+        "letFurnishType": null,
+        "summary": "This is a fantastic three bedroom apartment on the 10th floor with two juliette balconies. Offering 1,084 sq ft of internal space and river Thames views within the heart of this fantastic new development Gallions Point. Gallions Point is a vibrant new community offering stylish, modern...",
+        "showLettingFeesMessage": false,
+        "saved": false,
+        "hidden": false,
+        "displayPrices": [
+            {
+                "displayPrice": "\u00a3600,000",
+                "displayPriceQualifier": ""
+            }
+        ],
+        "onlineViewing": false,
+        "buildToRent": false,
+        "thumbnailPhotos": [
+            {
+                "url": "https://media.rightmove.co.uk/dir/106k/105263/115892489/105263_WED210087_IMG_00_0000_max_656x437.jpeg"
+            },
+            {
+                "url": "https://media.rightmove.co.uk/dir/106k/105263/115892489/105263_WED210087_IMG_01_0000_max_656x437.jpeg"
+            },
+            {
+                "url": "https://media.rightmove.co.uk/dir/106k/105263/115892489/105263_WED210087_IMG_02_0000_max_656x437.jpeg"
+            },
+            {
+                "url": "https://media.rightmove.co.uk/dir/106k/105263/115892489/105263_WED210087_IMG_03_0000_max_656x437.jpeg"
+            },
+            {
+                "url": "https://media.rightmove.co.uk/dir/106k/105263/115892489/105263_WED210087_IMG_04_0000_max_656x437.jpeg"
+            },
+            {
+                "url": "https://media.rightmove.co.uk/dir/106k/105263/115892489/105263_WED210087_IMG_05_0000_max_656x437.jpeg"
+            },
+            {
+                "url": "https://media.rightmove.co.uk/dir/106k/105263/115892489/105263_WED210087_IMG_06_0000_max_656x437.jpeg"
+            },
+            {
+                "url": "https://media.rightmove.co.uk/dir/106k/105263/115892489/105263_WED210087_IMG_07_0000_max_656x437.jpeg"
+            }
+        ],
+        "keywords": []
+    },
+    {
+        "identifier": 119315567,
+        "visible": true,
+        "price": 600000.0,
+        "priceQualifier": "",
+        "shouldShowPrice": true,
+        "bedrooms": 5,
+        "address": "Wilmington Gardens, Barking, Essex",
+        "latitude": 51.53964,
+        "longitude": 0.08978,
+        "showMap": true,
+        "propertyType": "terraced house",
+        "development": false,
+        "commercial": false,
+        "updateDate": 1646228253000,
+        "autoEmailReasonType": "new",
+        "transactionTypeId": 1,
+        "sortDate": 1643571841000,
+        "photoThumbnailUrl": "https://media.rightmove.co.uk/dir/3k/2174/119315567/2174_52016094_IMG_02_0000_max_200x138.jpeg",
+        "photoLargeThumbnailUrl": "https://media.rightmove.co.uk/dir/3k/2174/119315567/2174_52016094_IMG_02_0000_max_656x437.jpeg",
+        "photoCount": 15,
+        "floorplanCount": 0,
+        "branch": {
+            "identifier": 2174,
+            "name": "Ilford",
+            "brandName": "Douglas Allen",
+            "development": false,
+            "updateDate": 1618220332000,
+            "branchLogo": "https://media.rightmove.co.uk/dir//brand/brand_rmchoice_logo_247_0002.jpeg",
+            "brandPlusResale": true,
+            "brandPlusLettings": false,
+            "hideReducedPropsFlag": false,
+            "address": "191 Cranbrook Road, \r\nIlford, \r\nEssex, IG1 4TA",
+            "telephoneNumbers": [
+                {
+                    "identifier": null,
+                    "label": null,
+                    "number": "020 8012 0922",
+                    "main": null
+                }
+            ],
+            "contactTelephoneNumber": "020 8012 0922"
+        },
+        "exactLocationAvailable": true,
+        "status": null,
+        "dateShortlisted": null,
+        "premiumDisplay": false,
+        "premiumDisplayStickerName": "",
+        "premiumDisplayStyle": 26,
+        "photoThumbnail2Url": null,
+        "photoThumbnail3Url": null,
+        "photoThumbnail4Url": null,
+        "orderFromServer": 22,
+        "showStreetView": true,
+        "overseas": false,
+        "letFurnishType": null,
+        "summary": "Lovely family home located close to Barking Park and Barking train station, within walking distance to local shops and facilities. Would be an ideal family home as it is close to local schools and is situated in a family neighbourhood.",
+        "showLettingFeesMessage": false,
+        "saved": false,
+        "hidden": false,
+        "displayPrices": [
+            {
+                "displayPrice": "\u00a3600,000",
+                "displayPriceQualifier": ""
+            }
+        ],
+        "onlineViewing": true,
+        "buildToRent": false,
+        "thumbnailPhotos": [
+            {
+                "url": "https://media.rightmove.co.uk/dir/3k/2174/119315567/2174_52016094_IMG_02_0000_max_656x437.jpeg"
+            },
+            {
+                "url": "https://media.rightmove.co.uk/dir/3k/2174/119315567/2174_52016094_IMG_15_0000_max_656x437.jpeg"
+            },
+            {
+                "url": "https://media.rightmove.co.uk/dir/3k/2174/119315567/2174_52016094_IMG_03_0000_max_656x437.jpeg"
+            },
+            {
+                "url": "https://media.rightmove.co.uk/dir/3k/2174/119315567/2174_52016094_IMG_16_0000_max_656x437.jpeg"
+            },
+            {
+                "url": "https://media.rightmove.co.uk/dir/3k/2174/119315567/2174_52016094_IMG_04_0000_max_656x437.jpeg"
+            },
+            {
+                "url": "https://media.rightmove.co.uk/dir/3k/2174/119315567/2174_52016094_IMG_05_0000_max_656x437.jpeg"
+            },
+            {
+                "url": "https://media.rightmove.co.uk/dir/3k/2174/119315567/2174_52016094_IMG_06_0000_max_656x437.jpeg"
+            },
+            {
+                "url": "https://media.rightmove.co.uk/dir/3k/2174/119315567/2174_52016094_IMG_07_0000_max_656x437.jpeg"
+            },
+            {
+                "url": "https://media.rightmove.co.uk/dir/3k/2174/119315567/2174_52016094_IMG_08_0000_max_656x437.jpeg"
+            },
+            {
+                "url": "https://media.rightmove.co.uk/dir/3k/2174/119315567/2174_52016094_IMG_09_0000_max_656x437.jpeg"
+            },
+            {
+                "url": "https://media.rightmove.co.uk/dir/3k/2174/119315567/2174_52016094_IMG_10_0000_max_656x437.jpeg"
+            },
+            {
+                "url": "https://media.rightmove.co.uk/dir/3k/2174/119315567/2174_52016094_IMG_11_0000_max_656x437.jpeg"
+            },
+            {
+                "url": "https://media.rightmove.co.uk/dir/3k/2174/119315567/2174_52016094_IMG_12_0000_max_656x437.jpeg"
+            },
+            {
+                "url": "https://media.rightmove.co.uk/dir/3k/2174/119315567/2174_52016094_IMG_13_0000_max_656x437.jpeg"
+            },
+            {
+                "url": "https://media.rightmove.co.uk/dir/3k/2174/119315567/2174_52016094_IMG_14_0000_max_656x437.jpeg"
+            }
+        ],
+        "keywords": []
+    },
+    {
+        "identifier": 86498686,
+        "visible": true,
+        "price": 599995.0,
+        "priceQualifier": "",
+        "shouldShowPrice": true,
+        "bedrooms": 3,
+        "address": "Gallions Reach, London E16",
+        "latitude": 51.5088,
+        "longitude": 0.0723,
+        "showMap": true,
+        "propertyType": "apartment",
+        "development": true,
+        "commercial": false,
+        "updateDate": 1647401735000,
+        "autoEmailReasonType": "price_reduced",
+        "transactionTypeId": 1,
+        "sortDate": 1613493551000,
+        "photoThumbnailUrl": "https://media.rightmove.co.uk/dir/123k/122146/86498686/122146_102299001010_IMG_02_0000_max_200x138.jpg",
+        "photoLargeThumbnailUrl": "https://media.rightmove.co.uk/dir/123k/122146/86498686/122146_102299001010_IMG_02_0000_max_656x437.jpg",
+        "photoCount": 10,
+        "floorplanCount": 0,
+        "branch": {
+            "identifier": 122146,
+            "name": "London",
+            "brandName": "Chanin Estates",
+            "development": false,
+            "updateDate": 1644579616000,
+            "branchLogo": "https://media.rightmove.co.uk/dir//123k/122146/branch_rmchoice_logo_122146_0000.jpeg",
+            "brandPlusResale": true,
+            "brandPlusLettings": true,
+            "hideReducedPropsFlag": false,
+            "address": "61 \r\nAmsterdam Road\r\nLondon\r\nE14 3UU ",
+            "telephoneNumbers": [
+                {
+                    "identifier": null,
+                    "label": null,
+                    "number": "020 8012 0583",
+                    "main": null
+                }
+            ],
+            "contactTelephoneNumber": "020 8012 0583"
+        },
+        "exactLocationAvailable": true,
+        "status": null,
+        "dateShortlisted": null,
+        "premiumDisplay": false,
+        "premiumDisplayStickerName": "",
+        "premiumDisplayStyle": 26,
+        "photoThumbnail2Url": null,
+        "photoThumbnail3Url": null,
+        "photoThumbnail4Url": null,
+        "orderFromServer": 23,
+        "showStreetView": true,
+        "overseas": false,
+        "letFurnishType": null,
+        "summary": "A brand new, high specification three bedroom apartment in the Gallions Reach area near Royal Docks. Situated on the doorstep of Gallions Reach DLR and close to Custom House Station (Crossrail links from 2021) makes commuting to Canary Wharf seamless. An excellent investment opportunity.",
+        "showLettingFeesMessage": false,
+        "saved": false,
+        "hidden": false,
+        "displayPrices": [
+            {
+                "displayPrice": "\u00a3599,995",
+                "displayPriceQualifier": ""
+            }
+        ],
+        "onlineViewing": false,
+        "buildToRent": false,
+        "thumbnailPhotos": [
+            {
+                "url": "https://media.rightmove.co.uk/dir/123k/122146/86498686/122146_102299001010_IMG_02_0000_max_656x437.jpg"
+            },
+            {
+                "url": "https://media.rightmove.co.uk/dir/123k/122146/86498686/122146_102299001010_IMG_04_0000_max_656x437.jpg"
+            },
+            {
+                "url": "https://media.rightmove.co.uk/dir/123k/122146/86498686/122146_102299001010_IMG_03_0000_max_656x437.jpg"
+            },
+            {
+                "url": "https://media.rightmove.co.uk/dir/123k/122146/86498686/122146_102299001010_IMG_01_0000_max_656x437.jpg"
+            },
+            {
+                "url": "https://media.rightmove.co.uk/dir/123k/122146/86498686/122146_102299001010_IMG_05_0000_max_656x437.jpg"
+            },
+            {
+                "url": "https://media.rightmove.co.uk/dir/123k/122146/86498686/122146_102299001010_IMG_06_0000_max_656x437.jpg"
+            },
+            {
+                "url": "https://media.rightmove.co.uk/dir/123k/122146/86498686/122146_102299001010_IMG_07_0000_max_656x437.jpg"
+            },
+            {
+                "url": "https://media.rightmove.co.uk/dir/123k/122146/86498686/122146_102299001010_IMG_08_0000_max_656x437.jpg"
+            },
+            {
+                "url": "https://media.rightmove.co.uk/dir/123k/122146/86498686/122146_102299001010_IMG_09_0000_max_656x437.jpg"
+            },
+            {
+                "url": "https://media.rightmove.co.uk/dir/123k/122146/86498686/122146_102299001010_IMG_10_0000_max_656x437.jpg"
+            }
+        ],
+        "keywords": []
+    },
+    {
+        "identifier": 118948607,
+        "visible": true,
+        "price": 585000.0,
+        "priceQualifier": "",
+        "shouldShowPrice": true,
+        "bedrooms": 1,
+        "address": "Parkside At Royal Albert Wharf, Upper Dock Walk, Docklands, London, E16",
+        "latitude": 51.506588,
+        "longitude": 0.075455,
+        "showMap": true,
+        "propertyType": "apartment",
+        "development": true,
+        "commercial": false,
+        "updateDate": 1644895921000,
+        "autoEmailReasonType": "new",
+        "transactionTypeId": 1,
+        "sortDate": 1642676286000,
+        "photoThumbnailUrl": "https://media.rightmove.co.uk/dir/49k/48988/118948607/48988_CND220010_IMG_00_0000_max_200x138.jpeg",
+        "photoLargeThumbnailUrl": "https://media.rightmove.co.uk/dir/49k/48988/118948607/48988_CND220010_IMG_00_0000_max_656x437.jpeg",
+        "photoCount": 10,
+        "floorplanCount": 1,
+        "branch": {
+            "identifier": 48988,
+            "name": "Canary Wharf",
+            "brandName": "Savills New Homes",
+            "development": false,
+            "updateDate": 1616146420000,
+            "branchLogo": "https://media.rightmove.co.uk/dir//company/clogo_rmchoice_14060_0000.jpeg",
+            "brandPlusResale": true,
+            "brandPlusLettings": false,
+            "hideReducedPropsFlag": false,
+            "address": "20 Canada Square\r\nLondon\r\nE14 5NN\r\n",
+            "telephoneNumbers": [
+                {
+                    "identifier": null,
+                    "label": null,
+                    "number": "02382 205786",
+                    "main": null
+                }
+            ],
+            "contactTelephoneNumber": "02382 205786"
+        },
+        "exactLocationAvailable": true,
+        "status": null,
+        "dateShortlisted": null,
+        "premiumDisplay": false,
+        "premiumDisplayStickerName": "",
+        "premiumDisplayStyle": 26,
+        "photoThumbnail2Url": null,
+        "photoThumbnail3Url": null,
+        "photoThumbnail4Url": null,
+        "orderFromServer": 24,
+        "showStreetView": true,
+        "overseas": false,
+        "letFurnishType": null,
+        "summary": "A brand new spacious three bedroom apartment in Royal Albert Wharf. Beautifully designed interiors and a short walk to local parks. Enquire now to visit the marketing suite today.",
+        "showLettingFeesMessage": false,
+        "saved": false,
+        "hidden": false,
+        "displayPrices": [
+            {
+                "displayPrice": "\u00a3585,000",
+                "displayPriceQualifier": ""
+            }
+        ],
+        "onlineViewing": false,
+        "buildToRent": false,
+        "thumbnailPhotos": [
+            {
+                "url": "https://media.rightmove.co.uk/dir/49k/48988/118948607/48988_CND220010_IMG_00_0000_max_656x437.jpeg"
+            },
+            {
+                "url": "https://media.rightmove.co.uk/dir/49k/48988/118948607/48988_CND220010_IMG_01_0000_max_656x437.jpeg"
+            },
+            {
+                "url": "https://media.rightmove.co.uk/dir/49k/48988/118948607/48988_CND220010_IMG_02_0000_max_656x437.jpeg"
+            },
+            {
+                "url": "https://media.rightmove.co.uk/dir/49k/48988/118948607/48988_CND220010_IMG_03_0000_max_656x437.jpeg"
+            },
+            {
+                "url": "https://media.rightmove.co.uk/dir/49k/48988/118948607/48988_CND220010_IMG_04_0000_max_656x437.jpeg"
+            },
+            {
+                "url": "https://media.rightmove.co.uk/dir/49k/48988/118948607/48988_CND220010_IMG_05_0000_max_656x437.jpeg"
+            },
+            {
+                "url": "https://media.rightmove.co.uk/dir/49k/48988/118948607/48988_CND220010_IMG_06_0000_max_656x437.jpeg"
+            },
+            {
+                "url": "https://media.rightmove.co.uk/dir/49k/48988/118948607/48988_CND220010_IMG_07_0000_max_656x437.jpeg"
+            },
+            {
+                "url": "https://media.rightmove.co.uk/dir/49k/48988/118948607/48988_CND220010_IMG_08_0000_max_656x437.jpeg"
+            },
+            {
+                "url": "https://media.rightmove.co.uk/dir/49k/48988/118948607/48988_CND220010_IMG_09_0000_max_656x437.jpeg"
+            }
+        ],
+        "keywords": []
+    }
+]

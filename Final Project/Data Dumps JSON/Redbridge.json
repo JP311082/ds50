@@ -1,0 +1,2619 @@
+[
+    {
+        "identifier": 119768594,
+        "visible": true,
+        "price": 1000000.0,
+        "priceQualifier": "Offers in Excess of",
+        "shouldShowPrice": true,
+        "bedrooms": null,
+        "address": "Water Lane, Totton, Southampton, SO40",
+        "latitude": 50.91896,
+        "longitude": -1.490211,
+        "showMap": true,
+        "propertyType": "Land",
+        "development": false,
+        "commercial": true,
+        "updateDate": 1646670274000,
+        "autoEmailReasonType": "new",
+        "transactionTypeId": 1,
+        "sortDate": 1644450301000,
+        "photoThumbnailUrl": "https://media.rightmove.co.uk/dir/143k/142532/119768594/142532_COM220009_IMG_04_0000_max_200x138.jpeg",
+        "photoLargeThumbnailUrl": "https://media.rightmove.co.uk/dir/143k/142532/119768594/142532_COM220009_IMG_04_0000_max_656x437.jpeg",
+        "photoCount": 6,
+        "floorplanCount": 4,
+        "branch": {
+            "identifier": 142532,
+            "name": "Winchester",
+            "brandName": "Trinity Rose Commercial",
+            "development": false,
+            "updateDate": 1644241015000,
+            "branchLogo": "https://media.rightmove.co.uk/dir//company/clogo_rmchoice_45041_0005.jpeg",
+            "brandPlusResale": true,
+            "brandPlusLettings": true,
+            "hideReducedPropsFlag": false,
+            "address": "Trinity House,\r\n123 Winchester Road, Chandler's Ford, Hampshire,\r\nSO53 2DR",
+            "telephoneNumbers": [
+                {
+                    "identifier": null,
+                    "label": null,
+                    "number": "02382 200085",
+                    "main": null
+                }
+            ],
+            "contactTelephoneNumber": "02382 200085"
+        },
+        "exactLocationAvailable": false,
+        "distance": 0.8784,
+        "status": null,
+        "dateShortlisted": null,
+        "premiumDisplay": false,
+        "premiumDisplayStickerName": "",
+        "premiumDisplayStyle": 26,
+        "photoThumbnail2Url": null,
+        "photoThumbnail3Url": null,
+        "photoThumbnail4Url": null,
+        "orderFromServer": 0,
+        "showStreetView": true,
+        "overseas": false,
+        "letFurnishType": null,
+        "summary": "This freehold property is a detached building in a very prominent position in the town centre, providing an interesting opportunity for investment and residential development. The property currently comprises, on the ground floor, the Post Office and a Subway (existing businesses unaf...",
+        "showLettingFeesMessage": false,
+        "saved": false,
+        "hidden": false,
+        "displayPrices": [
+            {
+                "displayPrice": "\u00a31,000,000",
+                "displayPriceQualifier": "Offers in Excess of"
+            }
+        ],
+        "onlineViewing": false,
+        "buildToRent": false,
+        "thumbnailPhotos": [
+            {
+                "url": "https://media.rightmove.co.uk/dir/143k/142532/119768594/142532_COM220009_IMG_04_0000_max_656x437.jpeg"
+            },
+            {
+                "url": "https://media.rightmove.co.uk/dir/143k/142532/119768594/142532_COM220009_IMG_01_0000_max_656x437.jpeg"
+            },
+            {
+                "url": "https://media.rightmove.co.uk/dir/143k/142532/119768594/142532_COM220009_IMG_02_0000_max_656x437.jpeg"
+            },
+            {
+                "url": "https://media.rightmove.co.uk/dir/143k/142532/119768594/142532_COM220009_IMG_03_0000_max_656x437.jpeg"
+            },
+            {
+                "url": "https://media.rightmove.co.uk/dir/143k/142532/119768594/142532_COM220009_IMG_05_0000_max_656x437.jpeg"
+            },
+            {
+                "url": "https://media.rightmove.co.uk/dir/143k/142532/119768594/142532_COM220009_IMG_00_0000_max_656x437.jpeg"
+            }
+        ],
+        "keywords": []
+    },
+    {
+        "identifier": 121175315,
+        "visible": true,
+        "price": 405000.0,
+        "priceQualifier": "",
+        "shouldShowPrice": true,
+        "bedrooms": 3,
+        "address": "Totton",
+        "latitude": 50.921528,
+        "longitude": -1.490244,
+        "showMap": true,
+        "propertyType": "semi-detached house",
+        "development": false,
+        "commercial": false,
+        "updateDate": 1647454142000,
+        "autoEmailReasonType": "new",
+        "transactionTypeId": 1,
+        "sortDate": 1647454142000,
+        "photoThumbnailUrl": "https://media.rightmove.co.uk/dir/98k/97838/121175315/97838_11325901_IMG_00_0000_max_200x138.jpeg",
+        "photoLargeThumbnailUrl": "https://media.rightmove.co.uk/dir/98k/97838/121175315/97838_11325901_IMG_00_0000_max_656x437.jpeg",
+        "photoCount": 11,
+        "floorplanCount": 1,
+        "branch": {
+            "identifier": 97838,
+            "name": "Totton",
+            "brandName": "Brantons Independent Estate Agents",
+            "development": false,
+            "updateDate": 1637579440000,
+            "branchLogo": "https://media.rightmove.co.uk/dir//brand/brand_rmchoice_logo_44948_0000.jpeg",
+            "brandPlusResale": true,
+            "brandPlusLettings": true,
+            "hideReducedPropsFlag": false,
+            "address": "9a Salisbury Road,\r\nTotton,\r\nSO40 3HW",
+            "telephoneNumbers": [
+                {
+                    "identifier": null,
+                    "label": null,
+                    "number": "02380 875020",
+                    "main": null
+                }
+            ],
+            "contactTelephoneNumber": "02380 875020"
+        },
+        "exactLocationAvailable": false,
+        "distance": 0.8854,
+        "status": null,
+        "dateShortlisted": null,
+        "premiumDisplay": false,
+        "premiumDisplayStickerName": "",
+        "premiumDisplayStyle": 26,
+        "photoThumbnail2Url": null,
+        "photoThumbnail3Url": null,
+        "photoThumbnail4Url": null,
+        "orderFromServer": 1,
+        "showStreetView": true,
+        "overseas": false,
+        "letFurnishType": null,
+        "summary": "Situated within a highly regarded road in a quiet yet convenient location within central Totton, Brantons are delighted to present for sale this semi-detached character residence dating to circa 1930. The ground floor layout is comprised of a large hallway, spacious lounge with bay window and...",
+        "showLettingFeesMessage": false,
+        "saved": false,
+        "hidden": false,
+        "displayPrices": [
+            {
+                "displayPrice": "\u00a3405,000",
+                "displayPriceQualifier": ""
+            }
+        ],
+        "onlineViewing": false,
+        "buildToRent": false,
+        "thumbnailPhotos": [
+            {
+                "url": "https://media.rightmove.co.uk/dir/98k/97838/121175315/97838_11325901_IMG_00_0000_max_656x437.jpeg"
+            },
+            {
+                "url": "https://media.rightmove.co.uk/dir/98k/97838/121175315/97838_11325901_IMG_01_0000_max_656x437.jpeg"
+            },
+            {
+                "url": "https://media.rightmove.co.uk/dir/98k/97838/121175315/97838_11325901_IMG_02_0000_max_656x437.jpeg"
+            },
+            {
+                "url": "https://media.rightmove.co.uk/dir/98k/97838/121175315/97838_11325901_IMG_03_0000_max_656x437.jpeg"
+            },
+            {
+                "url": "https://media.rightmove.co.uk/dir/98k/97838/121175315/97838_11325901_IMG_04_0000_max_656x437.jpeg"
+            },
+            {
+                "url": "https://media.rightmove.co.uk/dir/98k/97838/121175315/97838_11325901_IMG_05_0000_max_656x437.jpeg"
+            },
+            {
+                "url": "https://media.rightmove.co.uk/dir/98k/97838/121175315/97838_11325901_IMG_06_0000_max_656x437.jpeg"
+            },
+            {
+                "url": "https://media.rightmove.co.uk/dir/98k/97838/121175315/97838_11325901_IMG_07_0000_max_656x437.jpeg"
+            },
+            {
+                "url": "https://media.rightmove.co.uk/dir/98k/97838/121175315/97838_11325901_IMG_08_0000_max_656x437.jpeg"
+            },
+            {
+                "url": "https://media.rightmove.co.uk/dir/98k/97838/121175315/97838_11325901_IMG_09_0000_max_656x437.jpeg"
+            },
+            {
+                "url": "https://media.rightmove.co.uk/dir/98k/97838/121175315/97838_11325901_IMG_10_0000_max_656x437.jpeg"
+            }
+        ],
+        "keywords": []
+    },
+    {
+        "identifier": 120184283,
+        "visible": true,
+        "price": 375000.0,
+        "priceQualifier": "",
+        "shouldShowPrice": true,
+        "bedrooms": 3,
+        "address": "Stirling Crescent, Totton, Southampton, Hampshire, SO40",
+        "latitude": 50.923702,
+        "longitude": -1.487304,
+        "showMap": true,
+        "propertyType": "semi-detached house",
+        "development": false,
+        "commercial": false,
+        "updateDate": 1646696988000,
+        "autoEmailReasonType": "new",
+        "transactionTypeId": 1,
+        "sortDate": 1645228502000,
+        "photoThumbnailUrl": "https://media.rightmove.co.uk/dir/1k/698/120184283/698_MTN200496_IMG_00_0000_max_200x138.jpeg",
+        "photoLargeThumbnailUrl": "https://media.rightmove.co.uk/dir/1k/698/120184283/698_MTN200496_IMG_00_0000_max_656x437.jpeg",
+        "photoCount": 14,
+        "floorplanCount": 1,
+        "branch": {
+            "identifier": 698,
+            "name": "Totton",
+            "brandName": "Mann",
+            "development": false,
+            "updateDate": 1633025041000,
+            "branchLogo": "https://media.rightmove.co.uk/dir//brand/brand_rmchoice_logo_22_0000.jpeg",
+            "brandPlusResale": true,
+            "brandPlusLettings": false,
+            "hideReducedPropsFlag": false,
+            "address": "15 Salisbury Road\r\nTotton\r\nSouthampton\r\nSO40 3HX ",
+            "telephoneNumbers": [
+                {
+                    "identifier": null,
+                    "label": null,
+                    "number": "02382 200360",
+                    "main": null
+                }
+            ],
+            "contactTelephoneNumber": "02382 200360"
+        },
+        "exactLocationAvailable": false,
+        "distance": 0.7954,
+        "status": null,
+        "dateShortlisted": null,
+        "premiumDisplay": false,
+        "premiumDisplayStickerName": "",
+        "premiumDisplayStyle": 26,
+        "photoThumbnail2Url": null,
+        "photoThumbnail3Url": null,
+        "photoThumbnail4Url": null,
+        "orderFromServer": 2,
+        "showStreetView": true,
+        "overseas": false,
+        "letFurnishType": null,
+        "summary": "Attention all nature lovers! In close proximity to the Test Way and local nature reserve, Mann Countrywide present for sale a must see extended three bedroom semi-detached house. The property is within walking distance of Totton town centre and the local nature reserve. The property b...",
+        "showLettingFeesMessage": false,
+        "saved": false,
+        "hidden": false,
+        "displayPrices": [
+            {
+                "displayPrice": "\u00a3375,000",
+                "displayPriceQualifier": ""
+            }
+        ],
+        "onlineViewing": false,
+        "buildToRent": false,
+        "thumbnailPhotos": [
+            {
+                "url": "https://media.rightmove.co.uk/dir/1k/698/120184283/698_MTN200496_IMG_00_0000_max_656x437.jpeg"
+            },
+            {
+                "url": "https://media.rightmove.co.uk/dir/1k/698/120184283/698_MTN200496_IMG_01_0000_max_656x437.jpeg"
+            },
+            {
+                "url": "https://media.rightmove.co.uk/dir/1k/698/120184283/698_MTN200496_IMG_02_0000_max_656x437.jpeg"
+            },
+            {
+                "url": "https://media.rightmove.co.uk/dir/1k/698/120184283/698_MTN200496_IMG_03_0000_max_656x437.jpeg"
+            },
+            {
+                "url": "https://media.rightmove.co.uk/dir/1k/698/120184283/698_MTN200496_IMG_04_0000_max_656x437.jpeg"
+            },
+            {
+                "url": "https://media.rightmove.co.uk/dir/1k/698/120184283/698_MTN200496_IMG_05_0000_max_656x437.jpeg"
+            },
+            {
+                "url": "https://media.rightmove.co.uk/dir/1k/698/120184283/698_MTN200496_IMG_06_0000_max_656x437.jpeg"
+            },
+            {
+                "url": "https://media.rightmove.co.uk/dir/1k/698/120184283/698_MTN200496_IMG_07_0000_max_656x437.jpeg"
+            },
+            {
+                "url": "https://media.rightmove.co.uk/dir/1k/698/120184283/698_MTN200496_IMG_08_0000_max_656x437.jpeg"
+            },
+            {
+                "url": "https://media.rightmove.co.uk/dir/1k/698/120184283/698_MTN200496_IMG_09_0000_max_656x437.jpeg"
+            },
+            {
+                "url": "https://media.rightmove.co.uk/dir/1k/698/120184283/698_MTN200496_IMG_10_0000_max_656x437.jpeg"
+            },
+            {
+                "url": "https://media.rightmove.co.uk/dir/1k/698/120184283/698_MTN200496_IMG_11_0000_max_656x437.jpeg"
+            },
+            {
+                "url": "https://media.rightmove.co.uk/dir/1k/698/120184283/698_MTN200496_IMG_12_0000_max_656x437.jpeg"
+            },
+            {
+                "url": "https://media.rightmove.co.uk/dir/1k/698/120184283/698_MTN200496_IMG_13_0000_max_656x437.jpeg"
+            }
+        ],
+        "keywords": []
+    },
+    {
+        "identifier": 120373823,
+        "visible": true,
+        "price": 375000.0,
+        "priceQualifier": "",
+        "shouldShowPrice": true,
+        "bedrooms": 2,
+        "address": "Homeway Cottages, Eling Hill",
+        "latitude": 50.90784,
+        "longitude": -1.4784,
+        "showMap": true,
+        "propertyType": "end of terrace house",
+        "development": false,
+        "commercial": false,
+        "updateDate": 1647315300000,
+        "autoEmailReasonType": "new",
+        "transactionTypeId": 1,
+        "sortDate": 1645794481000,
+        "photoThumbnailUrl": "https://media.rightmove.co.uk/dir/10k/9125/120373823/9125_TH6544_IMG_13_0000_max_200x138.jpeg",
+        "photoLargeThumbnailUrl": "https://media.rightmove.co.uk/dir/10k/9125/120373823/9125_TH6544_IMG_13_0000_max_656x437.jpeg",
+        "photoCount": 13,
+        "floorplanCount": 1,
+        "branch": {
+            "identifier": 9125,
+            "name": "Covering Totton",
+            "brandName": "Michael Rhodes",
+            "development": false,
+            "updateDate": 1643819184000,
+            "branchLogo": "https://media.rightmove.co.uk/dir//10k/9125/branch_rmchoice_logo_9125_0002.jpeg",
+            "brandPlusResale": true,
+            "brandPlusLettings": false,
+            "hideReducedPropsFlag": false,
+            "address": "Unit 35, Basepoint Business Centre,\r\nPremier Way,\r\nRomsey,\r\nSO51 9AQ",
+            "telephoneNumbers": [
+                {
+                    "identifier": null,
+                    "label": null,
+                    "number": "02382 200415",
+                    "main": null
+                }
+            ],
+            "contactTelephoneNumber": "02382 200415"
+        },
+        "exactLocationAvailable": false,
+        "distance": 0.9045,
+        "status": null,
+        "dateShortlisted": null,
+        "premiumDisplay": false,
+        "premiumDisplayStickerName": "",
+        "premiumDisplayStyle": 26,
+        "photoThumbnail2Url": null,
+        "photoThumbnail3Url": null,
+        "photoThumbnail4Url": null,
+        "orderFromServer": 3,
+        "showStreetView": true,
+        "overseas": false,
+        "letFurnishType": null,
+        "summary": "An opportunity to acquire a charming grade 2 listed cottage situated in the sought after location of Eling Hill which is within walking distance of the sailing club, nature walks and a popular public house which is situated down on Eling Quay. Totton town centre offers a good range of amenities, m..",
+        "showLettingFeesMessage": false,
+        "saved": false,
+        "hidden": false,
+        "displayPrices": [
+            {
+                "displayPrice": "\u00a3375,000",
+                "displayPriceQualifier": ""
+            }
+        ],
+        "onlineViewing": false,
+        "buildToRent": false,
+        "thumbnailPhotos": [
+            {
+                "url": "https://media.rightmove.co.uk/dir/10k/9125/120373823/9125_TH6544_IMG_13_0000_max_656x437.jpeg"
+            },
+            {
+                "url": "https://media.rightmove.co.uk/dir/10k/9125/120373823/9125_TH6544_IMG_01_0000_max_656x437.jpeg"
+            },
+            {
+                "url": "https://media.rightmove.co.uk/dir/10k/9125/120373823/9125_TH6544_IMG_00_0000_max_656x437.jpeg"
+            },
+            {
+                "url": "https://media.rightmove.co.uk/dir/10k/9125/120373823/9125_TH6544_IMG_02_0000_max_656x437.jpeg"
+            },
+            {
+                "url": "https://media.rightmove.co.uk/dir/10k/9125/120373823/9125_TH6544_IMG_03_0000_max_656x437.jpeg"
+            },
+            {
+                "url": "https://media.rightmove.co.uk/dir/10k/9125/120373823/9125_TH6544_IMG_05_0000_max_656x437.jpeg"
+            },
+            {
+                "url": "https://media.rightmove.co.uk/dir/10k/9125/120373823/9125_TH6544_IMG_04_0000_max_656x437.jpeg"
+            },
+            {
+                "url": "https://media.rightmove.co.uk/dir/10k/9125/120373823/9125_TH6544_IMG_06_0000_max_656x437.jpeg"
+            },
+            {
+                "url": "https://media.rightmove.co.uk/dir/10k/9125/120373823/9125_TH6544_IMG_07_0000_max_656x437.jpeg"
+            },
+            {
+                "url": "https://media.rightmove.co.uk/dir/10k/9125/120373823/9125_TH6544_IMG_12_0000_max_656x437.jpeg"
+            },
+            {
+                "url": "https://media.rightmove.co.uk/dir/10k/9125/120373823/9125_TH6544_IMG_10_0000_max_656x437.jpeg"
+            },
+            {
+                "url": "https://media.rightmove.co.uk/dir/10k/9125/120373823/9125_TH6544_IMG_09_0000_max_656x437.jpeg"
+            },
+            {
+                "url": "https://media.rightmove.co.uk/dir/10k/9125/120373823/9125_TH6544_IMG_11_0000_max_656x437.jpeg"
+            }
+        ],
+        "keywords": []
+    },
+    {
+        "identifier": 120330821,
+        "visible": true,
+        "price": 350000.0,
+        "priceQualifier": "Guide Price",
+        "shouldShowPrice": true,
+        "bedrooms": 4,
+        "address": "Oakley Road, Southampton",
+        "latitude": 50.923027,
+        "longitude": -1.450668,
+        "showMap": true,
+        "propertyType": "semi-detached house",
+        "development": false,
+        "commercial": false,
+        "updateDate": 1647401602000,
+        "autoEmailReasonType": "price_reduced",
+        "transactionTypeId": 1,
+        "sortDate": 1646234394000,
+        "photoThumbnailUrl": "https://media.rightmove.co.uk/dir/7k/6911/120330821/6911_FPSCC_646296_IMG_00_0000_max_200x138.jpeg",
+        "photoLargeThumbnailUrl": "https://media.rightmove.co.uk/dir/7k/6911/120330821/6911_FPSCC_646296_IMG_00_0000_max_656x437.jpeg",
+        "photoCount": 17,
+        "floorplanCount": 1,
+        "branch": {
+            "identifier": 6911,
+            "name": "Shirley",
+            "brandName": "Field Palmer",
+            "development": false,
+            "updateDate": 1606801567000,
+            "branchLogo": "https://media.rightmove.co.uk/dir//brand/brand_logo_25718_0006.jpeg",
+            "brandPlusResale": true,
+            "brandPlusLettings": false,
+            "hideReducedPropsFlag": false,
+            "address": "391,\r\nShirley Road,\r\nSouthampton,\r\nSO15 3JD",
+            "telephoneNumbers": [
+                {
+                    "identifier": null,
+                    "label": null,
+                    "number": "02380 780787",
+                    "main": null
+                }
+            ],
+            "contactTelephoneNumber": "02380 780787"
+        },
+        "exactLocationAvailable": false,
+        "distance": 0.8799,
+        "status": null,
+        "dateShortlisted": null,
+        "premiumDisplay": false,
+        "premiumDisplayStickerName": "",
+        "premiumDisplayStyle": 26,
+        "photoThumbnail2Url": null,
+        "photoThumbnail3Url": null,
+        "photoThumbnail4Url": null,
+        "orderFromServer": 4,
+        "showStreetView": true,
+        "overseas": false,
+        "letFurnishType": null,
+        "summary": "Offered with NO FORWARD CHAIN is this spacious three bedroom semi detached house. The ground floor boasts a\u00a0sitting room which opens onto the extended lounge/dining room, fitted kitchen and lean to with utility space and WC. The first floor benefits from a fitted bathroom, three bedrooms and a lo...",
+        "showLettingFeesMessage": false,
+        "saved": false,
+        "hidden": false,
+        "displayPrices": [
+            {
+                "displayPrice": "\u00a3350,000",
+                "displayPriceQualifier": "Guide Price"
+            }
+        ],
+        "onlineViewing": false,
+        "buildToRent": false,
+        "thumbnailPhotos": [
+            {
+                "url": "https://media.rightmove.co.uk/dir/7k/6911/120330821/6911_FPSCC_646296_IMG_00_0000_max_656x437.jpeg"
+            },
+            {
+                "url": "https://media.rightmove.co.uk/dir/7k/6911/120330821/6911_FPSCC_646296_IMG_01_0000_max_656x437.jpeg"
+            },
+            {
+                "url": "https://media.rightmove.co.uk/dir/7k/6911/120330821/6911_FPSCC_646296_IMG_02_0000_max_656x437.jpeg"
+            },
+            {
+                "url": "https://media.rightmove.co.uk/dir/7k/6911/120330821/6911_FPSCC_646296_IMG_03_0000_max_656x437.jpeg"
+            },
+            {
+                "url": "https://media.rightmove.co.uk/dir/7k/6911/120330821/6911_FPSCC_646296_IMG_04_0000_max_656x437.jpeg"
+            },
+            {
+                "url": "https://media.rightmove.co.uk/dir/7k/6911/120330821/6911_FPSCC_646296_IMG_05_0000_max_656x437.jpeg"
+            },
+            {
+                "url": "https://media.rightmove.co.uk/dir/7k/6911/120330821/6911_FPSCC_646296_IMG_06_0000_max_656x437.jpeg"
+            },
+            {
+                "url": "https://media.rightmove.co.uk/dir/7k/6911/120330821/6911_FPSCC_646296_IMG_07_0000_max_656x437.jpeg"
+            },
+            {
+                "url": "https://media.rightmove.co.uk/dir/7k/6911/120330821/6911_FPSCC_646296_IMG_08_0000_max_656x437.jpeg"
+            },
+            {
+                "url": "https://media.rightmove.co.uk/dir/7k/6911/120330821/6911_FPSCC_646296_IMG_09_0000_max_656x437.jpeg"
+            },
+            {
+                "url": "https://media.rightmove.co.uk/dir/7k/6911/120330821/6911_FPSCC_646296_IMG_10_0000_max_656x437.jpeg"
+            },
+            {
+                "url": "https://media.rightmove.co.uk/dir/7k/6911/120330821/6911_FPSCC_646296_IMG_11_0000_max_656x437.jpeg"
+            },
+            {
+                "url": "https://media.rightmove.co.uk/dir/7k/6911/120330821/6911_FPSCC_646296_IMG_12_0000_max_656x437.jpeg"
+            },
+            {
+                "url": "https://media.rightmove.co.uk/dir/7k/6911/120330821/6911_FPSCC_646296_IMG_13_0000_max_656x437.jpeg"
+            },
+            {
+                "url": "https://media.rightmove.co.uk/dir/7k/6911/120330821/6911_FPSCC_646296_IMG_14_0000_max_656x437.jpeg"
+            },
+            {
+                "url": "https://media.rightmove.co.uk/dir/7k/6911/120330821/6911_FPSCC_646296_IMG_15_0000_max_656x437.jpeg"
+            },
+            {
+                "url": "https://media.rightmove.co.uk/dir/7k/6911/120330821/6911_FPSCC_646296_IMG_16_0000_max_656x437.jpeg"
+            }
+        ],
+        "keywords": []
+    },
+    {
+        "identifier": 82861020,
+        "visible": true,
+        "price": 350000.0,
+        "priceQualifier": "Guide Price",
+        "shouldShowPrice": true,
+        "bedrooms": 2,
+        "address": "Homeway Cottages, Eling Hill, Totton, Southampton, SO40",
+        "latitude": 50.908024,
+        "longitude": -1.478482,
+        "showMap": true,
+        "propertyType": "terraced house",
+        "development": false,
+        "commercial": false,
+        "updateDate": 1638823441000,
+        "autoEmailReasonType": "new",
+        "transactionTypeId": 1,
+        "sortDate": 1638823441000,
+        "photoThumbnailUrl": "https://media.rightmove.co.uk/dir/1k/677/82861020/677_LYM160117_IMG_00_0000_max_200x138.jpeg",
+        "photoLargeThumbnailUrl": "https://media.rightmove.co.uk/dir/1k/677/82861020/677_LYM160117_IMG_00_0000_max_656x437.jpeg",
+        "photoCount": 9,
+        "floorplanCount": 1,
+        "branch": {
+            "identifier": 677,
+            "name": "Lymington",
+            "brandName": "John D Wood & Co. Sales",
+            "development": false,
+            "updateDate": 1633025041000,
+            "branchLogo": "https://media.rightmove.co.uk/dir//brand/brand_rmchoice_logo_76925_0004.png",
+            "brandPlusResale": true,
+            "brandPlusLettings": false,
+            "hideReducedPropsFlag": false,
+            "address": "53 High Street, Lymington, Hampshire, SO41 9ZB",
+            "telephoneNumbers": [
+                {
+                    "identifier": null,
+                    "label": null,
+                    "number": "01590 451021",
+                    "main": null
+                }
+            ],
+            "contactTelephoneNumber": "01590 451021"
+        },
+        "exactLocationAvailable": false,
+        "distance": 0.8944,
+        "status": null,
+        "dateShortlisted": null,
+        "premiumDisplay": false,
+        "premiumDisplayStickerName": "",
+        "premiumDisplayStyle": 26,
+        "photoThumbnail2Url": null,
+        "photoThumbnail3Url": null,
+        "photoThumbnail4Url": null,
+        "orderFromServer": 5,
+        "showStreetView": true,
+        "overseas": false,
+        "letFurnishType": null,
+        "summary": "A charming mid-terrace Grade II Listed cottage, enjoying a quiet position in the heart of this pretty hamlet.",
+        "showLettingFeesMessage": false,
+        "saved": false,
+        "hidden": false,
+        "displayPrices": [
+            {
+                "displayPrice": "\u00a3350,000",
+                "displayPriceQualifier": "Guide Price"
+            }
+        ],
+        "onlineViewing": false,
+        "buildToRent": false,
+        "thumbnailPhotos": [
+            {
+                "url": "https://media.rightmove.co.uk/dir/1k/677/82861020/677_LYM160117_IMG_00_0000_max_656x437.jpeg"
+            },
+            {
+                "url": "https://media.rightmove.co.uk/dir/1k/677/82861020/677_LYM160117_IMG_01_0000_max_656x437.jpeg"
+            },
+            {
+                "url": "https://media.rightmove.co.uk/dir/1k/677/82861020/677_LYM160117_IMG_02_0000_max_656x437.jpeg"
+            },
+            {
+                "url": "https://media.rightmove.co.uk/dir/1k/677/82861020/677_LYM160117_IMG_03_0000_max_656x437.jpeg"
+            },
+            {
+                "url": "https://media.rightmove.co.uk/dir/1k/677/82861020/677_LYM160117_IMG_04_0000_max_656x437.jpeg"
+            },
+            {
+                "url": "https://media.rightmove.co.uk/dir/1k/677/82861020/677_LYM160117_IMG_05_0000_max_656x437.jpeg"
+            },
+            {
+                "url": "https://media.rightmove.co.uk/dir/1k/677/82861020/677_LYM160117_IMG_06_0000_max_656x437.jpeg"
+            },
+            {
+                "url": "https://media.rightmove.co.uk/dir/1k/677/82861020/677_LYM160117_IMG_07_0000_max_656x437.jpeg"
+            },
+            {
+                "url": "https://media.rightmove.co.uk/dir/1k/677/82861020/677_LYM160117_IMG_08_0000_max_656x437.jpeg"
+            }
+        ],
+        "keywords": []
+    },
+    {
+        "identifier": 119759270,
+        "visible": true,
+        "price": 275000.0,
+        "priceQualifier": "",
+        "shouldShowPrice": true,
+        "bedrooms": 3,
+        "address": "Lebanon Road, Southampton",
+        "latitude": 50.91921,
+        "longitude": -1.4669,
+        "showMap": true,
+        "propertyType": "end of terrace house",
+        "development": false,
+        "commercial": false,
+        "updateDate": 1645700115000,
+        "autoEmailReasonType": "new",
+        "transactionTypeId": 1,
+        "sortDate": 1644429422000,
+        "photoThumbnailUrl": "https://media.rightmove.co.uk/dir/2k/1671/119759270/1671_SSR309033_IMG_07_0000_max_200x138.jpeg",
+        "photoLargeThumbnailUrl": "https://media.rightmove.co.uk/dir/2k/1671/119759270/1671_SSR309033_IMG_07_0000_max_656x437.jpeg",
+        "photoCount": 14,
+        "floorplanCount": 1,
+        "branch": {
+            "identifier": 1671,
+            "name": "Shirley",
+            "brandName": "Connells",
+            "development": false,
+            "updateDate": 1632211706000,
+            "branchLogo": "https://media.rightmove.co.uk/dir//company/clogo_rmchoice_43_0001.jpeg",
+            "brandPlusResale": true,
+            "brandPlusLettings": false,
+            "hideReducedPropsFlag": false,
+            "address": "409 Shirley Road, \r\nShirley, \r\nSouthampton, \r\nHampshire, SO15 3JD",
+            "telephoneNumbers": [
+                {
+                    "identifier": null,
+                    "label": null,
+                    "number": "02382 200363",
+                    "main": null
+                }
+            ],
+            "contactTelephoneNumber": "02382 200363"
+        },
+        "exactLocationAvailable": false,
+        "distance": 0.149,
+        "status": null,
+        "dateShortlisted": null,
+        "premiumDisplay": false,
+        "premiumDisplayStickerName": "",
+        "premiumDisplayStyle": 26,
+        "photoThumbnail2Url": null,
+        "photoThumbnail3Url": null,
+        "photoThumbnail4Url": null,
+        "orderFromServer": 6,
+        "showStreetView": true,
+        "overseas": false,
+        "letFurnishType": null,
+        "summary": "Connells are pleased to present this THREE BEDROOM semi-detached home. The property features a spacious Lounge, open plan Kitchen/Diner, UTILITY ROOM and fitted Bathroom. To the rear of the house there is an extremely large South facing Garden which has been well maintained.",
+        "showLettingFeesMessage": false,
+        "saved": false,
+        "hidden": false,
+        "displayPrices": [
+            {
+                "displayPrice": "\u00a3275,000",
+                "displayPriceQualifier": ""
+            }
+        ],
+        "onlineViewing": false,
+        "buildToRent": false,
+        "thumbnailPhotos": [
+            {
+                "url": "https://media.rightmove.co.uk/dir/2k/1671/119759270/1671_SSR309033_IMG_07_0000_max_656x437.jpeg"
+            },
+            {
+                "url": "https://media.rightmove.co.uk/dir/2k/1671/119759270/1671_SSR309033_IMG_03_0000_max_656x437.jpeg"
+            },
+            {
+                "url": "https://media.rightmove.co.uk/dir/2k/1671/119759270/1671_SSR309033_IMG_02_0000_max_656x437.jpeg"
+            },
+            {
+                "url": "https://media.rightmove.co.uk/dir/2k/1671/119759270/1671_SSR309033_IMG_01_0000_max_656x437.jpeg"
+            },
+            {
+                "url": "https://media.rightmove.co.uk/dir/2k/1671/119759270/1671_SSR309033_IMG_11_0000_max_656x437.jpeg"
+            },
+            {
+                "url": "https://media.rightmove.co.uk/dir/2k/1671/119759270/1671_SSR309033_IMG_13_0000_max_656x437.jpeg"
+            },
+            {
+                "url": "https://media.rightmove.co.uk/dir/2k/1671/119759270/1671_SSR309033_IMG_00_0000_max_656x437.jpeg"
+            },
+            {
+                "url": "https://media.rightmove.co.uk/dir/2k/1671/119759270/1671_SSR309033_IMG_08_0000_max_656x437.jpeg"
+            },
+            {
+                "url": "https://media.rightmove.co.uk/dir/2k/1671/119759270/1671_SSR309033_IMG_10_0000_max_656x437.jpeg"
+            },
+            {
+                "url": "https://media.rightmove.co.uk/dir/2k/1671/119759270/1671_SSR309033_IMG_09_0000_max_656x437.jpeg"
+            },
+            {
+                "url": "https://media.rightmove.co.uk/dir/2k/1671/119759270/1671_SSR309033_IMG_12_0000_max_656x437.jpeg"
+            },
+            {
+                "url": "https://media.rightmove.co.uk/dir/2k/1671/119759270/1671_SSR309033_IMG_05_0000_max_656x437.jpeg"
+            },
+            {
+                "url": "https://media.rightmove.co.uk/dir/2k/1671/119759270/1671_SSR309033_IMG_06_0000_max_656x437.jpeg"
+            },
+            {
+                "url": "https://media.rightmove.co.uk/dir/2k/1671/119759270/1671_SSR309033_IMG_04_0000_max_656x437.jpeg"
+            }
+        ],
+        "keywords": []
+    },
+    {
+        "identifier": 108303635,
+        "visible": true,
+        "price": 250000.0,
+        "priceQualifier": "",
+        "shouldShowPrice": true,
+        "bedrooms": 2,
+        "address": "Junction Road, Totton, Southampton",
+        "latitude": 50.91786,
+        "longitude": -1.4874,
+        "showMap": true,
+        "propertyType": "apartment",
+        "development": true,
+        "commercial": false,
+        "updateDate": 1647447655000,
+        "autoEmailReasonType": "price_reduced",
+        "transactionTypeId": 1,
+        "sortDate": 1640498215000,
+        "photoThumbnailUrl": "https://media.rightmove.co.uk/dir/3k/2085/108303635/2085_TOT105009_IMG_07_0000_max_200x138.jpeg",
+        "photoLargeThumbnailUrl": "https://media.rightmove.co.uk/dir/3k/2085/108303635/2085_TOT105009_IMG_07_0000_max_656x437.jpeg",
+        "photoCount": 8,
+        "floorplanCount": 1,
+        "branch": {
+            "identifier": 2085,
+            "name": "Totton",
+            "brandName": "Fox & Sons",
+            "development": false,
+            "updateDate": 1619188732000,
+            "branchLogo": "https://media.rightmove.co.uk/dir//brand/brand_rmchoice_logo_284_0000.jpeg",
+            "brandPlusResale": true,
+            "brandPlusLettings": false,
+            "hideReducedPropsFlag": false,
+            "address": "4 Water Lane, \r\nTotton, \r\nSouthampton, \r\nHampshire, SO40 3DP",
+            "telephoneNumbers": [
+                {
+                    "identifier": null,
+                    "label": null,
+                    "number": "02382 200271",
+                    "main": null
+                }
+            ],
+            "contactTelephoneNumber": "02382 200271"
+        },
+        "exactLocationAvailable": false,
+        "distance": 0.7658,
+        "status": null,
+        "dateShortlisted": null,
+        "premiumDisplay": true,
+        "premiumDisplayStickerName": "First time buyers",
+        "premiumDisplayStyle": 115,
+        "photoThumbnail2Url": "https://media.rightmove.co.uk/dir/3k/2085/108303635/2085_TOT105009_IMG_00_0001_max_200x138.jpeg",
+        "photoThumbnail3Url": "https://media.rightmove.co.uk/dir/3k/2085/108303635/2085_TOT105009_IMG_01_0001_max_200x138.jpeg",
+        "photoThumbnail4Url": "https://media.rightmove.co.uk/dir/3k/2085/108303635/2085_TOT105009_IMG_02_0001_max_200x138.jpeg",
+        "orderFromServer": 7,
+        "showStreetView": true,
+        "overseas": false,
+        "letFurnishType": null,
+        "summary": "LAST GROUND FLOOR PLOT WITH GARDEN ** Brand new development of 6, high-quality, two bedroom apartments in the popular area of Totton, close to Totton train station and convenient for the glorious New Forest. These properties have help to buy available and are ready to reserve off plan NOW!!",
+        "showLettingFeesMessage": false,
+        "saved": false,
+        "hidden": false,
+        "displayPrices": [
+            {
+                "displayPrice": "\u00a3250,000",
+                "displayPriceQualifier": ""
+            }
+        ],
+        "onlineViewing": false,
+        "buildToRent": false,
+        "thumbnailPhotos": [
+            {
+                "url": "https://media.rightmove.co.uk/dir/3k/2085/108303635/2085_TOT105009_IMG_07_0000_max_656x437.jpeg"
+            },
+            {
+                "url": "https://media.rightmove.co.uk/dir/3k/2085/108303635/2085_TOT105009_IMG_00_0001_max_656x437.jpeg"
+            },
+            {
+                "url": "https://media.rightmove.co.uk/dir/3k/2085/108303635/2085_TOT105009_IMG_01_0001_max_656x437.jpeg"
+            },
+            {
+                "url": "https://media.rightmove.co.uk/dir/3k/2085/108303635/2085_TOT105009_IMG_02_0001_max_656x437.jpeg"
+            },
+            {
+                "url": "https://media.rightmove.co.uk/dir/3k/2085/108303635/2085_TOT105009_IMG_03_0001_max_656x437.jpeg"
+            },
+            {
+                "url": "https://media.rightmove.co.uk/dir/3k/2085/108303635/2085_TOT105009_IMG_04_0001_max_656x437.jpeg"
+            },
+            {
+                "url": "https://media.rightmove.co.uk/dir/3k/2085/108303635/2085_TOT105009_IMG_05_0001_max_656x437.jpeg"
+            },
+            {
+                "url": "https://media.rightmove.co.uk/dir/3k/2085/108303635/2085_TOT105009_IMG_06_0001_max_656x437.jpeg"
+            }
+        ],
+        "keywords": []
+    },
+    {
+        "identifier": 120882341,
+        "visible": true,
+        "price": 245000.0,
+        "priceQualifier": "",
+        "shouldShowPrice": true,
+        "bedrooms": 3,
+        "address": "Totton",
+        "latitude": 50.91779,
+        "longitude": -1.485022,
+        "showMap": true,
+        "propertyType": "terraced house",
+        "development": false,
+        "commercial": false,
+        "updateDate": 1646850543000,
+        "autoEmailReasonType": "new",
+        "transactionTypeId": 1,
+        "sortDate": 1646850543000,
+        "photoThumbnailUrl": "https://media.rightmove.co.uk/dir/98k/97838/120882341/97838_11385680_IMG_00_0000_max_200x138.jpeg",
+        "photoLargeThumbnailUrl": "https://media.rightmove.co.uk/dir/98k/97838/120882341/97838_11385680_IMG_00_0000_max_656x437.jpeg",
+        "photoCount": 12,
+        "floorplanCount": 1,
+        "branch": {
+            "identifier": 97838,
+            "name": "Totton",
+            "brandName": "Brantons Independent Estate Agents",
+            "development": false,
+            "updateDate": 1637579440000,
+            "branchLogo": "https://media.rightmove.co.uk/dir//brand/brand_rmchoice_logo_44948_0000.jpeg",
+            "brandPlusResale": true,
+            "brandPlusLettings": true,
+            "hideReducedPropsFlag": false,
+            "address": "9a Salisbury Road,\r\nTotton,\r\nSO40 3HW",
+            "telephoneNumbers": [
+                {
+                    "identifier": null,
+                    "label": null,
+                    "number": "02380 875020",
+                    "main": null
+                }
+            ],
+            "contactTelephoneNumber": "02380 875020"
+        },
+        "exactLocationAvailable": false,
+        "distance": 0.6648,
+        "status": null,
+        "dateShortlisted": null,
+        "premiumDisplay": false,
+        "premiumDisplayStickerName": "",
+        "premiumDisplayStyle": 26,
+        "photoThumbnail2Url": null,
+        "photoThumbnail3Url": null,
+        "photoThumbnail4Url": null,
+        "orderFromServer": 8,
+        "showStreetView": true,
+        "overseas": false,
+        "letFurnishType": null,
+        "summary": "Situated in a convenient central location within Totton, Brantons Independent Estate Agents are pleased to present for sale this mid terrace family home. The ground floor layout is comprised of a lounge, dining room with bay window, modern kitchen, and a large sun room with French doors to th...",
+        "showLettingFeesMessage": false,
+        "saved": false,
+        "hidden": false,
+        "displayPrices": [
+            {
+                "displayPrice": "\u00a3245,000",
+                "displayPriceQualifier": ""
+            }
+        ],
+        "onlineViewing": false,
+        "buildToRent": false,
+        "thumbnailPhotos": [
+            {
+                "url": "https://media.rightmove.co.uk/dir/98k/97838/120882341/97838_11385680_IMG_00_0000_max_656x437.jpeg"
+            },
+            {
+                "url": "https://media.rightmove.co.uk/dir/98k/97838/120882341/97838_11385680_IMG_01_0000_max_656x437.jpeg"
+            },
+            {
+                "url": "https://media.rightmove.co.uk/dir/98k/97838/120882341/97838_11385680_IMG_02_0000_max_656x437.jpeg"
+            },
+            {
+                "url": "https://media.rightmove.co.uk/dir/98k/97838/120882341/97838_11385680_IMG_03_0000_max_656x437.jpeg"
+            },
+            {
+                "url": "https://media.rightmove.co.uk/dir/98k/97838/120882341/97838_11385680_IMG_04_0000_max_656x437.jpeg"
+            },
+            {
+                "url": "https://media.rightmove.co.uk/dir/98k/97838/120882341/97838_11385680_IMG_05_0000_max_656x437.jpeg"
+            },
+            {
+                "url": "https://media.rightmove.co.uk/dir/98k/97838/120882341/97838_11385680_IMG_06_0000_max_656x437.jpeg"
+            },
+            {
+                "url": "https://media.rightmove.co.uk/dir/98k/97838/120882341/97838_11385680_IMG_07_0000_max_656x437.jpeg"
+            },
+            {
+                "url": "https://media.rightmove.co.uk/dir/98k/97838/120882341/97838_11385680_IMG_08_0000_max_656x437.jpeg"
+            },
+            {
+                "url": "https://media.rightmove.co.uk/dir/98k/97838/120882341/97838_11385680_IMG_09_0000_max_656x437.jpeg"
+            },
+            {
+                "url": "https://media.rightmove.co.uk/dir/98k/97838/120882341/97838_11385680_IMG_10_0000_max_656x437.jpeg"
+            },
+            {
+                "url": "https://media.rightmove.co.uk/dir/98k/97838/120882341/97838_11385680_IMG_11_0000_max_656x437.jpeg"
+            }
+        ],
+        "keywords": []
+    },
+    {
+        "identifier": 118038680,
+        "visible": true,
+        "price": 240000.0,
+        "priceQualifier": "",
+        "shouldShowPrice": true,
+        "bedrooms": 2,
+        "address": "Junction Road, Totton, Southampton",
+        "latitude": 50.91786,
+        "longitude": -1.4874,
+        "showMap": true,
+        "propertyType": "apartment",
+        "development": true,
+        "commercial": false,
+        "updateDate": 1647447655000,
+        "autoEmailReasonType": "new",
+        "transactionTypeId": 1,
+        "sortDate": 1640498603000,
+        "photoThumbnailUrl": "https://media.rightmove.co.uk/dir/3k/2085/118038680/2085_TOT105011_IMG_00_0000_max_200x138.jpeg",
+        "photoLargeThumbnailUrl": "https://media.rightmove.co.uk/dir/3k/2085/118038680/2085_TOT105011_IMG_00_0000_max_656x437.jpeg",
+        "photoCount": 10,
+        "floorplanCount": 1,
+        "branch": {
+            "identifier": 2085,
+            "name": "Totton",
+            "brandName": "Fox & Sons",
+            "development": false,
+            "updateDate": 1619188732000,
+            "branchLogo": "https://media.rightmove.co.uk/dir//brand/brand_rmchoice_logo_284_0000.jpeg",
+            "brandPlusResale": true,
+            "brandPlusLettings": false,
+            "hideReducedPropsFlag": false,
+            "address": "4 Water Lane, \r\nTotton, \r\nSouthampton, \r\nHampshire, SO40 3DP",
+            "telephoneNumbers": [
+                {
+                    "identifier": null,
+                    "label": null,
+                    "number": "02382 200271",
+                    "main": null
+                }
+            ],
+            "contactTelephoneNumber": "02382 200271"
+        },
+        "exactLocationAvailable": false,
+        "distance": 0.7658,
+        "status": null,
+        "dateShortlisted": null,
+        "premiumDisplay": true,
+        "premiumDisplayStickerName": "No Chain",
+        "premiumDisplayStyle": 10,
+        "photoThumbnail2Url": "https://media.rightmove.co.uk/dir/3k/2085/118038680/2085_TOT105011_IMG_02_0000_max_200x138.jpeg",
+        "photoThumbnail3Url": "https://media.rightmove.co.uk/dir/3k/2085/118038680/2085_TOT105011_IMG_03_0000_max_200x138.jpeg",
+        "photoThumbnail4Url": "https://media.rightmove.co.uk/dir/3k/2085/118038680/2085_TOT105011_IMG_04_0000_max_200x138.jpeg",
+        "orderFromServer": 9,
+        "showStreetView": true,
+        "overseas": false,
+        "letFurnishType": null,
+        "summary": "JULIET BALCONY AND ENSUITE ** Brand new development of 6, high-quality, two bedroom apartments in the popular area of Totton, close to Totton train station and convenient for the glorious New Forest. These properties have help to buy available and are ready to reserve off plan NOW!!",
+        "showLettingFeesMessage": false,
+        "saved": false,
+        "hidden": false,
+        "displayPrices": [
+            {
+                "displayPrice": "\u00a3240,000",
+                "displayPriceQualifier": ""
+            }
+        ],
+        "onlineViewing": false,
+        "buildToRent": false,
+        "thumbnailPhotos": [
+            {
+                "url": "https://media.rightmove.co.uk/dir/3k/2085/118038680/2085_TOT105011_IMG_00_0000_max_656x437.jpeg"
+            },
+            {
+                "url": "https://media.rightmove.co.uk/dir/3k/2085/118038680/2085_TOT105011_IMG_02_0000_max_656x437.jpeg"
+            },
+            {
+                "url": "https://media.rightmove.co.uk/dir/3k/2085/118038680/2085_TOT105011_IMG_03_0000_max_656x437.jpeg"
+            },
+            {
+                "url": "https://media.rightmove.co.uk/dir/3k/2085/118038680/2085_TOT105011_IMG_04_0000_max_656x437.jpeg"
+            },
+            {
+                "url": "https://media.rightmove.co.uk/dir/3k/2085/118038680/2085_TOT105011_IMG_05_0000_max_656x437.jpeg"
+            },
+            {
+                "url": "https://media.rightmove.co.uk/dir/3k/2085/118038680/2085_TOT105011_IMG_06_0000_max_656x437.jpeg"
+            },
+            {
+                "url": "https://media.rightmove.co.uk/dir/3k/2085/118038680/2085_TOT105011_IMG_07_0000_max_656x437.jpeg"
+            },
+            {
+                "url": "https://media.rightmove.co.uk/dir/3k/2085/118038680/2085_TOT105011_IMG_08_0000_max_656x437.jpeg"
+            },
+            {
+                "url": "https://media.rightmove.co.uk/dir/3k/2085/118038680/2085_TOT105011_IMG_09_0000_max_656x437.jpeg"
+            },
+            {
+                "url": "https://media.rightmove.co.uk/dir/3k/2085/118038680/2085_TOT105011_IMG_01_0000_max_656x437.jpeg"
+            }
+        ],
+        "keywords": []
+    },
+    {
+        "identifier": 110454953,
+        "visible": true,
+        "price": 235000.0,
+        "priceQualifier": "",
+        "shouldShowPrice": true,
+        "bedrooms": 2,
+        "address": "Junction Road, Totton, Southampton",
+        "latitude": 50.91786,
+        "longitude": -1.4874,
+        "showMap": true,
+        "propertyType": "apartment",
+        "development": true,
+        "commercial": false,
+        "updateDate": 1647447655000,
+        "autoEmailReasonType": "price_reduced",
+        "transactionTypeId": 1,
+        "sortDate": 1640498190000,
+        "photoThumbnailUrl": "https://media.rightmove.co.uk/dir/3k/2085/110454953/2085_TOT105013_IMG_05_0000_max_200x138.jpeg",
+        "photoLargeThumbnailUrl": "https://media.rightmove.co.uk/dir/3k/2085/110454953/2085_TOT105013_IMG_05_0000_max_656x437.jpeg",
+        "photoCount": 7,
+        "floorplanCount": 1,
+        "branch": {
+            "identifier": 2085,
+            "name": "Totton",
+            "brandName": "Fox & Sons",
+            "development": false,
+            "updateDate": 1619188732000,
+            "branchLogo": "https://media.rightmove.co.uk/dir//brand/brand_rmchoice_logo_284_0000.jpeg",
+            "brandPlusResale": true,
+            "brandPlusLettings": false,
+            "hideReducedPropsFlag": false,
+            "address": "4 Water Lane, \r\nTotton, \r\nSouthampton, \r\nHampshire, SO40 3DP",
+            "telephoneNumbers": [
+                {
+                    "identifier": null,
+                    "label": null,
+                    "number": "02382 200271",
+                    "main": null
+                }
+            ],
+            "contactTelephoneNumber": "02382 200271"
+        },
+        "exactLocationAvailable": false,
+        "distance": 0.7658,
+        "status": null,
+        "dateShortlisted": null,
+        "premiumDisplay": true,
+        "premiumDisplayStickerName": "Premium Listing",
+        "premiumDisplayStyle": 14,
+        "photoThumbnail2Url": "https://media.rightmove.co.uk/dir/3k/2085/110454953/2085_TOT105013_IMG_06_0000_max_200x138.jpeg",
+        "photoThumbnail3Url": "https://media.rightmove.co.uk/dir/3k/2085/110454953/2085_TOT105013_IMG_00_0001_max_200x138.jpeg",
+        "photoThumbnail4Url": "https://media.rightmove.co.uk/dir/3k/2085/110454953/2085_TOT105013_IMG_01_0001_max_200x138.jpeg",
+        "orderFromServer": 10,
+        "showStreetView": true,
+        "overseas": false,
+        "letFurnishType": null,
+        "summary": "LAST TOP FLOOR PLOT WITH BALCONY ** Brand new development of 6, high-quality, two bedroom apartments in the popular area of Totton, close to Totton train station and convenient for the glorious New Forest. These properties have help to buy available and are ready to reserve off plan NOW!!",
+        "showLettingFeesMessage": false,
+        "saved": false,
+        "hidden": false,
+        "displayPrices": [
+            {
+                "displayPrice": "\u00a3235,000",
+                "displayPriceQualifier": ""
+            }
+        ],
+        "onlineViewing": false,
+        "buildToRent": false,
+        "thumbnailPhotos": [
+            {
+                "url": "https://media.rightmove.co.uk/dir/3k/2085/110454953/2085_TOT105013_IMG_05_0000_max_656x437.jpeg"
+            },
+            {
+                "url": "https://media.rightmove.co.uk/dir/3k/2085/110454953/2085_TOT105013_IMG_06_0000_max_656x437.jpeg"
+            },
+            {
+                "url": "https://media.rightmove.co.uk/dir/3k/2085/110454953/2085_TOT105013_IMG_00_0001_max_656x437.jpeg"
+            },
+            {
+                "url": "https://media.rightmove.co.uk/dir/3k/2085/110454953/2085_TOT105013_IMG_01_0001_max_656x437.jpeg"
+            },
+            {
+                "url": "https://media.rightmove.co.uk/dir/3k/2085/110454953/2085_TOT105013_IMG_02_0001_max_656x437.jpeg"
+            },
+            {
+                "url": "https://media.rightmove.co.uk/dir/3k/2085/110454953/2085_TOT105013_IMG_03_0001_max_656x437.jpeg"
+            },
+            {
+                "url": "https://media.rightmove.co.uk/dir/3k/2085/110454953/2085_TOT105013_IMG_04_0001_max_656x437.jpeg"
+            }
+        ],
+        "keywords": []
+    },
+    {
+        "identifier": 121175540,
+        "visible": true,
+        "price": 199950.0,
+        "priceQualifier": "",
+        "shouldShowPrice": true,
+        "bedrooms": 4,
+        "address": "Orwell Close, Southampton",
+        "latitude": 50.926,
+        "longitude": -1.45885,
+        "showMap": true,
+        "propertyType": "terraced house",
+        "development": false,
+        "commercial": false,
+        "updateDate": 1647454563000,
+        "autoEmailReasonType": "new",
+        "transactionTypeId": 1,
+        "sortDate": 1647454563000,
+        "photoThumbnailUrl": "https://media.rightmove.co.uk/dir/96k/95782/121175540/95782_101689003282_IMG_00_0000_max_200x138.jpeg",
+        "photoLargeThumbnailUrl": "https://media.rightmove.co.uk/dir/96k/95782/121175540/95782_101689003282_IMG_00_0000_max_656x437.jpeg",
+        "photoCount": 14,
+        "floorplanCount": 1,
+        "branch": {
+            "identifier": 95782,
+            "name": "Southampton",
+            "brandName": "Kings Estates",
+            "development": false,
+            "updateDate": 1644242509000,
+            "branchLogo": "https://media.rightmove.co.uk/dir//96k/95782/branch_rmchoice_logo_95782_0000.jpeg",
+            "brandPlusResale": true,
+            "brandPlusLettings": true,
+            "hideReducedPropsFlag": false,
+            "address": "253 Portswood Road,\r\nSouthampton,\r\nSO17 2NG",
+            "telephoneNumbers": [
+                {
+                    "identifier": null,
+                    "label": null,
+                    "number": "02382 200192",
+                    "main": null
+                }
+            ],
+            "contactTelephoneNumber": "02382 200192"
+        },
+        "exactLocationAvailable": false,
+        "distance": 0.6524,
+        "status": null,
+        "dateShortlisted": null,
+        "premiumDisplay": false,
+        "premiumDisplayStickerName": "",
+        "premiumDisplayStyle": 26,
+        "photoThumbnail2Url": null,
+        "photoThumbnail3Url": null,
+        "photoThumbnail4Url": null,
+        "orderFromServer": 11,
+        "showStreetView": true,
+        "overseas": false,
+        "letFurnishType": null,
+        "summary": "Kings Estates are pleased to present this four bed mid terraced house in need of renovation and modernization to the market. Please contact Kings Estates to arrange a viewing.",
+        "showLettingFeesMessage": false,
+        "saved": false,
+        "hidden": false,
+        "displayPrices": [
+            {
+                "displayPrice": "\u00a3199,950",
+                "displayPriceQualifier": ""
+            }
+        ],
+        "onlineViewing": false,
+        "buildToRent": false,
+        "thumbnailPhotos": [
+            {
+                "url": "https://media.rightmove.co.uk/dir/96k/95782/121175540/95782_101689003282_IMG_00_0000_max_656x437.jpeg"
+            },
+            {
+                "url": "https://media.rightmove.co.uk/dir/96k/95782/121175540/95782_101689003282_IMG_01_0000_max_656x437.jpeg"
+            },
+            {
+                "url": "https://media.rightmove.co.uk/dir/96k/95782/121175540/95782_101689003282_IMG_02_0000_max_656x437.jpeg"
+            },
+            {
+                "url": "https://media.rightmove.co.uk/dir/96k/95782/121175540/95782_101689003282_IMG_03_0000_max_656x437.jpeg"
+            },
+            {
+                "url": "https://media.rightmove.co.uk/dir/96k/95782/121175540/95782_101689003282_IMG_04_0000_max_656x437.jpeg"
+            },
+            {
+                "url": "https://media.rightmove.co.uk/dir/96k/95782/121175540/95782_101689003282_IMG_05_0000_max_656x437.jpeg"
+            },
+            {
+                "url": "https://media.rightmove.co.uk/dir/96k/95782/121175540/95782_101689003282_IMG_06_0000_max_656x437.jpeg"
+            },
+            {
+                "url": "https://media.rightmove.co.uk/dir/96k/95782/121175540/95782_101689003282_IMG_07_0000_max_656x437.jpeg"
+            },
+            {
+                "url": "https://media.rightmove.co.uk/dir/96k/95782/121175540/95782_101689003282_IMG_08_0000_max_656x437.jpeg"
+            },
+            {
+                "url": "https://media.rightmove.co.uk/dir/96k/95782/121175540/95782_101689003282_IMG_09_0000_max_656x437.jpeg"
+            },
+            {
+                "url": "https://media.rightmove.co.uk/dir/96k/95782/121175540/95782_101689003282_IMG_10_0000_max_656x437.jpeg"
+            },
+            {
+                "url": "https://media.rightmove.co.uk/dir/96k/95782/121175540/95782_101689003282_IMG_11_0000_max_656x437.jpeg"
+            },
+            {
+                "url": "https://media.rightmove.co.uk/dir/96k/95782/121175540/95782_101689003282_IMG_12_0000_max_656x437.jpeg"
+            },
+            {
+                "url": "https://media.rightmove.co.uk/dir/96k/95782/121175540/95782_101689003282_IMG_13_0000_max_656x437.jpeg"
+            }
+        ],
+        "keywords": []
+    },
+    {
+        "identifier": 71987076,
+        "visible": true,
+        "price": 199950.0,
+        "priceQualifier": "",
+        "shouldShowPrice": true,
+        "bedrooms": 2,
+        "address": "Popes Court, Southampton, SO40 3GF",
+        "latitude": 50.91855,
+        "longitude": -1.490724,
+        "showMap": true,
+        "propertyType": "flat",
+        "development": false,
+        "commercial": false,
+        "updateDate": 1646320021000,
+        "autoEmailReasonType": "price_reduced",
+        "transactionTypeId": 1,
+        "sortDate": 1644590095000,
+        "photoThumbnailUrl": "https://media.rightmove.co.uk/dir/13k/12522/71987076/12522_10239564_IMG_12_0000_max_200x138.jpeg",
+        "photoLargeThumbnailUrl": "https://media.rightmove.co.uk/dir/13k/12522/71987076/12522_10239564_IMG_12_0000_max_656x437.jpeg",
+        "photoCount": 13,
+        "floorplanCount": 1,
+        "branch": {
+            "identifier": 12522,
+            "name": "New Milton",
+            "brandName": "Retirement Homesearch",
+            "development": false,
+            "updateDate": 1641465342000,
+            "branchLogo": "https://media.rightmove.co.uk/dir//company/clogo_rmchoice_4496_0000.png",
+            "brandPlusResale": true,
+            "brandPlusLettings": false,
+            "hideReducedPropsFlag": false,
+            "address": "  \r\n \r\n11 Queensway\r\nNew Milton\r\nBH25 5NR\r\n ",
+            "telephoneNumbers": [
+                {
+                    "identifier": null,
+                    "label": null,
+                    "number": "03339 875067",
+                    "main": null
+                }
+            ],
+            "contactTelephoneNumber": "03339 875067"
+        },
+        "exactLocationAvailable": false,
+        "distance": 0.9032,
+        "status": null,
+        "dateShortlisted": null,
+        "premiumDisplay": false,
+        "premiumDisplayStickerName": "",
+        "premiumDisplayStyle": 26,
+        "photoThumbnail2Url": null,
+        "photoThumbnail3Url": null,
+        "photoThumbnail4Url": null,
+        "orderFromServer": 12,
+        "showStreetView": true,
+        "overseas": false,
+        "letFurnishType": null,
+        "summary": "A TWO BEDROOM RETIREMENT APARTMENT LOCATED ON THE FIRST FLOOR SITUATED IN TOTTON, INCLUDING A SHOPPING PARADE, SUPERMARKET AND GARAGE AND BUSES INTO SOUTHAMPTON Popes Court was constructed by McCarthy and Stone and comprisies 49 apartments arranged over 3 floors. The Development Manager can be ...",
+        "showLettingFeesMessage": false,
+        "saved": false,
+        "hidden": false,
+        "displayPrices": [
+            {
+                "displayPrice": "\u00a3199,950",
+                "displayPriceQualifier": ""
+            }
+        ],
+        "onlineViewing": false,
+        "buildToRent": false,
+        "thumbnailPhotos": [
+            {
+                "url": "https://media.rightmove.co.uk/dir/13k/12522/71987076/12522_10239564_IMG_12_0000_max_656x437.jpeg"
+            },
+            {
+                "url": "https://media.rightmove.co.uk/dir/13k/12522/71987076/12522_10239564_IMG_11_0000_max_656x437.jpeg"
+            },
+            {
+                "url": "https://media.rightmove.co.uk/dir/13k/12522/71987076/12522_10239564_IMG_04_0000_max_656x437.jpg"
+            },
+            {
+                "url": "https://media.rightmove.co.uk/dir/13k/12522/71987076/12522_10239564_IMG_05_0000_max_656x437.jpg"
+            },
+            {
+                "url": "https://media.rightmove.co.uk/dir/13k/12522/71987076/12522_10239564_IMG_06_0000_max_656x437.jpg"
+            },
+            {
+                "url": "https://media.rightmove.co.uk/dir/13k/12522/71987076/12522_10239564_IMG_07_0000_max_656x437.jpg"
+            },
+            {
+                "url": "https://media.rightmove.co.uk/dir/13k/12522/71987076/12522_10239564_IMG_03_0000_max_656x437.jpg"
+            },
+            {
+                "url": "https://media.rightmove.co.uk/dir/13k/12522/71987076/12522_10239564_IMG_08_0000_max_656x437.jpg"
+            },
+            {
+                "url": "https://media.rightmove.co.uk/dir/13k/12522/71987076/12522_10239564_IMG_09_0000_max_656x437.jpg"
+            },
+            {
+                "url": "https://media.rightmove.co.uk/dir/13k/12522/71987076/12522_10239564_IMG_13_0000_max_656x437.jpeg"
+            },
+            {
+                "url": "https://media.rightmove.co.uk/dir/13k/12522/71987076/12522_10239564_IMG_02_0000_max_656x437.jpg"
+            },
+            {
+                "url": "https://media.rightmove.co.uk/dir/13k/12522/71987076/12522_10239564_IMG_10_0000_max_656x437.jpg"
+            },
+            {
+                "url": "https://media.rightmove.co.uk/dir/13k/12522/71987076/12522_10239564_IMG_01_0000_max_656x437.jpg"
+            }
+        ],
+        "keywords": []
+    },
+    {
+        "identifier": 115372136,
+        "visible": true,
+        "price": 199950.0,
+        "priceQualifier": "",
+        "shouldShowPrice": true,
+        "bedrooms": 2,
+        "address": "Popes Court, Popes Lane, Totton, Southampton, SO40",
+        "latitude": 50.9185,
+        "longitude": -1.4908,
+        "showMap": true,
+        "propertyType": "flat",
+        "development": false,
+        "commercial": false,
+        "updateDate": 1636674743000,
+        "autoEmailReasonType": "price_reduced",
+        "transactionTypeId": 1,
+        "sortDate": 1634649970000,
+        "photoThumbnailUrl": "https://media.rightmove.co.uk/dir/1k/698/115372136/698_MTN210010_IMG_00_0001_max_200x138.jpeg",
+        "photoLargeThumbnailUrl": "https://media.rightmove.co.uk/dir/1k/698/115372136/698_MTN210010_IMG_00_0001_max_656x437.jpeg",
+        "photoCount": 12,
+        "floorplanCount": 1,
+        "branch": {
+            "identifier": 698,
+            "name": "Totton",
+            "brandName": "Mann",
+            "development": false,
+            "updateDate": 1633025041000,
+            "branchLogo": "https://media.rightmove.co.uk/dir//brand/brand_rmchoice_logo_22_0000.jpeg",
+            "brandPlusResale": true,
+            "brandPlusLettings": false,
+            "hideReducedPropsFlag": false,
+            "address": "15 Salisbury Road\r\nTotton\r\nSouthampton\r\nSO40 3HX ",
+            "telephoneNumbers": [
+                {
+                    "identifier": null,
+                    "label": null,
+                    "number": "02382 200360",
+                    "main": null
+                }
+            ],
+            "contactTelephoneNumber": "02382 200360"
+        },
+        "exactLocationAvailable": false,
+        "distance": 0.9068,
+        "status": null,
+        "dateShortlisted": null,
+        "premiumDisplay": false,
+        "premiumDisplayStickerName": "",
+        "premiumDisplayStyle": 26,
+        "photoThumbnail2Url": null,
+        "photoThumbnail3Url": null,
+        "photoThumbnail4Url": null,
+        "orderFromServer": 13,
+        "showStreetView": true,
+        "overseas": false,
+        "letFurnishType": null,
+        "summary": "***INCREDIBLE VALUE!***NO CHAIN! Mann Countrywide present for sale a well presented two double bedroom apartment for the over 60s in the centre of Totton. The apartment occupies an exclusive location at the end of the development which is serviced by a lift and stairs. Accommodation comprises the...",
+        "showLettingFeesMessage": false,
+        "saved": false,
+        "hidden": false,
+        "displayPrices": [
+            {
+                "displayPrice": "\u00a3199,950",
+                "displayPriceQualifier": ""
+            }
+        ],
+        "onlineViewing": false,
+        "buildToRent": false,
+        "thumbnailPhotos": [
+            {
+                "url": "https://media.rightmove.co.uk/dir/1k/698/115372136/698_MTN210010_IMG_00_0001_max_656x437.jpeg"
+            },
+            {
+                "url": "https://media.rightmove.co.uk/dir/1k/698/115372136/698_MTN210010_IMG_01_0001_max_656x437.jpeg"
+            },
+            {
+                "url": "https://media.rightmove.co.uk/dir/1k/698/115372136/698_MTN210010_IMG_02_0001_max_656x437.jpeg"
+            },
+            {
+                "url": "https://media.rightmove.co.uk/dir/1k/698/115372136/698_MTN210010_IMG_03_0001_max_656x437.jpeg"
+            },
+            {
+                "url": "https://media.rightmove.co.uk/dir/1k/698/115372136/698_MTN210010_IMG_04_0001_max_656x437.jpeg"
+            },
+            {
+                "url": "https://media.rightmove.co.uk/dir/1k/698/115372136/698_MTN210010_IMG_05_0001_max_656x437.jpeg"
+            },
+            {
+                "url": "https://media.rightmove.co.uk/dir/1k/698/115372136/698_MTN210010_IMG_06_0001_max_656x437.jpeg"
+            },
+            {
+                "url": "https://media.rightmove.co.uk/dir/1k/698/115372136/698_MTN210010_IMG_07_0001_max_656x437.jpeg"
+            },
+            {
+                "url": "https://media.rightmove.co.uk/dir/1k/698/115372136/698_MTN210010_IMG_08_0001_max_656x437.jpeg"
+            },
+            {
+                "url": "https://media.rightmove.co.uk/dir/1k/698/115372136/698_MTN210010_IMG_09_0001_max_656x437.jpeg"
+            },
+            {
+                "url": "https://media.rightmove.co.uk/dir/1k/698/115372136/698_MTN210010_IMG_10_0001_max_656x437.jpeg"
+            },
+            {
+                "url": "https://media.rightmove.co.uk/dir/1k/698/115372136/698_MTN210010_IMG_11_0001_max_656x437.jpeg"
+            }
+        ],
+        "keywords": []
+    },
+    {
+        "identifier": 111347990,
+        "visible": true,
+        "price": 177500.0,
+        "priceQualifier": "",
+        "shouldShowPrice": true,
+        "bedrooms": 2,
+        "address": "Hayton Court, 28-30 Water Lane, Totton, Southampton, SO40",
+        "latitude": 50.918896,
+        "longitude": -1.492464,
+        "showMap": true,
+        "propertyType": "flat",
+        "development": false,
+        "commercial": false,
+        "updateDate": 1646264985000,
+        "autoEmailReasonType": "price_reduced",
+        "transactionTypeId": 1,
+        "sortDate": 1632561957000,
+        "photoThumbnailUrl": "https://media.rightmove.co.uk/dir/1k/698/111347990/698_MTN210386_IMG_00_0001_max_200x138.jpeg",
+        "photoLargeThumbnailUrl": "https://media.rightmove.co.uk/dir/1k/698/111347990/698_MTN210386_IMG_00_0001_max_656x437.jpeg",
+        "photoCount": 9,
+        "floorplanCount": 1,
+        "branch": {
+            "identifier": 698,
+            "name": "Totton",
+            "brandName": "Mann",
+            "development": false,
+            "updateDate": 1633025041000,
+            "branchLogo": "https://media.rightmove.co.uk/dir//brand/brand_rmchoice_logo_22_0000.jpeg",
+            "brandPlusResale": true,
+            "brandPlusLettings": false,
+            "hideReducedPropsFlag": false,
+            "address": "15 Salisbury Road\r\nTotton\r\nSouthampton\r\nSO40 3HX ",
+            "telephoneNumbers": [
+                {
+                    "identifier": null,
+                    "label": null,
+                    "number": "02382 200360",
+                    "main": null
+                }
+            ],
+            "contactTelephoneNumber": "02382 200360"
+        },
+        "exactLocationAvailable": false,
+        "distance": 0.9769,
+        "status": null,
+        "dateShortlisted": null,
+        "premiumDisplay": false,
+        "premiumDisplayStickerName": "",
+        "premiumDisplayStyle": 26,
+        "photoThumbnail2Url": null,
+        "photoThumbnail3Url": null,
+        "photoThumbnail4Url": null,
+        "orderFromServer": 14,
+        "showStreetView": true,
+        "overseas": false,
+        "letFurnishType": null,
+        "summary": "Mann Countrywide present for sale a two bedroom first floor apartment for the over 55s in Totton. The property benefits from a hall, living room, kitchen, two bedrooms and refitted shower room. The grounds are communal and have been attractively landscaped. There is an allocated parking space, pl...",
+        "showLettingFeesMessage": false,
+        "saved": false,
+        "hidden": false,
+        "displayPrices": [
+            {
+                "displayPrice": "\u00a3177,500",
+                "displayPriceQualifier": ""
+            }
+        ],
+        "onlineViewing": false,
+        "buildToRent": false,
+        "thumbnailPhotos": [
+            {
+                "url": "https://media.rightmove.co.uk/dir/1k/698/111347990/698_MTN210386_IMG_00_0001_max_656x437.jpeg"
+            },
+            {
+                "url": "https://media.rightmove.co.uk/dir/1k/698/111347990/698_MTN210386_IMG_01_0001_max_656x437.jpeg"
+            },
+            {
+                "url": "https://media.rightmove.co.uk/dir/1k/698/111347990/698_MTN210386_IMG_02_0001_max_656x437.jpeg"
+            },
+            {
+                "url": "https://media.rightmove.co.uk/dir/1k/698/111347990/698_MTN210386_IMG_03_0001_max_656x437.jpeg"
+            },
+            {
+                "url": "https://media.rightmove.co.uk/dir/1k/698/111347990/698_MTN210386_IMG_04_0001_max_656x437.jpeg"
+            },
+            {
+                "url": "https://media.rightmove.co.uk/dir/1k/698/111347990/698_MTN210386_IMG_05_0001_max_656x437.jpeg"
+            },
+            {
+                "url": "https://media.rightmove.co.uk/dir/1k/698/111347990/698_MTN210386_IMG_06_0001_max_656x437.jpeg"
+            },
+            {
+                "url": "https://media.rightmove.co.uk/dir/1k/698/111347990/698_MTN210386_IMG_07_0001_max_656x437.jpeg"
+            },
+            {
+                "url": "https://media.rightmove.co.uk/dir/1k/698/111347990/698_MTN210386_IMG_08_0001_max_656x437.jpeg"
+            }
+        ],
+        "keywords": []
+    },
+    {
+        "identifier": 119689337,
+        "visible": true,
+        "price": 170000.0,
+        "priceQualifier": "Offers in Excess of",
+        "shouldShowPrice": true,
+        "bedrooms": 2,
+        "address": "Station Road North, Totton",
+        "latitude": 50.9182,
+        "longitude": -1.48227,
+        "showMap": true,
+        "propertyType": "flat",
+        "development": false,
+        "commercial": false,
+        "updateDate": 1645134019000,
+        "autoEmailReasonType": "price_reduced",
+        "transactionTypeId": 1,
+        "sortDate": 1644940337000,
+        "photoThumbnailUrl": "https://media.rightmove.co.uk/dir/17k/16817/119689337/16817_1935_IMG_00_0000_max_200x138.jpeg",
+        "photoLargeThumbnailUrl": "https://media.rightmove.co.uk/dir/17k/16817/119689337/16817_1935_IMG_00_0000_max_656x437.jpeg",
+        "photoCount": 10,
+        "floorplanCount": 1,
+        "branch": {
+            "identifier": 16817,
+            "name": "Totton",
+            "brandName": "Parkers Lettings",
+            "development": false,
+            "updateDate": 1644242470000,
+            "branchLogo": "https://media.rightmove.co.uk/dir//17k/16817/branch_rmchoice_logo_16817_0001.png",
+            "brandPlusResale": true,
+            "brandPlusLettings": true,
+            "hideReducedPropsFlag": false,
+            "address": "1 Salisbury Road Arcade,\r\nSalisbury Road,\r\nTotton,\r\nSO40 3SG",
+            "telephoneNumbers": [
+                {
+                    "identifier": null,
+                    "label": null,
+                    "number": "02382 200076",
+                    "main": null
+                }
+            ],
+            "contactTelephoneNumber": "02382 200076"
+        },
+        "exactLocationAvailable": false,
+        "distance": 0.5413,
+        "status": null,
+        "dateShortlisted": null,
+        "premiumDisplay": false,
+        "premiumDisplayStickerName": "",
+        "premiumDisplayStyle": 26,
+        "photoThumbnail2Url": null,
+        "photoThumbnail3Url": null,
+        "photoThumbnail4Url": null,
+        "orderFromServer": 15,
+        "showStreetView": true,
+        "overseas": false,
+        "letFurnishType": null,
+        "summary": "Light, spacious modern living is found in every corner of this 2 bedroom garden maisonette. Convenient for local amenities and the bus / rail / road network. Currently let and offered as an ideal buy-to-let opportunity.",
+        "showLettingFeesMessage": false,
+        "saved": false,
+        "hidden": false,
+        "displayPrices": [
+            {
+                "displayPrice": "\u00a3170,000",
+                "displayPriceQualifier": "Offers in Excess of"
+            }
+        ],
+        "onlineViewing": false,
+        "buildToRent": false,
+        "thumbnailPhotos": [
+            {
+                "url": "https://media.rightmove.co.uk/dir/17k/16817/119689337/16817_1935_IMG_00_0000_max_656x437.jpeg"
+            },
+            {
+                "url": "https://media.rightmove.co.uk/dir/17k/16817/119689337/16817_1935_IMG_01_0000_max_656x437.jpeg"
+            },
+            {
+                "url": "https://media.rightmove.co.uk/dir/17k/16817/119689337/16817_1935_IMG_02_0000_max_656x437.jpeg"
+            },
+            {
+                "url": "https://media.rightmove.co.uk/dir/17k/16817/119689337/16817_1935_IMG_03_0000_max_656x437.jpeg"
+            },
+            {
+                "url": "https://media.rightmove.co.uk/dir/17k/16817/119689337/16817_1935_IMG_04_0000_max_656x437.jpeg"
+            },
+            {
+                "url": "https://media.rightmove.co.uk/dir/17k/16817/119689337/16817_1935_IMG_05_0000_max_656x437.jpeg"
+            },
+            {
+                "url": "https://media.rightmove.co.uk/dir/17k/16817/119689337/16817_1935_IMG_06_0000_max_656x437.jpeg"
+            },
+            {
+                "url": "https://media.rightmove.co.uk/dir/17k/16817/119689337/16817_1935_IMG_07_0000_max_656x437.jpeg"
+            },
+            {
+                "url": "https://media.rightmove.co.uk/dir/17k/16817/119689337/16817_1935_IMG_08_0000_max_656x437.jpeg"
+            },
+            {
+                "url": "https://media.rightmove.co.uk/dir/17k/16817/119689337/16817_1935_IMG_09_0000_max_656x437.jpeg"
+            }
+        ],
+        "keywords": []
+    },
+    {
+        "identifier": 117321803,
+        "visible": true,
+        "price": 170000.0,
+        "priceQualifier": "Guide Price",
+        "shouldShowPrice": true,
+        "bedrooms": 1,
+        "address": "Popes Lane, Totton, Southampton",
+        "latitude": 50.9185,
+        "longitude": -1.4908,
+        "showMap": true,
+        "propertyType": "flat",
+        "development": false,
+        "commercial": false,
+        "updateDate": 1647447655000,
+        "autoEmailReasonType": "price_reduced",
+        "transactionTypeId": 1,
+        "sortDate": 1641466058000,
+        "photoThumbnailUrl": "https://media.rightmove.co.uk/dir/3k/2085/117321803/2085_TOT105227_IMG_00_0000_max_200x138.jpeg",
+        "photoLargeThumbnailUrl": "https://media.rightmove.co.uk/dir/3k/2085/117321803/2085_TOT105227_IMG_00_0000_max_656x437.jpeg",
+        "photoCount": 13,
+        "floorplanCount": 1,
+        "branch": {
+            "identifier": 2085,
+            "name": "Totton",
+            "brandName": "Fox & Sons",
+            "development": false,
+            "updateDate": 1619188732000,
+            "branchLogo": "https://media.rightmove.co.uk/dir//brand/brand_rmchoice_logo_284_0000.jpeg",
+            "brandPlusResale": true,
+            "brandPlusLettings": false,
+            "hideReducedPropsFlag": false,
+            "address": "4 Water Lane, \r\nTotton, \r\nSouthampton, \r\nHampshire, SO40 3DP",
+            "telephoneNumbers": [
+                {
+                    "identifier": null,
+                    "label": null,
+                    "number": "02382 200271",
+                    "main": null
+                }
+            ],
+            "contactTelephoneNumber": "02382 200271"
+        },
+        "exactLocationAvailable": false,
+        "distance": 0.9068,
+        "status": null,
+        "dateShortlisted": null,
+        "premiumDisplay": true,
+        "premiumDisplayStickerName": "No Chain",
+        "premiumDisplayStyle": 10,
+        "photoThumbnail2Url": "https://media.rightmove.co.uk/dir/3k/2085/117321803/2085_TOT105227_IMG_05_0000_max_200x138.jpeg",
+        "photoThumbnail3Url": "https://media.rightmove.co.uk/dir/3k/2085/117321803/2085_TOT105227_IMG_06_0000_max_200x138.jpeg",
+        "photoThumbnail4Url": "https://media.rightmove.co.uk/dir/3k/2085/117321803/2085_TOT105227_IMG_07_0000_max_200x138.jpeg",
+        "orderFromServer": 16,
+        "showStreetView": true,
+        "overseas": false,
+        "letFurnishType": null,
+        "summary": "GUIDE PRICE \u00a3170,000 - \u00a3175,000 ** Fox and Sons are delighted to offer this very spacious, one bedroom ground floor, retirement apartment in a very sought after location. Close to local shops, bus links, dentist, doctors and supermarket. Offered with no forward chain.",
+        "showLettingFeesMessage": false,
+        "saved": false,
+        "hidden": false,
+        "displayPrices": [
+            {
+                "displayPrice": "\u00a3170,000",
+                "displayPriceQualifier": "Guide Price"
+            }
+        ],
+        "onlineViewing": false,
+        "buildToRent": false,
+        "thumbnailPhotos": [
+            {
+                "url": "https://media.rightmove.co.uk/dir/3k/2085/117321803/2085_TOT105227_IMG_00_0000_max_656x437.jpeg"
+            },
+            {
+                "url": "https://media.rightmove.co.uk/dir/3k/2085/117321803/2085_TOT105227_IMG_05_0000_max_656x437.jpeg"
+            },
+            {
+                "url": "https://media.rightmove.co.uk/dir/3k/2085/117321803/2085_TOT105227_IMG_06_0000_max_656x437.jpeg"
+            },
+            {
+                "url": "https://media.rightmove.co.uk/dir/3k/2085/117321803/2085_TOT105227_IMG_07_0000_max_656x437.jpeg"
+            },
+            {
+                "url": "https://media.rightmove.co.uk/dir/3k/2085/117321803/2085_TOT105227_IMG_08_0000_max_656x437.jpeg"
+            },
+            {
+                "url": "https://media.rightmove.co.uk/dir/3k/2085/117321803/2085_TOT105227_IMG_09_0000_max_656x437.jpeg"
+            },
+            {
+                "url": "https://media.rightmove.co.uk/dir/3k/2085/117321803/2085_TOT105227_IMG_10_0000_max_656x437.jpeg"
+            },
+            {
+                "url": "https://media.rightmove.co.uk/dir/3k/2085/117321803/2085_TOT105227_IMG_11_0000_max_656x437.jpeg"
+            },
+            {
+                "url": "https://media.rightmove.co.uk/dir/3k/2085/117321803/2085_TOT105227_IMG_12_0000_max_656x437.jpeg"
+            },
+            {
+                "url": "https://media.rightmove.co.uk/dir/3k/2085/117321803/2085_TOT105227_IMG_01_0000_max_656x437.jpeg"
+            },
+            {
+                "url": "https://media.rightmove.co.uk/dir/3k/2085/117321803/2085_TOT105227_IMG_02_0000_max_656x437.jpeg"
+            },
+            {
+                "url": "https://media.rightmove.co.uk/dir/3k/2085/117321803/2085_TOT105227_IMG_03_0000_max_656x437.jpeg"
+            },
+            {
+                "url": "https://media.rightmove.co.uk/dir/3k/2085/117321803/2085_TOT105227_IMG_04_0000_max_656x437.jpeg"
+            }
+        ],
+        "keywords": []
+    },
+    {
+        "identifier": 120160631,
+        "visible": true,
+        "price": 169950.0,
+        "priceQualifier": "",
+        "shouldShowPrice": true,
+        "bedrooms": 2,
+        "address": "Beaumont Road, Totton",
+        "latitude": 50.91939,
+        "longitude": -1.48695,
+        "showMap": true,
+        "propertyType": "flat",
+        "development": false,
+        "commercial": false,
+        "updateDate": 1647401719000,
+        "autoEmailReasonType": "new",
+        "transactionTypeId": 1,
+        "sortDate": 1645191361000,
+        "photoThumbnailUrl": "https://media.rightmove.co.uk/dir/10k/9125/120160631/9125_TB76644_IMG_06_0000_max_200x138.jpeg",
+        "photoLargeThumbnailUrl": "https://media.rightmove.co.uk/dir/10k/9125/120160631/9125_TB76644_IMG_06_0000_max_656x437.jpeg",
+        "photoCount": 7,
+        "floorplanCount": 1,
+        "branch": {
+            "identifier": 9125,
+            "name": "Covering Totton",
+            "brandName": "Michael Rhodes",
+            "development": false,
+            "updateDate": 1643819184000,
+            "branchLogo": "https://media.rightmove.co.uk/dir//10k/9125/branch_rmchoice_logo_9125_0002.jpeg",
+            "brandPlusResale": true,
+            "brandPlusLettings": false,
+            "hideReducedPropsFlag": false,
+            "address": "Unit 35, Basepoint Business Centre,\r\nPremier Way,\r\nRomsey,\r\nSO51 9AQ",
+            "telephoneNumbers": [
+                {
+                    "identifier": null,
+                    "label": null,
+                    "number": "02382 200415",
+                    "main": null
+                }
+            ],
+            "contactTelephoneNumber": "02382 200415"
+        },
+        "exactLocationAvailable": false,
+        "distance": 0.7344,
+        "status": null,
+        "dateShortlisted": null,
+        "premiumDisplay": false,
+        "premiumDisplayStickerName": "",
+        "premiumDisplayStyle": 26,
+        "photoThumbnail2Url": null,
+        "photoThumbnail3Url": null,
+        "photoThumbnail4Url": null,
+        "orderFromServer": 17,
+        "showStreetView": true,
+        "overseas": false,
+        "letFurnishType": null,
+        "summary": "Offered with no forward chain. Two bedroom first floor flat conveniently situated in the town centre within walking distance of shops and amenities, bus stops and train station. The accommodation comprises entrance hall, lounge, kitchen, double bedroom, small bedroom/study, bathroom with over bath..",
+        "showLettingFeesMessage": false,
+        "saved": false,
+        "hidden": false,
+        "displayPrices": [
+            {
+                "displayPrice": "\u00a3169,950",
+                "displayPriceQualifier": ""
+            }
+        ],
+        "onlineViewing": false,
+        "buildToRent": false,
+        "thumbnailPhotos": [
+            {
+                "url": "https://media.rightmove.co.uk/dir/10k/9125/120160631/9125_TB76644_IMG_06_0000_max_656x437.jpeg"
+            },
+            {
+                "url": "https://media.rightmove.co.uk/dir/10k/9125/120160631/9125_TB76644_IMG_05_0000_max_656x437.jpeg"
+            },
+            {
+                "url": "https://media.rightmove.co.uk/dir/10k/9125/120160631/9125_TB76644_IMG_02_0000_max_656x437.jpeg"
+            },
+            {
+                "url": "https://media.rightmove.co.uk/dir/10k/9125/120160631/9125_TB76644_IMG_04_0000_max_656x437.jpeg"
+            },
+            {
+                "url": "https://media.rightmove.co.uk/dir/10k/9125/120160631/9125_TB76644_IMG_01_0000_max_656x437.jpeg"
+            },
+            {
+                "url": "https://media.rightmove.co.uk/dir/10k/9125/120160631/9125_TB76644_IMG_00_0000_max_656x437.jpeg"
+            },
+            {
+                "url": "https://media.rightmove.co.uk/dir/10k/9125/120160631/9125_TB76644_IMG_03_0000_max_656x437.jpeg"
+            }
+        ],
+        "keywords": []
+    },
+    {
+        "identifier": 112455485,
+        "visible": true,
+        "price": 165000.0,
+        "priceQualifier": "",
+        "shouldShowPrice": true,
+        "bedrooms": 1,
+        "address": "Popes Court, Southampton, SO40 3GF",
+        "latitude": 50.91855,
+        "longitude": -1.490724,
+        "showMap": true,
+        "propertyType": "flat",
+        "development": false,
+        "commercial": false,
+        "updateDate": 1641465342000,
+        "autoEmailReasonType": "new",
+        "transactionTypeId": 1,
+        "sortDate": 1629971523000,
+        "photoThumbnailUrl": "https://media.rightmove.co.uk/dir/13k/12522/112455485/12522_10989608_IMG_00_0000_max_200x138.jpeg",
+        "photoLargeThumbnailUrl": "https://media.rightmove.co.uk/dir/13k/12522/112455485/12522_10989608_IMG_00_0000_max_656x437.jpeg",
+        "photoCount": 8,
+        "floorplanCount": 1,
+        "branch": {
+            "identifier": 12522,
+            "name": "New Milton",
+            "brandName": "Retirement Homesearch",
+            "development": false,
+            "updateDate": 1641465342000,
+            "branchLogo": "https://media.rightmove.co.uk/dir//company/clogo_rmchoice_4496_0000.png",
+            "brandPlusResale": true,
+            "brandPlusLettings": false,
+            "hideReducedPropsFlag": false,
+            "address": "  \r\n \r\n11 Queensway\r\nNew Milton\r\nBH25 5NR\r\n ",
+            "telephoneNumbers": [
+                {
+                    "identifier": null,
+                    "label": null,
+                    "number": "03339 875067",
+                    "main": null
+                }
+            ],
+            "contactTelephoneNumber": "03339 875067"
+        },
+        "exactLocationAvailable": false,
+        "distance": 0.9032,
+        "status": null,
+        "dateShortlisted": null,
+        "premiumDisplay": false,
+        "premiumDisplayStickerName": "",
+        "premiumDisplayStyle": 26,
+        "photoThumbnail2Url": null,
+        "photoThumbnail3Url": null,
+        "photoThumbnail4Url": null,
+        "orderFromServer": 18,
+        "showStreetView": true,
+        "overseas": false,
+        "letFurnishType": null,
+        "summary": "A LARGER THAN AVERAGE ONE BEDROOM RETIREMENT APARTMENT LOCATED ON THE SECOND FLOOR Popes Court was constructed by McCarthy and Stone and comprisies 49 apartments arranged over 3 floors. The Development Manager can be contacted from various points within each apartment in case of an emergency. F...",
+        "showLettingFeesMessage": false,
+        "saved": false,
+        "hidden": false,
+        "displayPrices": [
+            {
+                "displayPrice": "\u00a3165,000",
+                "displayPriceQualifier": ""
+            }
+        ],
+        "onlineViewing": false,
+        "buildToRent": false,
+        "thumbnailPhotos": [
+            {
+                "url": "https://media.rightmove.co.uk/dir/13k/12522/112455485/12522_10989608_IMG_00_0000_max_656x437.jpeg"
+            },
+            {
+                "url": "https://media.rightmove.co.uk/dir/13k/12522/112455485/12522_10989608_IMG_02_0000_max_656x437.jpeg"
+            },
+            {
+                "url": "https://media.rightmove.co.uk/dir/13k/12522/112455485/12522_10989608_IMG_04_0000_max_656x437.jpeg"
+            },
+            {
+                "url": "https://media.rightmove.co.uk/dir/13k/12522/112455485/12522_10989608_IMG_05_0000_max_656x437.jpeg"
+            },
+            {
+                "url": "https://media.rightmove.co.uk/dir/13k/12522/112455485/12522_10989608_IMG_03_0000_max_656x437.jpeg"
+            },
+            {
+                "url": "https://media.rightmove.co.uk/dir/13k/12522/112455485/12522_10989608_IMG_06_0000_max_656x437.jpeg"
+            },
+            {
+                "url": "https://media.rightmove.co.uk/dir/13k/12522/112455485/12522_10989608_IMG_07_0000_max_656x437.jpeg"
+            },
+            {
+                "url": "https://media.rightmove.co.uk/dir/13k/12522/112455485/12522_10989608_IMG_01_0000_max_656x437.jpeg"
+            }
+        ],
+        "keywords": []
+    },
+    {
+        "identifier": 112548653,
+        "visible": true,
+        "price": 150000.0,
+        "priceQualifier": "",
+        "shouldShowPrice": true,
+        "bedrooms": 2,
+        "address": "Ennerdale Road, Southampton",
+        "latitude": 50.92967,
+        "longitude": -1.45511,
+        "showMap": true,
+        "propertyType": "apartment",
+        "development": false,
+        "commercial": false,
+        "updateDate": 1642760049000,
+        "autoEmailReasonType": "new",
+        "transactionTypeId": 1,
+        "sortDate": 1630069263000,
+        "photoThumbnailUrl": "https://media.rightmove.co.uk/dir/75k/74402/112548653/74402_100692049518_IMG_05_0000_max_200x138.jpeg",
+        "photoLargeThumbnailUrl": "https://media.rightmove.co.uk/dir/75k/74402/112548653/74402_100692049518_IMG_05_0000_max_656x437.jpeg",
+        "photoCount": 8,
+        "floorplanCount": 1,
+        "branch": {
+            "identifier": 74402,
+            "name": "Shirley",
+            "brandName": "Beals",
+            "development": false,
+            "updateDate": 1642760049000,
+            "branchLogo": "https://media.rightmove.co.uk/dir//company/clogo_rmchoice_7424_0002.jpeg",
+            "brandPlusResale": true,
+            "brandPlusLettings": true,
+            "hideReducedPropsFlag": false,
+            "address": "343 Shirley Road,\r\nSouthampton,\r\nSO15 3JD",
+            "telephoneNumbers": [
+                {
+                    "identifier": null,
+                    "label": null,
+                    "number": "02382 200549",
+                    "main": null
+                }
+            ],
+            "contactTelephoneNumber": "02382 200549"
+        },
+        "exactLocationAvailable": false,
+        "distance": 0.9458,
+        "status": null,
+        "dateShortlisted": null,
+        "premiumDisplay": false,
+        "premiumDisplayStickerName": "",
+        "premiumDisplayStyle": 26,
+        "photoThumbnail2Url": null,
+        "photoThumbnail3Url": null,
+        "photoThumbnail4Url": null,
+        "orderFromServer": 19,
+        "showStreetView": true,
+        "overseas": false,
+        "letFurnishType": null,
+        "summary": "This good sized two bedroom apartment is in good condition throughout and is close to local amenities and is set within the Millbrook area. The property benefits from a good sized Lounge, Modern fitted Kitchen, Two double bedrooms and Modern three piece bathroom suite, outside you will find commu...",
+        "showLettingFeesMessage": false,
+        "saved": false,
+        "hidden": false,
+        "displayPrices": [
+            {
+                "displayPrice": "\u00a3150,000",
+                "displayPriceQualifier": ""
+            }
+        ],
+        "onlineViewing": false,
+        "buildToRent": false,
+        "thumbnailPhotos": [
+            {
+                "url": "https://media.rightmove.co.uk/dir/75k/74402/112548653/74402_100692049518_IMG_05_0000_max_656x437.jpeg"
+            },
+            {
+                "url": "https://media.rightmove.co.uk/dir/75k/74402/112548653/74402_100692049518_IMG_04_0000_max_656x437.jpeg"
+            },
+            {
+                "url": "https://media.rightmove.co.uk/dir/75k/74402/112548653/74402_100692049518_IMG_07_0000_max_656x437.jpeg"
+            },
+            {
+                "url": "https://media.rightmove.co.uk/dir/75k/74402/112548653/74402_100692049518_IMG_03_0000_max_656x437.jpeg"
+            },
+            {
+                "url": "https://media.rightmove.co.uk/dir/75k/74402/112548653/74402_100692049518_IMG_01_0000_max_656x437.jpeg"
+            },
+            {
+                "url": "https://media.rightmove.co.uk/dir/75k/74402/112548653/74402_100692049518_IMG_02_0000_max_656x437.jpeg"
+            },
+            {
+                "url": "https://media.rightmove.co.uk/dir/75k/74402/112548653/74402_100692049518_IMG_06_0000_max_656x437.jpeg"
+            },
+            {
+                "url": "https://media.rightmove.co.uk/dir/75k/74402/112548653/74402_100692049518_IMG_00_0000_max_656x437.jpeg"
+            }
+        ],
+        "keywords": []
+    },
+    {
+        "identifier": 120660671,
+        "visible": true,
+        "price": 149950.0,
+        "priceQualifier": "",
+        "shouldShowPrice": true,
+        "bedrooms": 2,
+        "address": "Redbridge Hill, Southampton",
+        "latitude": 50.9265,
+        "longitude": -1.45045,
+        "showMap": true,
+        "propertyType": "apartment",
+        "development": false,
+        "commercial": false,
+        "updateDate": 1646393643000,
+        "autoEmailReasonType": "new",
+        "transactionTypeId": 1,
+        "sortDate": 1646393643000,
+        "photoThumbnailUrl": "https://media.rightmove.co.uk/dir/2k/1671/120660671/1671_SSR309749_IMG_00_0000_max_200x138.jpeg",
+        "photoLargeThumbnailUrl": "https://media.rightmove.co.uk/dir/2k/1671/120660671/1671_SSR309749_IMG_00_0000_max_656x437.jpeg",
+        "photoCount": 12,
+        "floorplanCount": 0,
+        "branch": {
+            "identifier": 1671,
+            "name": "Shirley",
+            "brandName": "Connells",
+            "development": false,
+            "updateDate": 1632211706000,
+            "branchLogo": "https://media.rightmove.co.uk/dir//company/clogo_rmchoice_43_0001.jpeg",
+            "brandPlusResale": true,
+            "brandPlusLettings": false,
+            "hideReducedPropsFlag": false,
+            "address": "409 Shirley Road, \r\nShirley, \r\nSouthampton, \r\nHampshire, SO15 3JD",
+            "telephoneNumbers": [
+                {
+                    "identifier": null,
+                    "label": null,
+                    "number": "02382 200363",
+                    "main": null
+                }
+            ],
+            "contactTelephoneNumber": "02382 200363"
+        },
+        "exactLocationAvailable": false,
+        "distance": 0.9767,
+        "status": null,
+        "dateShortlisted": null,
+        "premiumDisplay": false,
+        "premiumDisplayStickerName": "",
+        "premiumDisplayStyle": 26,
+        "photoThumbnail2Url": null,
+        "photoThumbnail3Url": null,
+        "photoThumbnail4Url": null,
+        "orderFromServer": 20,
+        "showStreetView": true,
+        "overseas": false,
+        "letFurnishType": null,
+        "summary": "A TWO STOREY FLAT offered for sale with NO ONWARD CHAIN. Benefits include double glazed windows, a fitted Kitchen with solid maple cupboard doors, a Lounge with door to BALCONY, two Bedrooms and a fitted Bathroom. The property is in great condition and has been TOTALLY RENOVATED throughout.",
+        "showLettingFeesMessage": false,
+        "saved": false,
+        "hidden": false,
+        "displayPrices": [
+            {
+                "displayPrice": "\u00a3149,950",
+                "displayPriceQualifier": ""
+            }
+        ],
+        "onlineViewing": false,
+        "buildToRent": false,
+        "thumbnailPhotos": [
+            {
+                "url": "https://media.rightmove.co.uk/dir/2k/1671/120660671/1671_SSR309749_IMG_00_0000_max_656x437.jpeg"
+            },
+            {
+                "url": "https://media.rightmove.co.uk/dir/2k/1671/120660671/1671_SSR309749_IMG_04_0000_max_656x437.jpeg"
+            },
+            {
+                "url": "https://media.rightmove.co.uk/dir/2k/1671/120660671/1671_SSR309749_IMG_05_0000_max_656x437.jpeg"
+            },
+            {
+                "url": "https://media.rightmove.co.uk/dir/2k/1671/120660671/1671_SSR309749_IMG_06_0000_max_656x437.jpeg"
+            },
+            {
+                "url": "https://media.rightmove.co.uk/dir/2k/1671/120660671/1671_SSR309749_IMG_07_0000_max_656x437.jpeg"
+            },
+            {
+                "url": "https://media.rightmove.co.uk/dir/2k/1671/120660671/1671_SSR309749_IMG_08_0000_max_656x437.jpeg"
+            },
+            {
+                "url": "https://media.rightmove.co.uk/dir/2k/1671/120660671/1671_SSR309749_IMG_09_0000_max_656x437.jpeg"
+            },
+            {
+                "url": "https://media.rightmove.co.uk/dir/2k/1671/120660671/1671_SSR309749_IMG_10_0000_max_656x437.jpeg"
+            },
+            {
+                "url": "https://media.rightmove.co.uk/dir/2k/1671/120660671/1671_SSR309749_IMG_11_0000_max_656x437.jpeg"
+            },
+            {
+                "url": "https://media.rightmove.co.uk/dir/2k/1671/120660671/1671_SSR309749_IMG_01_0000_max_656x437.jpeg"
+            },
+            {
+                "url": "https://media.rightmove.co.uk/dir/2k/1671/120660671/1671_SSR309749_IMG_02_0000_max_656x437.jpeg"
+            },
+            {
+                "url": "https://media.rightmove.co.uk/dir/2k/1671/120660671/1671_SSR309749_IMG_03_0000_max_656x437.jpeg"
+            }
+        ],
+        "keywords": []
+    },
+    {
+        "identifier": 119251049,
+        "visible": true,
+        "price": 145000.0,
+        "priceQualifier": "",
+        "shouldShowPrice": true,
+        "bedrooms": 1,
+        "address": "Popes Court, Water Lane, SO40",
+        "latitude": 50.9185,
+        "longitude": -1.4908,
+        "showMap": true,
+        "propertyType": "retirement property",
+        "development": false,
+        "commercial": false,
+        "updateDate": 1646838857000,
+        "autoEmailReasonType": "price_reduced",
+        "transactionTypeId": 1,
+        "sortDate": 1633965507000,
+        "photoThumbnailUrl": "https://media.rightmove.co.uk/dir/137k/136748/119251049/136748_Popcrt_IMG_08_0000_max_200x138.jpeg",
+        "photoLargeThumbnailUrl": "https://media.rightmove.co.uk/dir/137k/136748/119251049/136748_Popcrt_IMG_08_0000_max_656x437.jpeg",
+        "photoCount": 10,
+        "floorplanCount": 1,
+        "branch": {
+            "identifier": 136748,
+            "name": "Totton",
+            "brandName": "Hamwic Independent Estate Agents",
+            "development": false,
+            "updateDate": 1636108657000,
+            "branchLogo": "https://media.rightmove.co.uk/dir//company/clogo_rmchoice_43085_0000.png",
+            "brandPlusResale": true,
+            "brandPlusLettings": false,
+            "hideReducedPropsFlag": false,
+            "address": "3-4 Salisbury Road,\r\nTotton,\r\nSO40 3PY",
+            "telephoneNumbers": [
+                {
+                    "identifier": null,
+                    "label": null,
+                    "number": "02380 663999",
+                    "main": null
+                }
+            ],
+            "contactTelephoneNumber": "02380 663999"
+        },
+        "exactLocationAvailable": false,
+        "distance": 0.9068,
+        "status": null,
+        "dateShortlisted": null,
+        "premiumDisplay": true,
+        "premiumDisplayStickerName": "Retirement",
+        "premiumDisplayStyle": 73,
+        "photoThumbnail2Url": "https://media.rightmove.co.uk/dir/137k/136748/119251049/136748_Popcrt_IMG_05_0000_max_200x138.jpeg",
+        "photoThumbnail3Url": "https://media.rightmove.co.uk/dir/137k/136748/119251049/136748_Popcrt_IMG_03_0000_max_200x138.jpeg",
+        "photoThumbnail4Url": "https://media.rightmove.co.uk/dir/137k/136748/119251049/136748_Popcrt_IMG_04_0000_max_200x138.jpeg",
+        "orderFromServer": 21,
+        "showStreetView": true,
+        "overseas": false,
+        "letFurnishType": null,
+        "summary": "Popes Court was constructed by McCarthy & Stone and comprises of 49 apartments arranged over 3 floors. The House Manager can be contacted from various points within each apartment in case of an emergency. For periods when the House Manager is not available there is a 24 hour emergency care line. Eac",
+        "showLettingFeesMessage": false,
+        "saved": false,
+        "hidden": false,
+        "displayPrices": [
+            {
+                "displayPrice": "\u00a3145,000",
+                "displayPriceQualifier": ""
+            }
+        ],
+        "onlineViewing": false,
+        "buildToRent": false,
+        "thumbnailPhotos": [
+            {
+                "url": "https://media.rightmove.co.uk/dir/137k/136748/119251049/136748_Popcrt_IMG_08_0000_max_656x437.jpeg"
+            },
+            {
+                "url": "https://media.rightmove.co.uk/dir/137k/136748/119251049/136748_Popcrt_IMG_05_0000_max_656x437.jpeg"
+            },
+            {
+                "url": "https://media.rightmove.co.uk/dir/137k/136748/119251049/136748_Popcrt_IMG_03_0000_max_656x437.jpeg"
+            },
+            {
+                "url": "https://media.rightmove.co.uk/dir/137k/136748/119251049/136748_Popcrt_IMG_04_0000_max_656x437.jpeg"
+            },
+            {
+                "url": "https://media.rightmove.co.uk/dir/137k/136748/119251049/136748_Popcrt_IMG_02_0000_max_656x437.jpeg"
+            },
+            {
+                "url": "https://media.rightmove.co.uk/dir/137k/136748/119251049/136748_Popcrt_IMG_07_0000_max_656x437.jpeg"
+            },
+            {
+                "url": "https://media.rightmove.co.uk/dir/137k/136748/119251049/136748_Popcrt_IMG_00_0000_max_656x437.jpeg"
+            },
+            {
+                "url": "https://media.rightmove.co.uk/dir/137k/136748/119251049/136748_Popcrt_IMG_06_0000_max_656x437.jpeg"
+            },
+            {
+                "url": "https://media.rightmove.co.uk/dir/137k/136748/119251049/136748_Popcrt_IMG_01_0000_max_656x437.jpeg"
+            },
+            {
+                "url": "https://media.rightmove.co.uk/dir/137k/136748/119251049/136748_Popcrt_IMG_09_0000_max_656x437.jpeg"
+            }
+        ],
+        "keywords": []
+    },
+    {
+        "identifier": 110608175,
+        "visible": true,
+        "price": 145000.0,
+        "priceQualifier": "Guide Price",
+        "shouldShowPrice": true,
+        "bedrooms": 1,
+        "address": "Popes Court, Southampton, SO40 3GF",
+        "latitude": 50.91855,
+        "longitude": -1.490724,
+        "showMap": true,
+        "propertyType": "flat",
+        "development": false,
+        "commercial": false,
+        "updateDate": 1641465342000,
+        "autoEmailReasonType": "price_reduced",
+        "transactionTypeId": 1,
+        "sortDate": 1634060403000,
+        "photoThumbnailUrl": "https://media.rightmove.co.uk/dir/13k/12522/110608175/12522_10994607_IMG_01_0000_max_200x138.jpeg",
+        "photoLargeThumbnailUrl": "https://media.rightmove.co.uk/dir/13k/12522/110608175/12522_10994607_IMG_01_0000_max_656x437.jpeg",
+        "photoCount": 11,
+        "floorplanCount": 1,
+        "branch": {
+            "identifier": 12522,
+            "name": "New Milton",
+            "brandName": "Retirement Homesearch",
+            "development": false,
+            "updateDate": 1641465342000,
+            "branchLogo": "https://media.rightmove.co.uk/dir//company/clogo_rmchoice_4496_0000.png",
+            "brandPlusResale": true,
+            "brandPlusLettings": false,
+            "hideReducedPropsFlag": false,
+            "address": "  \r\n \r\n11 Queensway\r\nNew Milton\r\nBH25 5NR\r\n ",
+            "telephoneNumbers": [
+                {
+                    "identifier": null,
+                    "label": null,
+                    "number": "03339 875067",
+                    "main": null
+                }
+            ],
+            "contactTelephoneNumber": "03339 875067"
+        },
+        "exactLocationAvailable": false,
+        "distance": 0.9032,
+        "status": null,
+        "dateShortlisted": null,
+        "premiumDisplay": false,
+        "premiumDisplayStickerName": "",
+        "premiumDisplayStyle": 26,
+        "photoThumbnail2Url": null,
+        "photoThumbnail3Url": null,
+        "photoThumbnail4Url": null,
+        "orderFromServer": 22,
+        "showStreetView": true,
+        "overseas": false,
+        "letFurnishType": null,
+        "summary": "A ONE BEDROOM RETIREMENT APARTMENT LOCATED ON THE FIRST FLOOR Popes Court was constructed by McCarthy and Stone and comprisies 49 apartments arranged over 3 floors. The Development Manager can be contacted from various points within each apartment in case of an emergency. For periods when the D...",
+        "showLettingFeesMessage": false,
+        "saved": false,
+        "hidden": false,
+        "displayPrices": [
+            {
+                "displayPrice": "\u00a3145,000",
+                "displayPriceQualifier": "Guide Price"
+            }
+        ],
+        "onlineViewing": false,
+        "buildToRent": false,
+        "thumbnailPhotos": [
+            {
+                "url": "https://media.rightmove.co.uk/dir/13k/12522/110608175/12522_10994607_IMG_01_0000_max_656x437.jpeg"
+            },
+            {
+                "url": "https://media.rightmove.co.uk/dir/13k/12522/110608175/12522_10994607_IMG_02_0000_max_656x437.jpeg"
+            },
+            {
+                "url": "https://media.rightmove.co.uk/dir/13k/12522/110608175/12522_10994607_IMG_03_0000_max_656x437.jpeg"
+            },
+            {
+                "url": "https://media.rightmove.co.uk/dir/13k/12522/110608175/12522_10994607_IMG_04_0000_max_656x437.jpeg"
+            },
+            {
+                "url": "https://media.rightmove.co.uk/dir/13k/12522/110608175/12522_10994607_IMG_05_0000_max_656x437.jpeg"
+            },
+            {
+                "url": "https://media.rightmove.co.uk/dir/13k/12522/110608175/12522_10994607_IMG_06_0000_max_656x437.jpeg"
+            },
+            {
+                "url": "https://media.rightmove.co.uk/dir/13k/12522/110608175/12522_10994607_IMG_07_0000_max_656x437.jpeg"
+            },
+            {
+                "url": "https://media.rightmove.co.uk/dir/13k/12522/110608175/12522_10994607_IMG_00_0000_max_656x437.jpeg"
+            },
+            {
+                "url": "https://media.rightmove.co.uk/dir/13k/12522/110608175/12522_10994607_IMG_08_0000_max_656x437.jpeg"
+            },
+            {
+                "url": "https://media.rightmove.co.uk/dir/13k/12522/110608175/12522_10994607_IMG_09_0000_max_656x437.jpeg"
+            },
+            {
+                "url": "https://media.rightmove.co.uk/dir/13k/12522/110608175/12522_10994607_IMG_10_0000_max_656x437.jpeg"
+            }
+        ],
+        "keywords": []
+    },
+    {
+        "identifier": 109830314,
+        "visible": true,
+        "price": 140000.0,
+        "priceQualifier": "",
+        "shouldShowPrice": true,
+        "bedrooms": 1,
+        "address": "Springdale Court, 16 Water Lane, Totton, Southampton, SO40",
+        "latitude": 50.91893,
+        "longitude": -1.4912,
+        "showMap": true,
+        "propertyType": "flat",
+        "development": false,
+        "commercial": false,
+        "updateDate": 1647128980000,
+        "autoEmailReasonType": "price_reduced",
+        "transactionTypeId": 1,
+        "sortDate": 1647128980000,
+        "photoThumbnailUrl": "https://media.rightmove.co.uk/dir/1k/698/109830314/698_MTN210271_IMG_00_0001_max_200x138.jpeg",
+        "photoLargeThumbnailUrl": "https://media.rightmove.co.uk/dir/1k/698/109830314/698_MTN210271_IMG_00_0001_max_656x437.jpeg",
+        "photoCount": 10,
+        "floorplanCount": 1,
+        "branch": {
+            "identifier": 698,
+            "name": "Totton",
+            "brandName": "Mann",
+            "development": false,
+            "updateDate": 1633025041000,
+            "branchLogo": "https://media.rightmove.co.uk/dir//brand/brand_rmchoice_logo_22_0000.jpeg",
+            "brandPlusResale": true,
+            "brandPlusLettings": false,
+            "hideReducedPropsFlag": false,
+            "address": "15 Salisbury Road\r\nTotton\r\nSouthampton\r\nSO40 3HX ",
+            "telephoneNumbers": [
+                {
+                    "identifier": null,
+                    "label": null,
+                    "number": "02382 200360",
+                    "main": null
+                }
+            ],
+            "contactTelephoneNumber": "02382 200360"
+        },
+        "exactLocationAvailable": false,
+        "distance": 0.9217,
+        "status": null,
+        "dateShortlisted": null,
+        "premiumDisplay": false,
+        "premiumDisplayStickerName": "",
+        "premiumDisplayStyle": 26,
+        "photoThumbnail2Url": null,
+        "photoThumbnail3Url": null,
+        "photoThumbnail4Url": null,
+        "orderFromServer": 23,
+        "showStreetView": true,
+        "overseas": false,
+        "letFurnishType": null,
+        "summary": "No Chain! Mann Countrywide present for sale a one bedroom ground floor apartment (with resident warden and 24 hour careline) for the over 55s in Springdale Court (a managed block with a lift) in the centre of Totton. The property benefits from a hall, living room, kitchen, bedroom (with built in ...",
+        "showLettingFeesMessage": false,
+        "saved": false,
+        "hidden": false,
+        "displayPrices": [
+            {
+                "displayPrice": "\u00a3140,000",
+                "displayPriceQualifier": ""
+            }
+        ],
+        "onlineViewing": false,
+        "buildToRent": false,
+        "thumbnailPhotos": [
+            {
+                "url": "https://media.rightmove.co.uk/dir/1k/698/109830314/698_MTN210271_IMG_00_0001_max_656x437.jpeg"
+            },
+            {
+                "url": "https://media.rightmove.co.uk/dir/1k/698/109830314/698_MTN210271_IMG_01_0001_max_656x437.jpeg"
+            },
+            {
+                "url": "https://media.rightmove.co.uk/dir/1k/698/109830314/698_MTN210271_IMG_02_0001_max_656x437.jpeg"
+            },
+            {
+                "url": "https://media.rightmove.co.uk/dir/1k/698/109830314/698_MTN210271_IMG_03_0001_max_656x437.jpeg"
+            },
+            {
+                "url": "https://media.rightmove.co.uk/dir/1k/698/109830314/698_MTN210271_IMG_04_0001_max_656x437.jpeg"
+            },
+            {
+                "url": "https://media.rightmove.co.uk/dir/1k/698/109830314/698_MTN210271_IMG_05_0001_max_656x437.jpeg"
+            },
+            {
+                "url": "https://media.rightmove.co.uk/dir/1k/698/109830314/698_MTN210271_IMG_06_0001_max_656x437.jpeg"
+            },
+            {
+                "url": "https://media.rightmove.co.uk/dir/1k/698/109830314/698_MTN210271_IMG_07_0001_max_656x437.jpeg"
+            },
+            {
+                "url": "https://media.rightmove.co.uk/dir/1k/698/109830314/698_MTN210271_IMG_08_0001_max_656x437.jpeg"
+            },
+            {
+                "url": "https://media.rightmove.co.uk/dir/1k/698/109830314/698_MTN210271_IMG_09_0001_max_656x437.jpeg"
+            }
+        ],
+        "keywords": []
+    },
+    {
+        "identifier": 120742565,
+        "visible": true,
+        "price": 137500.0,
+        "priceQualifier": "",
+        "shouldShowPrice": true,
+        "bedrooms": 2,
+        "address": "Wimpson Lane, Southampton, SO16",
+        "latitude": 50.92526,
+        "longitude": -1.45274,
+        "showMap": true,
+        "propertyType": "flat",
+        "development": false,
+        "commercial": false,
+        "updateDate": 1647347911000,
+        "autoEmailReasonType": "price_reduced",
+        "transactionTypeId": 1,
+        "sortDate": 1647347911000,
+        "photoThumbnailUrl": "https://media.rightmove.co.uk/dir/152k/151583/120742565/151583_151583_83_IMG_00_0001_max_200x138.jpeg",
+        "photoLargeThumbnailUrl": "https://media.rightmove.co.uk/dir/152k/151583/120742565/151583_151583_83_IMG_00_0001_max_656x437.jpeg",
+        "photoCount": 6,
+        "floorplanCount": 0,
+        "branch": {
+            "identifier": 151583,
+            "name": "Woolston",
+            "brandName": "Lets Sell Southampton",
+            "development": false,
+            "updateDate": 1644242512000,
+            "branchLogo": "https://media.rightmove.co.uk/dir//152k/151583/branch_rmchoice_logo_151583_0001.png",
+            "brandPlusResale": true,
+            "brandPlusLettings": false,
+            "hideReducedPropsFlag": false,
+            "address": "20 Portsmouth Road,\r\nSouthampton,\r\nSO19 9AB",
+            "telephoneNumbers": [
+                {
+                    "identifier": null,
+                    "label": null,
+                    "number": "02382 200092",
+                    "main": null
+                }
+            ],
+            "contactTelephoneNumber": "02382 200092"
+        },
+        "exactLocationAvailable": false,
+        "distance": 0.8485,
+        "status": null,
+        "dateShortlisted": null,
+        "premiumDisplay": false,
+        "premiumDisplayStickerName": "",
+        "premiumDisplayStyle": 26,
+        "photoThumbnail2Url": null,
+        "photoThumbnail3Url": null,
+        "photoThumbnail4Url": null,
+        "orderFromServer": 24,
+        "showStreetView": true,
+        "overseas": false,
+        "letFurnishType": null,
+        "summary": "**NO FORWARD CHAIN** We are pleased to offer for sale this two bedroom second floor flat in Maybush close to the General Hospital. The property comprises lounge/diner, kitchen, two double bedrooms and family bathroom. The property also benefits from electric heating, double glazing balcony.",
+        "showLettingFeesMessage": false,
+        "saved": false,
+        "hidden": false,
+        "displayPrices": [
+            {
+                "displayPrice": "\u00a3137,500",
+                "displayPriceQualifier": ""
+            }
+        ],
+        "onlineViewing": false,
+        "buildToRent": false,
+        "thumbnailPhotos": [
+            {
+                "url": "https://media.rightmove.co.uk/dir/152k/151583/120742565/151583_151583_83_IMG_00_0001_max_656x437.jpeg"
+            },
+            {
+                "url": "https://media.rightmove.co.uk/dir/152k/151583/120742565/151583_151583_83_IMG_01_0001_max_656x437.jpeg"
+            },
+            {
+                "url": "https://media.rightmove.co.uk/dir/152k/151583/120742565/151583_151583_83_IMG_02_0001_max_656x437.jpeg"
+            },
+            {
+                "url": "https://media.rightmove.co.uk/dir/152k/151583/120742565/151583_151583_83_IMG_03_0001_max_656x437.jpeg"
+            },
+            {
+                "url": "https://media.rightmove.co.uk/dir/152k/151583/120742565/151583_151583_83_IMG_04_0001_max_656x437.jpeg"
+            },
+            {
+                "url": "https://media.rightmove.co.uk/dir/152k/151583/120742565/151583_151583_83_IMG_05_0003_max_656x437.jpeg"
+            }
+        ],
+        "keywords": []
+    }
+]
